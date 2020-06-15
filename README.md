@@ -6,6 +6,8 @@ O Núcleo de Estudos e Pesquisa em Zoneamento Ambiental Produtivo foi criado em 
 
 ![](https://github.com/Gorgens/nepzap/blob/master/img/fluxo_trabalho.png)
 
+![](.img/fluxo_trabalho.png)
+
 ### Disponibilidade Hídrica
 
 ### Unidades de Paisagem

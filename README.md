@@ -2,7 +2,9 @@
 
 O Núcleo de Estudos e Pesquisa em Zoneamento Ambiental Produtivo foi criado em 2020 com a missão de contribuir para a uso sustentável dos recursos naturais. O NEPZAP/UFVJM atua principalmente nas regiões norte e vales do Jequitinhoha e Mucuri.
 
-## Entregas
+## Fluxograma
+
+![GitHub Logo](/images/logo.png)
 
 ### Disponibilidade Hídrica
 

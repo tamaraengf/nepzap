@@ -4,7 +4,7 @@ O Núcleo de Estudos e Pesquisa em Zoneamento Ambiental Produtivo foi criado em 
 
 ## Fluxograma
 
-![GitHub Logo](/images/logo.png)
+![FluxoTrabaho](/img/fluxo_trabalho.png | width=250)
 
 ### Disponibilidade Hídrica
 

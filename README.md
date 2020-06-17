@@ -4,7 +4,7 @@ O Núcleo de Estudos e Pesquisa em Zoneamento Ambiental Produtivo foi criado em 
 
 ## ZAP realizado
 
-- Ribeirão Santanta (município de Felício dos Santos) [https://gorgens.github.io/nepzap/ribSantana/ribSantana]
+- Ribeirão Santanta (município de Felício dos Santos) [link](https://gorgens.github.io/nepzap/ribSantana/ribSantana)
 
 ## Fluxograma de trabalho
 

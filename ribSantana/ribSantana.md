@@ -75,6 +75,8 @@ O mapeamento do uso e ocupação do solo foi elaborado através de processamento
 
 As Unidades de Paisagem da sub-bacia do Ribeirão Santana foram caracterizadas por 9 (nove) classes: afloramento, anfiteatro, colina de topo alongado, complexo côncavo convexo, superfícies tabulares, planícies e terraços fluviais, vale em v encaixado, vertentes ravinadas e vertentes retilíneas, das quais fundamentam a metodologia de caracterização integrada do meio físico e inferências aos meios biótico e antrópico, culminando com a adequação ambiental e produtiva deste compartimento geográfico.
 
+![](imagem.png)
+
 #### Afloramento
 
 Ocorrência: Porção sul da bacia; grande distribuição areal; vincula-se à quartzitos do Supergrupo Espinhaço; Região mais elevada (cotas entre 1740 a 900m). Limita-se com as Vertentes Ravinadas e contém Vales Encaixados;	De escarpas a rampas rochosas, com mergulho preferencial para Leste que condicionam uma hidrografia local dos tipos Subsequentes (determinados por zonas de fraquezas) e consequentes condicionados pelo mergulho da camada litológica.
@@ -85,21 +87,21 @@ Tipo de solo: Neossolo litólico;
 
 Potencialidades:
 
-1 - Beleza cênica
-2 - Sítios de Geodiversidade 
-3 - Aquíferos fraturados	
+1. Beleza cênica
+2. Sítios de Geodiversidade 
+3. Aquíferos fraturados	
 
 Limitações:
 
-1 - Acessibilidade
-2 - Relevo acidentado
-3 - Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
-4 - Solos com baixa fertilidade	
+1. Acessibilidade
+2. Relevo acidentado
+3. Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+4. Solos com baixa fertilidade	
 
 Aptidões:
 
-1 - Pesquisas científicas em Campos Rupestres
-2 - Ecoturismo
+1. Pesquisas científicas em Campos Rupestres
+2. Ecoturismo
 
 #### Anfiteatro
 
@@ -111,18 +113,18 @@ Tipo de solo: Argissolo e Cambissolos
 
 Potencialidades:
 
-1 - Boas condições hídricas por ser área de concentração de águas pluviais
+1. Boas condições hídricas por ser área de concentração de águas pluviais
 
 Limitações:
 
-1 - Susceptibilidade à erosão
-2 – Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
+1. Susceptibilidade à erosão
+2. Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
 
 Aptidões
 
-1 - Agropecuária
-2 - Áreas de preservação permanente (nascentes)
-3 - Culturas anuais e/ou sazonais, incluindo capineiras
+1. Agropecuária
+2. Áreas de preservação permanente (nascentes)
+3. Culturas anuais e/ou sazonais, incluindo capineiras
 
 #### Colinas de topo alongado	
 
@@ -134,21 +136,21 @@ Tipo de solo: Predominância de Argissolo podendo ocorrer Latossolos
 
 Potencialidades:
 
-1 - Relevo suave
-2 - Solos profundos
-3 - Áreas de Recarga
+1. Relevo suave
+2. Solos profundos
+3. Áreas de Recarga
 
 Limitações:
 
-1 - Uso limitado por ser topo de morro (Código Florestal)
-2 - Predisposição a processos erosivos principalmente nas áreas de Argissolos
-3 - Solos com baixa fertilidade
+1. Uso limitado por ser topo de morro (Código Florestal)
+2. Predisposição a processos erosivos principalmente nas áreas de Argissolos
+3. Solos com baixa fertilidade
 
 Aptidões
 
-1 - Áreas de preservação permanente do tipo Topo de Morro
-2 - Manutenção de vegetação nativa (Floresta Estacional Semi-Decidual)
-3 - Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura
+1. Áreas de preservação permanente do tipo Topo de Morro
+2. Manutenção de vegetação nativa (Floresta Estacional Semi-Decidual)
+3. Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
 #### Complexo côncavo convexo	
 
@@ -160,22 +162,22 @@ Tipo de solo: Argissolos, Cambissolos e Neossolo Litólico
 
 Potencialidades:
 
-1 - Recursos hídricos superficiais abundantes
-2 - O contato com outras unidades de paisagem potencializa: preservação ambiental pela presença de nascentes nos contatos com as Superfícies Tabulares e Colinas de Topo Alongado
-3 - Agriculturas sazonais e perenes quanto em contato com Terraços e Planícies Fluviais
+1. Recursos hídricos superficiais abundantes
+2. O contato com outras unidades de paisagem potencializa: preservação ambiental pela presença de nascentes nos contatos com as Superfícies Tabulares e Colinas de Topo Alongado
+3. Agriculturas sazonais e perenes quanto em contato com Terraços e Planícies Fluviais
 
 Limitações:
 
-1 - Relevo acidentado
-2 - Solos rasos e suscetibilidade à erosão (Laminar e Sulco)
-3 – Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
+1. Relevo acidentado
+2. Solos rasos e suscetibilidade à erosão (Laminar e Sulco)
+3. Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
 
 Aptidões:
 
-1 - Áreas de preservação quando próximas às Superfícies Tabulares, Vertentes Ravinadas e Colinas de Topo Alongado
-2 - Área de recarga de aquífero
-3 - Culturas permanentes quando relevo é suavizado, próximo a unidade Terraços e Planícies Fluviais
-4 - Apicultura, Culturas permanentes. Pastagens, silvicultura, fruticultura arbórea, cafeicultura
+1. Áreas de preservação quando próximas às Superfícies Tabulares, Vertentes Ravinadas e Colinas de Topo Alongado
+2. Área de recarga de aquífero
+3. Culturas permanentes quando relevo é suavizado, próximo a unidade Terraços e Planícies Fluviais
+4. Apicultura, Culturas permanentes. Pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
 #### Superfícies tabulares	
 
@@ -187,20 +189,20 @@ Tipo de solo: Latossolo vermelho
 
 Potencialidades:
 
-1 - Solo profundo, permeável, com aquíferos alçados devido a presença de horizontes lateríticos
-2 - Relevo plano que permite mecanização
-3 - Pesquisa científica 
-4 - Recarga da bacia
+1. Solo profundo, permeável, com aquíferos alçados devido a presença de horizontes lateríticos
+2. Relevo plano que permite mecanização
+3. Pesquisa científica 
+4. Recarga da bacia
 
 Limitações:
 
-1 - Solos com baixa fertilidade, elevada acidez
-2 - Escassez de recurso hídrico superficial
+1. Solos com baixa fertilidade, elevada acidez
+2. Escassez de recurso hídrico superficial
 
 Aptidões
 
-1 - Extrativismo vegetal e pecuária extensiva (usos tradicionais)
-2 - Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura
+1. Extrativismo vegetal e pecuária extensiva (usos tradicionais)
+2. Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
 #### Planícies e terraços fluviais	
 
@@ -212,21 +214,21 @@ Tipo de solo: Solos sedimentares predominando Neossolo Flúvico, Gleissolos nas 
 
 Potencialidades:
 
-1 - Recurso hídrico superficial disponível
-2 - Relevo plano (planície) e, ou pouco declivoso (terraços)
+1. Recurso hídrico superficial disponível
+2. Relevo plano (planície) e, ou pouco declivoso (terraços)
 
 Limitações:
 
-1 - Planícies com suscetibilidades às ocorrências de inundações periódicas e encharcamento dos solos
-2 - Redução de áreas para uso e ocupação da vegetação ciliar
-3 - Presença de solos de média, podendo atingir, alta fertilidade
+1. Planícies com suscetibilidades às ocorrências de inundações periódicas e encharcamento dos solos
+2. Redução de áreas para uso e ocupação da vegetação ciliar
+3. Presença de solos de média, podendo atingir, alta fertilidade
 
 Aptidões:
 
-1 - Nas planícies culturas anuais de entressafra
-2 - Preservação de nascentes difusas
-3 - Terraços agropecuária e expansão urbana
-4 - Áreas aptas a preservação permanente, inclusive vegetação ciliar
+1. Nas planícies culturas anuais de entressafra
+2. Preservação de nascentes difusas
+3. Terraços agropecuária e expansão urbana
+4. Áreas aptas a preservação permanente, inclusive vegetação ciliar
 
 #### Vales em V encaixado	
 
@@ -238,20 +240,20 @@ Tipo de solo: Neossolo Litólico
 
 Potencialidades:
 
-1 - Área do curso principal do Rib. Santana e tributários que estão em planos de fratura dos quartzitos (nascentes)
+1. Área do curso principal do Rib. Santana e tributários que estão em planos de fratura dos quartzitos (nascentes)
 
 Limitações:
 
-1 - Relevo fortemente acidentado
-2 - Difícil acesso
-3 – Declividade acentuada (45 a 75%)
-4- Solos com baixa fertilidade
+1. Relevo fortemente acidentado
+2. Difícil acesso
+3. Declividade acentuada (45 a 75%)
+4. Solos com baixa fertilidade
 
 Aptidões:
 
-1 - Áreas para preservação permanente e proteção de nascentes
-2 – Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
-3 – Beleza Cênica
+1. Áreas para preservação permanente e proteção de nascentes
+2. Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+3. Beleza Cênica
 
 #### Vertentes ravinadas	
 
@@ -263,26 +265,26 @@ Tipo de solo: Cambissolo e Neossolo Litólico
 
 Potencialidades: 
 
-1 - Recursos hídricos superficiais decorrentes de surgência de aquíferos
-2 - O contato com as outras unidades de paisagem ocasionam distintas potencialidades para esta unidade
-3 - Preservação ambiental e uso recreativo em contato com unidades de Afloramento Rochoso e Vale Encaixado
-4 - Agriculturas sazonais e perenes no contato com Complexo Côncaco-Convexo e Terraços e Planícies Fluviais
-5 - Aptidão para pecuária no restante da unidade
+1. Recursos hídricos superficiais decorrentes de surgência de aquíferos
+2. O contato com as outras unidades de paisagem ocasionam distintas potencialidades para esta unidade
+3. Preservação ambiental e uso recreativo em contato com unidades de Afloramento Rochoso e Vale Encaixado
+4. Agriculturas sazonais e perenes no contato com Complexo Côncaco-Convexo e Terraços e Planícies Fluviais
+5. Aptidão para pecuária no restante da unidade
 
 Limitações:
 
-1- Os solos das vertentes apresentam baixos graus de desenvolvimento e, consequentemente, elevadas instabilidades mecânicas e devem ser mantidos nas condições naturais
-2 - Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%
-3 -Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
-4 – Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
+1. Os solos das vertentes apresentam baixos graus de desenvolvimento e, consequentemente, elevadas instabilidades mecânicas e devem ser mantidos nas condições naturais
+2. Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%
+3. Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+4. Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
 
 Aptidões:
 
-1 - Áreas de preservação (nascentes e áreas com declividade superior 45º)
-2 - Pastagem
-3 - Extrativismo vegetal (coleta) nas áreas com vegetação nativa
-4 - Pontualmente: uso recreativo (Lageado)
-5 - Apresentam possibilidades para instalações de pequenos barramentos para aproveitamento das águas pluviais, com ganhos de volumes de água em profundidade com um mínimo de lâmina d’água
+1. Áreas de preservação (nascentes e áreas com declividade superior 45º)
+2. Pastagem
+3. Extrativismo vegetal (coleta) nas áreas com vegetação nativa
+4. Pontualmente: uso recreativo (Lageado)
+5. Apresentam possibilidades para instalações de pequenos barramentos para aproveitamento das águas pluviais, com ganhos de volumes de água em profundidade com um mínimo de lâmina d’água
 
 #### Vertentes retilíneas	
 
@@ -294,30 +296,28 @@ Tipo de solo: Predominância Argissolo podendo ocorrer Latossolos.
 
 Potencialidades:
 
-1 - Solos profundos
-2 – Mecanização agrícola
+1. Solos profundos
+2. Mecanização agrícola
 
 Limitações:
 
-1 – Argissolos são susceptíveis à compactação por uso de máquinas ou pisoteio de animais
-2 – Fisiografia com alta susceptibilidade de processos de erosão Pluvial (laminar e sulco)
-3 - Morfogênese vinculada a movimentos gravitacionais
-4 - Solos com baixa fertilidade
+1. Argissolos são susceptíveis à compactação por uso de máquinas ou pisoteio de animais
+2. Fisiografia com alta susceptibilidade de processos de erosão Pluvial (laminar e sulco)
+3. Morfogênese vinculada a movimentos gravitacionais
+4. Solos com baixa fertilidade
 
 Aptidões:
 
-1 - Agropecuária
-2 - Culturas anuais
-3 - Pastagens, silvicultura, fruticultura e capineiras sob sistemas de controle de erosão
-4 - Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
-
-![](imagem.png)
-
-[Atualizar informações] O quadro 2 apresenta um resumo das Unidades de Paisagem que conta com a representatividade na sub-bacia, aptidões e limitações de cada. Dentre as unidades, observa-se ocorrências expressivas de Superfície Tabular com áreas extensas, representando cerca de 44 \% da sub-bacia, relevo plano a suavemente ondulado onde podem ser desenvolvidos cultivos de culturas anuais, com potencial para irrigação, pastagens e silviculturas. Já no médio e baixo trecho, onde há uma concentração maior da UP vale encaixado com crista, o relevo torna-se médio a fortemente ondulado, possibilitando o desenvolvimento de pastagens com manejo adequado, fruticultura e silvicultura. A tipologia de solos, dentro destas especificidades, correlaciona com as unidades de paisagens, conforme observado e inferido.
+1. Agropecuária
+2. Culturas anuais
+3. Pastagens, silvicultura, fruticultura e capineiras sob sistemas de controle de erosão
+4. Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
 
 | Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
 | ------- | ---- | ------------------ | -------- | ---------- | --------------- |
 | lorem   | lorem | lorem | lorem | lorem | lorem |
+
+[Atualizar informações] O quadro 2 apresenta um resumo das Unidades de Paisagem que conta com a representatividade na sub-bacia, aptidões e limitações de cada. Dentre as unidades, observa-se ocorrências expressivas de Superfície Tabular com áreas extensas, representando cerca de 44 \% da sub-bacia, relevo plano a suavemente ondulado onde podem ser desenvolvidos cultivos de culturas anuais, com potencial para irrigação, pastagens e silviculturas. Já no médio e baixo trecho, onde há uma concentração maior da UP vale encaixado com crista, o relevo torna-se médio a fortemente ondulado, possibilitando o desenvolvimento de pastagens com manejo adequado, fruticultura e silvicultura. A tipologia de solos, dentro destas especificidades, correlaciona com as unidades de paisagens, conforme observado e inferido.
 
 ### Disponibilidade hídrica
 
@@ -327,7 +327,108 @@ Aptidões:
 
 [Atualizar informações] O processo 02559/2009, correspondente a portaria no 3013/2009, não possuía coordenadas na tabela enviada pela SEMAD, fazendo-se necessária a inserção manual das mesmas. Os processos 23400/2012, 23401/2012, 23402/2012, 23403/2012 e 23404/2012, ao serem plotados foram localizados dentro da sub-bacia do Ribeirão Santa Isabel. No entanto ao analisa-los, as informações de localização não se coincidiram com a região, sendo marcados como coordenadas incorretas e eliminados do estudo. De forma semelhante, o processo 03880/2012, correspondente à portaria no 3345/2012, foi removido por apresentar coordenadas incorretas.
 
+[Atualizar informações] Os usuários de outorga têm como finalidade de uso principal da água a irrigação, enquanto os de uso insignificante se concentram na atividade da água para consumo humano e alguns outros para dessedentação de animais, como visto no quadro 3. A maior concentração de uso da água se dá na porção média da sub-bacia onde se encontram as maiores áreas de cultura e irrigação.
+
+| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
+| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
+| lorem   | lorem | lorem | lorem | lorem | lorem |
+
+Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca de 40 \% da totalidade dos trechos).
+
+![](imagem.png)
+
+[Atualizar informações] Há uma extensa demanda na sub-bacia de forma generalizada, porém focalizada, evidentemente, na porção média onde há uso intensivo da água para irrigação de grandes áreas e pivôs. Na parte baixa da sub-bacia, também se observa alguns trechos com demanda, incluindo atividade agropecuária e alguns pivôs de irrigação. É importante ressaltar que alguns processos vencidos não tomaram iniciativa de realizar a renovação e existem captações observadas em campo que não se encontram na base do SIAM. Desta maneira, os dados oficiais validados mostram uma visão incompatível com a realidade da sub-bacia em estudo, sendo necessária a orientação à regularização dos usuários da sub-bacia para que se possa apresentar um produto de Disponibilidade Hídrica mais eficiente.
+
+![](imagem.png)
+
+[Atualizar informações] Para o estudo da situação de disponibilidade hídrica (figura 19) foram identificados 7 (sete) trechos em estado de atenção (cerca de 25\% da totalidade dos trechos com demanda), o que significa que estes se configuram com captação entre 50 a 100 \% do máximo permitido. No cenário atual não há trechos indisponíveis, o que leva à desnecessidade de elaboração de um produto que verifique a viabilidade de regularização.
+
+[Atualizar informações] A figura 20 indica os pontos de reservatórios, observados utilizando imagem de satélite e visita a campo, os quais não há nenhuma outorga deferida ou em processo no IGAM. Alguns destes reservatórios, extensos, podem utilizar grande quantidade de água afetando a vazão a jusante. Sem um registro da quantidade de água consumida, o cálculo deste produto fica comprometido. Recomendam-se ações de conscientização para regularização dos diversos reservatórios observados. As atividades devem ser compatibilizadas com o uso, e o produto de Disponibilidade Hídrica deve se manter atualizado a fim de obter um melhor cenário nas decisões de âmbito da gestão hídrica da sub-bacia do Ribeirão Santa Isabel.
+
+![](imagem.png)
+
+[Atualizar informações] O Quadro 4 dispõe a relação dos trechos de água com demanda da sub-bacia do Ribeirão Santa Isabel. Abaixo, um resumo da disponibilidade hídrica.
+
+- Área de drenagem: ~ 500 km2;
+- Vazão de referência (Q7,10): 0,8285 m3/s;
+- Vazão média de longo período (Qmld): 6,4788 m3/s;
+- Índice (r7,10 = Q7,10/Qmld): 12,8\%;
+- Capacidade de regularização natural: de 11 a 30\% = Média capacidade de regularização natural;
+- Disponibilidade (vazão máxima outorgável: 50\% da Q7,10): 0,4142 m3/s;
+- Demanda (vazão outorgada) – cenário atual: 0,5662 m3/s;
+- Relação demanda/disponibilidade – cenário atual: 136,7\%
+
+| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
+| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
+| lorem   | lorem | lorem | lorem | lorem | lorem |
+
+### Uso e ocupação do solo
+
+[Atualizar informações] No presente estudo da sub-bacia do Ribeirão Santa Isabel foram identificadas 13 (treze) classes relevantes de uso e ocupação, sendo elas em ordem de representatividade: Cerradão Campo, Cerrado, Pastagem, Cultura, Pivô, Solo degradado, Silvicultura, Vereda, Assentamento, ILPF (Integração Lavoura-Pasto-Floresta), Espelho D’água e Vilarejo Paiol (quadro 5 e figura 22). As classes identificadas no estudo estão de acordo com a metodologia ZAP oficial, sendo acrescentadas as classes que são relevantes para o contexto da sub-bacia e para a análise feita, contando também com as feições de estradas principais. Foi utilizada a imagem Sentinel-2 para este estudo (figura 21). Em segundo plano, destacam-se as estradas vicinais, no intuito de relacioná-las com as áreas susceptíveis à erosão. Contudo, devido à escala de mapa, não foi possível representá-las como polígonos, o que possibilitaria a contabilização de sua abrangência, estando elas apresentadas então em formato de linha.
+
+| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
+| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
+| lorem   | lorem | lorem | lorem | lorem | lorem |
+
+![](imagem.png)
+
+![](imagem.png)
+
+[Atualizar informações] As classes mais expressivas na sub-bacia do Ribeirão Santa Isabel são as relacionadas a Vegetação, com 69,61 \% (somadas as classes Cerradão, Campo, Cerrado e Vereda), Cultura com 14,1\% (quando somada às classes Pivô e ILPF) e Pastagem com 13,38\%. A partir disso, é possível afirmar que a sub-bacia tem um bom nível de conservação, com presença vegetativa expressiva por toda a sua extensão. Vale ressaltar que as áreas de solo fragilizado e degradado também se fazem abundantes, sobretudo nas áreas de Cerrado e Pastagem, e nos pontos de solo mais arenoso, e recomenda-se e manejo dessas áreas e arredores.
+
+[Atualizar informações] Representando 10,77\% da sub-bacia, as culturas se concentram onde é notável a presença de Latossolo vermelho e relevo suave e plano, nos quais foi observado em campo principalmente o cultivo de milho, soja e feijão em grandes proporções. A irrigação por aspersão central nos chamados Pivôs (figura 23) é uma prática comum, próxima aos grandes campos de lavoura temporária que à época da visita de campo, estavam em processo de alternância de cultura. Com 2,72\% do total da área da sub-bacia, os pivôs de irrigação se destacam na paisagem próximos aos cursos d’água, devido à alta demanda a este recurso e entre as culturas quando em relevos mais planos. Existe ainda as áreas com cultivo de Eucaliptos, a Silvicultura, que não se faz proeminente na sub-bacia, apesar de esta atividade se desenvolver em grandes porções de terra.
+
+[Atualizar informações] Já as pastagens estão distribuídas regularmente por toda a sub-bacia, estando concentradas nas superfícies tabulares, morfologia que conta com um declive do relevo e um desnível extenso, que não favorece a mecanização na atividade agrícola intensiva. Além disso, segundo Fernandes (2014), os expressivos comprimentos dessas rampas associados a compactação proveniente do maquinário e do pisoteio de animais, favorecem os processos de erosão laminar, o que explica a degradação física avançada do solo nessa área. Apesar disso, os solos degradados representam apenas 0,92\% da área total da bacia, o que é considerado baixo e sinaliza um bom índice de conservação da região.
+
+### Área de preservação permanente
+
+[Atualizar informações] As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais que são capazes de desestabilizar ecossistemas em diferentes escalas. No estudo deste ZAP, conforme consta na metodologia oficial, foram identificadas as APPs hídricas diferenciadas por: i) nascentes; ii) cursos d’água; iii) veredas; e iv) represas. Para cada uma, em ordem, foi aplicado um buffer de 50, 30, 50 metros e o mais restritivo para grandes represas (maiores que 1 hectare), 50 metros. A área total de APPs hídrica da sub-bacia do Ribeirão Santa Isabel é cerca de 5.990 hectares, representando aproximadamente 12\% de toda a área de estudo. Foram identificadas 909 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes. As áreas de veredas também foram computadas no cálculo de área, uma vez que as próprias veredas são APPs incluindo seu buffer de 50 metros. O resultado do mapa de APPs hídricas pode ser observado na figura 27.
+
 ## Considerações gerais
 
+As considerações gerais têm como objetivo correlacionar todos os produtos do ZAP a fim de auxiliar em análises futuras como, potenciais e planos de adequação. São elaborados índices que representam a atual condição da sub-bacia, que são: Índice de conservação da sub-bacia, de antropisação das APPs hídricas, de concentração de nascentes e de uso conflitante na sub-bacia. Além dos índices, também são apresentados mapas a fim de facilitar a visualização da informação espacialmente.
 
+### Áreas conservadas e antropisadas
+
+[Atualizar informações] As classes Campo, Cerrado, Cerradão e Vereda foram consideradas conservadas, enquanto as classes Assentamento, Cultura, ILPF, Pastagem, Pivô, Silvicultura, Solo Degradado e Vilarejo Paiol foram consideradas antropisadas, excluindo a classe espelhos d’água por representar corpos hídricos. O resultado total em área (hectares) pode ser visto no quadro 6.
+
+![](imagem.png)
+
+[Atualizar informações] O índice de conservação da sub-bacia foi de 69.6\%. Este índice auxilia em uma primeira observação geral sobre a ocupação da sub-bacia, no entanto é necessária a observação em mapa e/ou SIG para um melhor planejamento de gestão, já que este permite visualizar onde se localizam importantes fragmentos de vegetação conservada que podem ser interligados a outros.
+
+### Conflito com areas de preservação permanente
+
+\textbf{[Atualizar informações]} A representação das APPs hídricas conservadas e antropizadas pode ser utilizada para indicar quais áreas de APPs devem ser priorizadas para recuperação, qual a melhor forma para tal e ainda cruzar as informações com outros produtos objetivando análises mais profundas. Espacialmente, as APPs hídricas conservadas são representadas pela interseção entre as classes de uso e ocupação do solo Campo, Cerradão, Cerrado e Veredas com as APPs hídricas, e seu oposto, as APPs hídricas antropizadas são interseccionadas com as classes de uso e ocupação do solo Assentamento, Cultura, ILPF, Pastagem, Pivô, Silvicultura, Solo degradado e Vilarejo Paiol novamente com as APPs hídricas. o índice de antropização das APPs hídricas foi de 4\%
+
+![](imagem.png)
+
+### Conservação de nascentes
+
+[Atualizar informações] O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da sub-bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da sub-bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, se obtém 0,78 por nascente, e é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da sub-bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na sub-bacia. O índice de concentração de nascentes foi de 1.42\%
+
+### Conflito de uso e ocupação do solo
+
+[Atualizar informações] O conflito entre Unidades de Paisagem e Uso e Ocupação do Solo (figura 30) expõe as áreas da sub-bacia que sofrem maior impacto ambiental por determinado tipo de uso em certa unidade de paisagem. É um importante subproduto a ser analisado ambientalmente para determinar áreas que devem sofrer intervenção em seu uso visando a conservação da sub-bacia.
+
+[Atualizar informações] É executado através da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, através da metodologia de caracterização de unidades de paisagem de Fernandes (2013) (com auxílio do Quadro 2 deste estudo) e conhecimento de campo, onde há compatibilidade e incompatibilidade de usos na sub-bacia. Uma terceira classificação foi proposta, conforme metodologia ZAP oficial, denominada de “depende de controle e manejo” demonstrando que tal uso é compatível a partir de técnicas de controle e manejo do solo adequados. A classificação “não aplicável” é dada às classes de uso que não são passíveis de alteração por inviabilidade ou consolidação de uso.
+
+![](imagem.png)
+
+| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
+| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
+| lorem   | lorem | lorem | lorem | lorem | lorem |
+
+[Atualizar informações] O quadro 9 demonstra os valores de área em hectares da análise de conflito e são utilizados para o cálculo do índice de uso conflitante da sub-bacia. O índice é calculado a partir da equação demonstrada abaixo e varia de 0 a 100 sendo que quanto maior o valor, maior a taxa de conflito entre o uso e ocupação do solo atual com as unidades de paisagem identificadas na sub-bacia. O índice de uso conflitante na bacia foi de 4.3 \%.
+
+| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
+| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
+| lorem   | lorem | lorem | lorem | lorem | lorem |
+
+### Resumo dos índices
+
+[Atualizar informações] A fim de sintetizar todos os índices calculados para este ZAP, são expostos no quadro 10 todos os valores. Também pode ser utilizado como comparativo para com outros ZAPs elaborados para as bacias subjacentes, como por exemplo, a do Ribeirão do Escurinho, Córrego Rico e Ribeirão São Pedro, demonstrando quais delas têm prioridade em determinada ação de recuperação, adequação e conservação, sendo uma ótima ferramenta comparativa de gestão conjunta de (sub)bacias hidrográficas.
+
+| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
+| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
+| lorem   | lorem | lorem | lorem | lorem | lorem |
 

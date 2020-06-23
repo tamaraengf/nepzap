@@ -37,6 +37,244 @@ Três produtos principais compõem este estudo: I) Unidades de Paisagem; II) Dis
 ## Diagnóstico e análise ambiental da sub-bacia
 
 
+### Unidades de Paisagem
+
+#### Afloramento
+
+Ocorrência: Porção sul da bacia; grande distribuição areal; vincula-se à quartzitos do Supergrupo Espinhaço; Região mais elevada (cotas entre 1740 a 900m). Limita-se com as Vertentes Ravinadas e contém Vales Encaixados;	De escarpas a rampas rochosas, com mergulho preferencial para Leste que condicionam uma hidrografia local dos tipos Subsequentes (determinados por zonas de fraquezas) e consequentes condicionados pelo mergulho da camada litológica.
+
+Relevo: Expressiva área com declividade predominante acima de 45% podendo nas porções mais cimeiras e/ou mais dissecadas apresentar declividade superior a 75%.	
+
+Tipo de solo: Neossolo litólico;	
+
+Potencialidades:
+
+1 - Beleza cênica;
+2 - Sítios de Geodiversidade [Sítios que apresentam características especiais, vinculados a aspectos naturais geológicos (minerais, rochas, fósseis), geomorfológicos vinculados às formas de relevo e seus processos de formação podem ser considerados sítios de Geodiversidade. O desenvolvimento de estudos desta natureza na Reserva da Biosfera da Serra do Espinhaço é relevante pois existem poucos trabalhos desta natureza na região.]; 
+3 - Aquíferos fraturados	
+
+Limitações:
+
+1- Acessibilidade,
+2 - Relevo acidentado,
+3 – Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+4- Solos com baixa fertilidade	
+
+Aptidões:
+
+1 - Pesquisas científicas em Campos Rupestres;
+2 - Ecoturismo
+
+#### Anfiteatro
+
+Ocorrência: Porção centro-leste da bacia. Vincula-se ao domínio do Granito Itanguá. Limita-se com as unidades Complexo Côncavo-Convexo; Colina de Topo Alongado Terraços e Planícies Fluviais. Variação de cota entre 860 a 740m). Trata-se de uma vertente côncava aberta.	
+
+Relevo: Típico circo de erosão apresentando declividade predominante de até 20% podendo nas partes mais declivosas atingir cercas de 45%. Tem a fisiografia de um vale semicircular cuja bacia de recepção é sensivelmente larga e pouco declivosa. Apresenta um residual de uma paleovertente. A concavidade dessa unidade permite a concentração de águas pluviais e sedimentos, mantendo os solos inseridos em satisfatórias condições de umidade.	
+
+Tipo de solo: Argissolo e Cambissolos	
+
+Potencialidades:
+
+1 - Boas condições hídricas por ser área de concentração de águas pluviais
+
+Limitações:
+
+1 - Susceptibilidade à erosão
+2 – Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média.	
+
+Aptidões
+
+1 - Agropecuária;
+2 - Áreas de preservação permanente (nascentes)
+3 - Culturas anuais e/ou sazonais, incluindo capineiras
+
+#### Colinas de topo alongado	
+
+Ocorrência: Porção leste da bacia (eixo SW-NE); Encontra-se no domínio do Granito Itanguá. Limita-se com as unidades: Complexo Côncavo-Convexo; Anfiteatro e Vertentes Retilíneas. Parte superior da encosta (cotas entre 900 a 840m).
+
+Relevo: Elevação alongada e relativamente ilhada, sugerindo ser testemunho de uma paleosuperfície por não apresentar uma conectividade no seu modelado. Fisiografia consequente da dissecação que condicionou a unidade Planície/Terraços Fluviais. 
+
+Tipo de solo: Predominância de Argissolo podendo ocorrer Latossolos
+
+Potencialidades:
+
+1 - Relevo suave;
+2 - Solos profundos;
+3 - Áreas de Recarga;
+
+Limitações:
+
+1 - Uso limitado por ser topo de morro (Código Florestal);
+2 - Predisposição a processos erosivos principalmente nas áreas de Argissolos;
+3 - Solos com baixa fertilidade.
+
+Aptidões
+
+1 - Áreas de preservação permanente do tipo Topo de Morro.
+2 - Manutenção de vegetação nativa (Floresta Estacional Semi-Decidual).
+3 - Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura.
+
+#### Complexo côncavo convexo	
+
+Ocorrência: Porção centro-norte da bacia; Ocorrência sobre rocha granítica, denominada Granito Itanguá; limita-se com Superfícies Tabulares, Vertentes Ravinadas, Colinas de Topo Alongado; Terraços e Planícies Fluviais
+
+Relevo: Conjunto de Vertentes Côncavas e Convexas. Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%. Formam um sistema de captura e armazenamento de água pluvial.Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%
+
+Tipo de solo: Argissolos, Cambissolos e Neossolo Litólico
+
+Potencialidades:
+
+1 - Recursos hídricos superficiais abundantes; 
+2 - O contato com outras unidades de paisagem potencializa: preservação ambiental pela presença de nascentes nos contatos com as Superfícies Tabulares e Colinas de Topo Alongado; 
+3 - Agriculturas sazonais e perenes quanto em contato com Terraços e Planícies Fluviais
+
+Limitações:
+
+1 - Relevo acidentado;
+2 - Solos rasos e suscetibilidade à erosão (Laminar e Sulco).
+3 – Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média.
+
+Aptidões:
+
+1 - Áreas de preservação quando próximas às Superfícies Tabulares, Vertentes Ravinadas e Colinas de Topo Alongado;
+2 - Área de recarga de aquífero.
+3 - Culturas permanentes quando relevo é suavizado, próximo a unidade Terraços e Planícies Fluviais.
+4 - Apicultura, Culturas permanentes. Pastagens, silvicultura, fruticultura arbórea, cafeicultura.
+
+#### Superfícies tabulares	
+
+Ocorrência: Porção NW da bacia; cotas altimétricas entre 960 e 940m. Limita-se com as unidades: Vertentes Ravinadas e Complexo Côncavo-Convexo. Áreas de recarga de aquífero que determinam o uso e ocupação do solo tradicional nas meias vertentes e fundo de vale, sistema chapada-grota. Remanescentes de Cerrado Sentido Restrito, mas com intensa ocupação por silvicultura (eucalipto).  
+
+Relevo: Forma topográfica que se assemelha a planaltos, limitados por vertentes abruptas. regionalmente (Alto Jequitinhonha) é denominada como “chapadas”. 
+
+Tipo de solo: Latossolo vermelho
+
+Potencialidades:
+
+1 - Solo profundo, permeável, com aquíferos alçados devido a presença de horizontes lateríticos,
+2 - Relevo plano que permite mecanização;
+3 - Pesquisa científica 
+4 - Recarga da bacia
+
+Limitações:
+
+1 - Solos com baixa fertilidade, elevada acidez;
+2 - Escassez de recurso hídrico superficial
+
+Aptidões
+
+1 - Extrativismo vegetal e pecuária extensiva (usos tradicionais);
+2 - Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura.
+
+#### Planícies e terraços fluviais	
+
+Ocorrência: Porção central e norte da bacia (eixo SW-NE, cotas entre 720 a 760m). Limita-se com as unidades: Complexo Côncavo-Convexo; Vertentes Ravinadas e Vertentes Retilíneas. Área mais antropizada da bacia contempla a sede urbana de Felício dos Santos.
+
+Relevo: Relevo plano a suave ondulado. As Planícies contemplam as áreas mais baixas do relevo, distribuído ao longo dos cursos d´água e os terraços são as antigas planícies atualmente com cotas superiores
+
+Tipo de solo: Solos sedimentares predominando Neossolo Flúvico, Gleissolos nas planícies e nos terraços Cambissolos (observados na margem esquerda) nas partes mais elevadas ocorrem Argissolos.
+
+Potencialidades:
+
+1 - Recurso hídrico superficial disponível;
+2 - Relevo plano (planície) e, ou pouco declivoso (terraços);
+
+Limitações:
+
+1 - Planícies com suscetibilidades às ocorrências de inundações periódicas e encharcamento dos solos.
+2 - Redução de áreas para uso e ocupação da vegetação ciliar. 
+3 - Presença de solos de média, podendo atingir, alta fertilidade
+
+Aptidões:
+
+1 - Nas planícies culturas anuais de entressafra, 
+2 - Preservação de nascentes difusas. 
+3 - Terraços agropecuária e expansão urbana.
+4 - Áreas aptas a preservação permanente, inclusive vegetação ciliar.
+
+#### Vales em V encaixado	
+
+Ocorrência: Vale fechado em V na porção centro-sul da bacia em unidades de Afloramento de Quartzito e Vertentes Ravinadas. Vegetação arbórea densa, pela presença de água.
+
+Relevo: Vales com vertentes íngremes e rochosas, planícies e terraços fluviais imperceptíveis. 
+
+Tipo de solo: Neossolo Litólico
+
+Potencialidades:
+
+1 - Área do curso principal do Rib. Santana e tributários que estão em planos de fratura dos quartzitos (nascentes).
+
+Limitações:
+
+1 - Relevo fortemente acidentado;
+2 - Difícil acesso
+3 – Declividade acentuada (45 a 75%)
+4- Solos com baixa fertilidade
+
+Aptidões:
+
+1 - Áreas para preservação permanente e proteção de nascentes.
+2 – Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto.
+3 – Beleza Cênica.
+
+#### Vertentes ravinadas	
+
+Ocorrência: Alta representatividade areal; porção central (eixo NW-SE) da bacia; ocorrência em quartzitos sericíticos do Grupo Macaúbas;Limita-se com as unidades: Superfícies Tabulares; Complexo Côncavo-Convexo; Afloramentos de Quartzitos, Terraços e Planícies Fluviais e Vale encaixado.
+
+Relevo: Assemelham-se as vertentes do Complexo Côncavo-Convexo, porém as os processos da erosão pluvial são marcantes.
+
+Tipo de solo: Cambissolo e Neossolo Litólico
+
+Potencialidades: 
+
+1 - Recursos hídricos superficiais decorrentes de surgência de aquíferos; 
+2 - O contato com as outras unidades de paisagem ocasionam distintas potencialidades para esta unidade: 
+3 - Preservação ambiental e uso recreativo em contato com unidades de Afloramento Rochoso e Vale Encaixado;
+4 - Agriculturas sazonais e perenes no contato com Complexo Côncaco-Convexo e Terraços e Planícies Fluviais; 
+5 - Aptidão para pecuária no restante da unidade.
+
+Limitações:
+
+1- Os solos das vertentes apresentam baixos graus de desenvolvimento e, consequentemente, elevadas instabilidades mecânicas e devem ser mantidos nas condições naturais.
+2 - Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%
+3 -Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+4 – Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média.
+
+Aptidões:
+
+1 - Áreas de preservação (nascentes e áreas com declividade superior 45º);
+2 - Pastagem;
+3 - Extrativismo vegetal (coleta) nas áreas com vegetação nativa;
+4 - Pontualmente: uso recreativo (Lageado)
+5 - Apresentam possibilidades para instalações de pequenos barramentos para aproveitamento das águas pluviais, com ganhos de volumes de água em profundidade com um mínimo de lâmina d’água.
+
+#### Vertentes retilíneas	
+
+Ocorrência: Porção leste bacia (eixo SW-NE); encontra-se no domínio do Granito Itanguá. Limita-se com as unidades: Colina de Topo Alongado e Terraços e Planícies Fluviais. Parte intermediária da meia encosta (cotas entre 840 a 800 m).
+
+Relevo: Vertente com declividade menos acentuadas podendo estar vinculadas a rampas de colúvio.
+
+Tipo de solo: Predominância Argissolo podendo ocorrer Latossolos.
+
+Potencialidades:
+
+1 - Solos profundos
+2 – Mecanização agrícola
+
+Limitações:
+
+1 – Argissolos são susceptíveis à compactação por uso de máquinas ou pisoteio de animais.
+2 – Fisiografia com alta susceptibilidade de processos de erosão Pluvial (laminar e sulco).
+3 - Morfogênese vinculada a movimentos gravitacionais.
+4 - Solos com baixa fertilidade
+
+Aptidões:
+
+1 - Agropecuária
+2 - Culturas anuais, 
+3 - Pastagens, silvicultura, fruticultura e capineiras sob sistemas de controle de erosão.
+4 - Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+
 ## Considerações gerais
 
 

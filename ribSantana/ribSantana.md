@@ -18,6 +18,8 @@ O Zoneamento Ambiental Produtivo é uma dessas metodologias, aprovada pelo Estad
 
 [Atualizar informações] A sub-bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região do Alto Jequitinhonha de Minas Gerais, no(s) município(s) de Felício dos Santos (outros) e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do rio XXXXXX (UPGRH XXX). 
 
+![](img/figura1.pmg)
+
 [Atualizar informações] Em sua área encontram-se grandes pivôs, na porção média do Ribeirão, que requerem grandes quantidades de água sendo necessário um diagnóstico na unidade a fim de se evitar e/ou resolver conflitos atuais e futuros, ressaltando então a importância de uma ferramenta como o ZAP para subsidiar um planejamento territorial que visa a conservação e produtividade do espaço. A aplicação da metodologia ZAP se faz de grande importância para firmar um diagnóstico apresentando sua caracterização, limitações e potencialidades de uso consciente para com o meio ambiente, permitindo que futuros projetos o utilizarem para auxílio na tomada de decisões na gestão territorial.
 
 [Atualizar informações] A falta de estudos socioambientais, na área onde se encontra a sub-bacia do Ribeirão Santana, faz com que a aplicação da metodologia ZAP seja de grande importância para que sirva de diagnóstico apresentando sua caracterização, limitações e potencialidades de uso consciente para com o meio ambiente, permitindo futuros projetos o utilizar para auxílio na tomada de decisões na gestão territorial.

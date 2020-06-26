@@ -16,7 +16,7 @@ A crescente demanda por recursos hídricos faz com que a gestão destes seja cad
 
 O Zoneamento Ambiental Produtivo é uma dessas metodologias, aprovada pelo Estado de Minas Gerais em 2014, como metodologia oficial, que tem como objetivo aprimorar a gestão socioambiental e econômica de sub-bacias hidrográficas no Estado de Minas Gerais através da concepção de três produtos básicos que podem ser cruzados para obtenção de informações mais detalhadas. 
 
-[Atualizar informações] A sub-bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região do Alto Jequitinhonha de Minas Gerais, no(s) município(s) de Felício dos Santos (outros) e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do rio XXXXXX (UPGRH XXX). 
+[Atualizar informações] A sub-bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região do Alto Jequitinhonha de Minas Gerais, no(s) município(s) de Felício dos Santos (outros) e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do Rio Araçuaí (UPGRH JQ2). 
 
 ![](img/figura1.png)
 
@@ -30,7 +30,7 @@ Três produtos principais compõem este estudo: I) Unidades de Paisagem; II) Dis
 
 ### Caracterização da bacia
 
-[Atualizar informações] A sub-bacia hidrográfica do ribeirão Santana está localizada, em sua totalidade no município de NNNNNNN, a XXX km da capital do estado, Belo Horizonte. Com uma área de aproximadamente XXXXX hectares, se insere na Unidade de Planejamento e Gestão de Recursos Hídricos do rio NNNNNNNN (UPGRH XXX). O seu curso principal, Ribeirão Santana, deságua no Rio Araçuaí, que por sua vez deságua no Rio Jequitinhonha.
+[Atualizar informações] A sub-bacia hidrográfica do ribeirão Santana está localizada, em sua totalidade no município de Felício dos Santos , a 369 km da capital do estado, Belo Horizonte. Com uma área de aproximadamente 45.00 hectares, se insere na Unidade de Planejamento e Gestão de Recursos Hídricos do rio Araçuaí (UPGRH JQ2). O seu curso principal, Ribeirão Santana, deságua no Rio Araçuaí, que por sua vez deságua no Rio Jequitinhonha.
 
 [Atualizar informações] O clima predominante na sub-bacia, de acordo com Álvares et al. (2013), é classificado como Aw – clima tropical, com chuvas de verão e estação invernosa pouco definida ou ausente e forte precipitação anual. Sua temperatura média de 823.1 graus celsius e sua pluviosidade média de 1305 mm/ano. O mês que representa a menor pluviosidade é junho, sendo o mês de dezembro o com maior precipitação, com uma média em torno de 211 mm.
 

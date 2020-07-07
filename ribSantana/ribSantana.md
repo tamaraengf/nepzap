@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Equipe do trabalho:</b><br>
-  <a>Eric Bastos Gorgens</a> |
-  <a>Cristiano Matozinhos Christofaro</a> |
-  <a>Gleyce Campos Dutra</a> |
-  <a>Reynaldo Campos Santana</a> |
-  <a>Danielle Piuzana Mucida</a> |
+  <a>Eric Bastos Gorgens</a><br>
+  <a>Cristiano Matozinhos Christofaro</a><br>
+  <a>Gleyce Campos Dutra</a><br>
+  <a>Reynaldo Campos Santana</a><br>
+  <a>Danielle Piuzana Mucida</a><br>
   <a>Marcelino Morais</a>
   <br><br>
 </p>

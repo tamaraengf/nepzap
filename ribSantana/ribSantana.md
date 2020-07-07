@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Equipe do trabalho:</b><br>
+  <br><br>
   <a>Eric Bastos Gorgens</a><br>
   <a>Cristiano Matozinhos Christofaro</a><br>
   <a>Gleyce Campos Dutra</a><br>

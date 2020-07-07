@@ -2,11 +2,11 @@
 
 <p align="center">
   <b>Equipe do trabalho:</b><br>
-  <a>Eric Bastos Gorgens</a>
-  <a>Cristiano Matozinhos Christofaro</a>
-  <a>Gleyce Campos Dutra</a>
-  <a>Reynaldo Campos Santana</a>
-  <a>Danielle Piuzana Mucida</a>
+  <a>Eric Bastos Gorgens</a> |
+  <a>Cristiano Matozinhos Christofaro</a> |
+  <a>Gleyce Campos Dutra</a> |
+  <a>Reynaldo Campos Santana</a> |
+  <a>Danielle Piuzana Mucida</a> |
   <a>Marcelino Morais</a>
   <br><br>
 </p>
@@ -17,15 +17,11 @@ A crescente demanda por recursos hídricos faz com que a gestão destes seja cad
 
 O Zoneamento Ambiental Produtivo é uma dessas metodologias, aprovada pelo Estado de Minas Gerais em 2014, como metodologia oficial, que tem como objetivo aprimorar a gestão socioambiental e econômica de sub-bacias hidrográficas no Estado de Minas Gerais através da concepção de três produtos básicos que podem ser cruzados para obtenção de informações mais detalhadas. 
 
-A sub-bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região do Alto Jequitinhonha de Minas Gerais, no município de Felício dos Santos e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do Rio Araçuaí (UPGRH JQ2). 
-
-![](img/figura1.png)
-
-A demanda por água na região da sub bacia do Ribeirão Santana é amplo, sendo fundamantal a realização de um estudo a fim de se evitar e/ou resolver conflitos atuais e futuros, ressaltando então a importância de uma ferramenta como o ZAP para subsidiar um planejamento territorial que visa a conservação  e produtividade do espaço. Tornando essa metodologia ZAP primordial para estabelecer um diagnóstico apresentando sua caracterização, limitação e potencialidades de uso consiente para com o meio ambiente, permitindo que futuros projetos possam utiliza da mesma para auxílio na tomada de decisões na gestão territorial.   
-
-A ausência de estudos socioambientais, na área onde se encontra a sub-bacia do Ribeirão Santana, faz com que a aplicação da metodologia ZAP, se torne ainda mais relevante. 
+A sub-bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região do Alto Jequitinhonha de Minas Gerais, no município de Felício dos Santos e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do Rio Araçuaí (UPGRH JQ2). A demanda por água na região da sub bacia do Ribeirão Santana é amplo, sendo fundamantal a realização de um estudo a fim de se evitar e/ou resolver conflitos atuais e futuros, ressaltando então a importância de uma ferramenta como o ZAP para subsidiar um planejamento territorial que visa a conservação  e produtividade do espaço. Tornando essa metodologia ZAP primordial para estabelecer um diagnóstico apresentando sua caracterização, limitação e potencialidades de uso consiente para com o meio ambiente, permitindo que futuros projetos possam utiliza da mesma para auxílio na tomada de decisões na gestão territorial. A ausência de estudos socioambientais, na área onde se encontra a sub-bacia do Ribeirão Santana, faz com que a aplicação da metodologia ZAP, se torne ainda mais relevante. 
 
 Três produtos principais compõem este estudo:definição das unidades de paisagem, diagnóstico da disponibilidade hídrica da sub-bacia e levantamento do uso e ocupação do solo. Através do cruzamento dos dados destes três produtos foi possível elaborar diagnósticos e análises ambientais acerca da referida sub-bacia. Um documento anexo intitulado como Potencial de Adequação sugere ainda intervenções, baseadas neste ZAP, que auxiliam a tomada de decisões na gestão de recursos hídricos da sub-bacia.
+
+![](img/figura1.png)
 
 ## Material e métodos
 
@@ -39,7 +35,13 @@ A sub-bacia hidrográfica do ribeirão Santana está localizada, em sua totalida
 
 [Atualizar informações] Ainda de acordo com Hasui et al. (2012), no grupo Canastra a sub-bacia do ribeirão Santa Isabel é constituída pelas Formações Paracatu e Chapada dos Pilões, compostas basicamente por quartzitos basais e filitos carbonosos. No grupo Vazante, a sub-bacia é composta pelas Formações Lapa e Serra do Poço Verde, representadas por dolomitos estromatolíticos, brechas intraformacionais, ardósias carbonosas, metassiltitos, arenitos conglomeráticos e quartzitos. A grande área de sedimentos clásticos e lateríticos ferruginosos não possui unidade específica, sendo caracterizada pela CODEMIG (2014) como cobertura superficial indiferenciada. Os solos identificados na sub-bacia, conforme o Departamento de Solos do Centro de Ciências Agrárias - DPS – Universidade Federal de Viçosa – UFV et al. (2010), são representados pelas classes dos Cambissolos Háplicos, Latossolos Vermelho, Latossolos Vermelho-Amarelos, Neossolos Flúvicos e Neossolos Litólicos. Destes, o Neossolo Litólico Distrófico, de maior ocorrência na área da sub-bacia, concentra-se a ocupação de pastagens e agricultura extensiva, enquanto nos Latossolos Vermelhos observa-se uma forte economia agropecuária intensiva (Figura 3).
 
+![](img/figura3.png)
+
 [Atualizar informações] A sub-bacia do ribeirão Santa Isabel faz parte da Depressão São-Franciscana e apresenta um relevo moderadamente plano com algumas elevações, variando de 982 metros na cabeceira da sub-bacia, região oeste, até 543 metros na foz do 10ribeirão, região leste (Figura 4). Possui baixa variação de declividade na região oeste, concentrando valores entre de 0 a 8 \%, enquanto na região norte e leste há uma maior variação chegando acima de 45 \% de declividade (Figura 5).
+
+![](img/figura4.png)
+
+![](img/figura5.png)
 
 ### Bases de dados
 
@@ -60,9 +62,9 @@ Os materiais utilizados para este estudo constituem de pesquisas bibliográficas
 
 Os mapas de solo, litologia, modelo digital de elevação e declividade auxiliam na elaboração de um dos principais produtos do ZAP, o mapa de Unidades de Paisagem. Nesta metodologia, considera-se a paisagem, dentro de cada especificidade local, como uma síntese dos componentes dos meios físicos (geologia, relevo e solos), meio biótico (vegetação nativa) e meio socioeconômico (atividades antrópicas). No caso específico a atividades rurais, é notória a familiaridade de produtores e trabalhadores rurais com a paisagem local, fato que facilita diálogos e discussões pertinentes à capacidade de suporte das respectivas Unidades de Paisagem.
 
-As Unidades de Paisagem foram identificadas em mapa preliminar obtido através do uso de imagens do satélite Sentinel-2 de até 6 meses anteriores à data deste estudo, e da imagem SRTM de 30 metros. Foram utilizadas, para refinamento e auxílio, as imagens do Google Earth, com precisão de 0,5 a 1 metro, além da visualização 3D através do modo “exagero vertical”, que se baseia na topografia do terreno o modelando em 3D na tela do computador. É possível então, através de inferências, a caracterização específica a cada Unidade de Paisagem, enfatizando: morfologia, embasamento geológico/pedológico, cobertura vegetal nativa original, potencialidades, limitações, uso atual, aptidões e situação ambiental.
+As Unidades de Paisagem foram identificadas em mapa preliminar obtido através do uso de imagens do satélite Sentinel-2 de até 6 meses anteriores à data deste estudo, e da imagem SRTM de 30 metros (Figura 2). Foram utilizadas, para refinamento e auxílio, as imagens do Google Earth, com precisão de 0,5 a 1 metro, além da visualização 3D através do modo “exagero vertical”, que se baseia na topografia do terreno o modelando em 3D na tela do computador. É possível então, através de inferências, a caracterização específica a cada Unidade de Paisagem, enfatizando: morfologia, embasamento geológico/pedológico, cobertura vegetal nativa original, potencialidades, limitações, uso atual, aptidões e situação ambiental. Realizou-se correlações em campo, das Unidades de Paisagens e na sequência a identificação, para cada Unidade de Paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
 
-Realizou-se correlações em campo, das Unidades de Paisagens e na sequência a identificação, para cada Unidade de Paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
+![](img/figura2.png)
 
 ### Disponibilidade hidrica
 
@@ -330,9 +332,9 @@ Aptidões:
 
 ### Disponibilidade hídrica
 
-[Atualizar informações] Em conformidade com o diagnóstico realizado para a Disponibilidade Hídrica, foram identificados 57 processos de cadastro de uso insignificante e 17 processos de outorga, totalizando 74 usuários de água com processos vigentes na sub-bacia.
+[Atualizar informações] Em conformidade com o diagnóstico realizado para a Disponibilidade Hídrica, foram identificados 57 processos de cadastro de uso insignificante e 17 processos de outorga, totalizando 74 usuários de água com processos vigentes na sub-bacia (Figura 7).
 
-![](imagem.png)
+![](img/figura7.png)
 
 [Atualizar informações] O processo 02559/2009, correspondente a portaria no 3013/2009, não possuía coordenadas na tabela enviada pela SEMAD, fazendo-se necessária a inserção manual das mesmas. Os processos 23400/2012, 23401/2012, 23402/2012, 23403/2012 e 23404/2012, ao serem plotados foram localizados dentro da sub-bacia do Ribeirão Santa Isabel. No entanto ao analisa-los, as informações de localização não se coincidiram com a região, sendo marcados como coordenadas incorretas e eliminados do estudo. De forma semelhante, o processo 03880/2012, correspondente à portaria no 3345/2012, foi removido por apresentar coordenadas incorretas.
 

@@ -1,14 +1,19 @@
 # ZAP - Bacia Hidrográfica do Ribeirão Santana
 
-Autores:
+<p align="center">
+  <b>Some Coordenação:</b><br>
+  <a>Eric Bastos Gorgens</a>
+  <br><br>
+</p>
 
-- Eric
-- Gleyce
-- Daniela
-- Marcelino
-- Reynaldo
-- Cristiano
-- Tamara
+
+Coordenação:
+Eric Bastos Gorgens
+Cristiano Matozinhos Christofaro
+Gleyce Campos Dutra
+Reynaldo Campos Santana
+Danielle Piuzana Mucida
+Marcelino Morais
 
 ## Introdução
 

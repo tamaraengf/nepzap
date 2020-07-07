@@ -16,21 +16,21 @@ A crescente demanda por recursos hídricos faz com que a gestão destes seja cad
 
 O Zoneamento Ambiental Produtivo é uma dessas metodologias, aprovada pelo Estado de Minas Gerais em 2014, como metodologia oficial, que tem como objetivo aprimorar a gestão socioambiental e econômica de sub-bacias hidrográficas no Estado de Minas Gerais através da concepção de três produtos básicos que podem ser cruzados para obtenção de informações mais detalhadas. 
 
-[Atualizar informações] A sub-bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região do Alto Jequitinhonha de Minas Gerais, no(s) município(s) de Felício dos Santos (outros) e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do Rio Araçuaí (UPGRH JQ2). 
+A sub-bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região do Alto Jequitinhonha de Minas Gerais, no município de Felício dos Santos e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do Rio Araçuaí (UPGRH JQ2). 
 
 ![](img/figura1.png)
 
-[Atualizar informações] Em sua área encontram-se grandes pivôs, na porção média do Ribeirão, que requerem grandes quantidades de água sendo necessário um diagnóstico na unidade a fim de se evitar e/ou resolver conflitos atuais e futuros, ressaltando então a importância de uma ferramenta como o ZAP para subsidiar um planejamento territorial que visa a conservação e produtividade do espaço. A aplicação da metodologia ZAP se faz de grande importância para firmar um diagnóstico apresentando sua caracterização, limitações e potencialidades de uso consciente para com o meio ambiente, permitindo que futuros projetos o utilizarem para auxílio na tomada de decisões na gestão territorial.
+A demanda por água na região da sub bacia do Ribeirão Santana é amplo, sendo fundamantal a realização de um estudo a fim de se evitar e/ou resolver conflitos atuais e futuros, ressaltando então a importância de uma ferramenta como o ZAP para subsidiar um planejamento territorial que visa a conservação  e produtividade do espaço. Tornando essa metodologia ZAP primordial para estabelecer um diagnóstico apresentando sua caracterização, limitação e potencialidades de uso consiente para com o meio ambiente, permitindo que futuros projetos possam utiliza da mesma para auxílio na tomada de decisões na gestão territorial.   
 
-[Atualizar informações] A falta de estudos socioambientais, na área onde se encontra a sub-bacia do Ribeirão Santana, faz com que a aplicação da metodologia ZAP seja de grande importância para que sirva de diagnóstico apresentando sua caracterização, limitações e potencialidades de uso consciente para com o meio ambiente, permitindo futuros projetos o utilizar para auxílio na tomada de decisões na gestão territorial.
+A ausência de estudos socioambientais, na área onde se encontra a sub-bacia do Ribeirão Santana, faz com que a aplicação da metodologia ZAP, se torne ainda mais relevante. 
 
-Três produtos principais compõem este estudo: I) Unidades de Paisagem; II) Disponibilidade Hídrica; e III) Uso e Ocupação do Solo. Através do cruzamento dos dados destes três produtos foi possível elaborar diagnósticos e análises ambientais acerca da referida sub-bacia. Um documento anexo intitulado como Potencial de Adequação sugere ainda intervenções, baseadas neste ZAP, que auxiliam a tomada de decisões na gestão de recursos hídricos da sub-bacia.
+Três produtos principais compõem este estudo:definição das unidades de paisagem, diagnóstico da disponibilidade hídrica da sub-bacia e levantamento do uso e ocupação do solo. Através do cruzamento dos dados destes três produtos foi possível elaborar diagnósticos e análises ambientais acerca da referida sub-bacia. Um documento anexo intitulado como Potencial de Adequação sugere ainda intervenções, baseadas neste ZAP, que auxiliam a tomada de decisões na gestão de recursos hídricos da sub-bacia.
 
 ## Material e métodos
 
 ### Caracterização da bacia
 
-[Atualizar informações] A sub-bacia hidrográfica do ribeirão Santana está localizada, em sua totalidade no município de Felício dos Santos , a 369 km da capital do estado, Belo Horizonte. Com uma área de aproximadamente 45.00 hectares, se insere na Unidade de Planejamento e Gestão de Recursos Hídricos do rio Araçuaí (UPGRH JQ2). O seu curso principal, Ribeirão Santana, deságua no Rio Araçuaí, que por sua vez deságua no Rio Jequitinhonha.
+A sub-bacia hidrográfica do ribeirão Santana está localizada, em sua totalidade no município de Felício dos Santos, a 369 km da capital do estado, Belo Horizonte. Com uma área de aproximadamente 45.00 hectares, se insere na Unidade de Planejamento e Gestão de Recursos Hídricos do rio Araçuaí (UPGRH JQ2). O seu curso principal, Ribeirão Santana, deságua no Rio Araçuaí, que por sua vez deságua no Rio Jequitinhonha.
 
 [Atualizar informações] O clima predominante na sub-bacia, de acordo com Álvares et al. (2013), é classificado como Aw – clima tropical, com chuvas de verão e estação invernosa pouco definida ou ausente e forte precipitação anual. Sua temperatura média de 823.1 graus celsius e sua pluviosidade média de 1305 mm/ano. O mês que representa a menor pluviosidade é junho, sendo o mês de dezembro o com maior precipitação, com uma média em torno de 211 mm.
 

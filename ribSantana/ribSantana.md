@@ -334,7 +334,7 @@ Aptidões:
 
 ### Disponibilidade hídrica
 
-[Atualizar informações] Em conformidade com o diagnóstico realizado para a Disponibilidade Hídrica, foram identificados 57 processos de cadastro de uso insignificante e 17 processos de outorga, totalizando 74 usuários de água com processos vigentes na sub-bacia (Figura 7).
+O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processos de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na sub-bacia (Figura 7). Este número é sem dúvida muito inferior ao número de usuários de água. É recomendável que o poder pública realize campanhas sobre a importância da elaborações dos processos de outorga para o correto mapeamento da demanda de água da bacia.
 
 ![](img/figura7.png)
 

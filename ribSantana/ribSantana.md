@@ -3,12 +3,13 @@
 <p align="center">
   <b>Equipe do trabalho:</b><br>
   <br><br>
-  <a>Eric Bastos Gorgens</a><br>
   <a>Cristiano Matozinhos Christofaro</a><br>
   <a>Gleyce Campos Dutra</a><br>
   <a>Reynaldo Campos Santana</a><br>
   <a>Danielle Piuzana Mucida</a><br>
-  <a>Marcelino Morais</a>
+  <a>Marcelino Morais</a><br>
+  <a>Tamara Kelly Marques Rocha Nunes</a><br>
+  <a>Eric Bastos Gorgens</a>
   <br><br>
 </p>
 

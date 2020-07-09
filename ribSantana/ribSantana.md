@@ -66,7 +66,7 @@ Os mapas de solo, litologia, modelo digital de elevação e declividade auxiliam
 
 As Unidades de Paisagem foram identificadas em mapa preliminar obtido através do uso de imagens do satélite Sentinel-2 de até 6 meses anteriores à data deste estudo, e da imagem SRTM de 30 metros (Figura 2). Foram utilizadas, para refinamento e auxílio, as imagens do Google Earth, com precisão de 0,5 a 1 metro, além da visualização 3D através do modo “exagero vertical”, que se baseia na topografia do terreno o modelando em 3D na tela do computador. É possível então, através de inferências, a caracterização específica a cada Unidade de Paisagem, enfatizando: morfologia, embasamento geológico/pedológico, cobertura vegetal nativa original, potencialidades, limitações, uso atual, aptidões e situação ambiental. Realizou-se correlações em campo, das Unidades de Paisagens e na sequência a identificação, para cada Unidade de Paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
 
-![](img/figura2.png)
+![](img/figura11.png)
 
 ### Disponibilidade hidrica
 
@@ -82,15 +82,11 @@ Ao término do processamento dos cálculos, para produção do mapa de Situaçã
 
 O mapeamento do uso e ocupação do solo foi elaborado através de processamento de imagens de satélite, observações em campo (vide anexo II) e vetorização manual. Foram utilizadas duas imagens: I) Sentinel-2 de resolução espacial de 10 metros e bandas 2, 3, 4 e 8 intercalando entre cor-real e falsa-cor para identificação de diferentes feições; II) Como referência, quando necessária, imagens de satélite do Google Maps ou Bing Maps de resolução espacial de até 0,5 metros.
 
-![](img/figura11.png)
-
 ## Diagnóstico e análise ambiental da sub-bacia
 
 ### Unidades de Paisagem
 
 As Unidades de Paisagem da sub-bacia do Ribeirão Santana foram caracterizadas por 9 (nove) classes: afloramento, anfiteatro, colina de topo alongado, complexo côncavo convexo, superfícies tabulares, planícies e terraços fluviais, vale em v encaixado, vertentes ravinadas e vertentes retilíneas, das quais fundamentam a metodologia de caracterização integrada do meio físico e inferências aos meios biótico e antrópico, culminando com a adequação ambiental e produtiva deste compartimento geográfico.
-
-![](img/figura6.png)
 
 #### Afloramento
 

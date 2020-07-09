@@ -82,13 +82,15 @@ Ao término do processamento dos cálculos, para produção do mapa de Situaçã
 
 O mapeamento do uso e ocupação do solo foi elaborado através de processamento de imagens de satélite, observações em campo (vide anexo II) e vetorização manual. Foram utilizadas duas imagens: I) Sentinel-2 de resolução espacial de 10 metros e bandas 2, 3, 4 e 8 intercalando entre cor-real e falsa-cor para identificação de diferentes feições; II) Como referência, quando necessária, imagens de satélite do Google Maps ou Bing Maps de resolução espacial de até 0,5 metros.
 
+![](img/figura11.png)
+
 ## Diagnóstico e análise ambiental da sub-bacia
 
 ### Unidades de Paisagem
 
 As Unidades de Paisagem da sub-bacia do Ribeirão Santana foram caracterizadas por 9 (nove) classes: afloramento, anfiteatro, colina de topo alongado, complexo côncavo convexo, superfícies tabulares, planícies e terraços fluviais, vale em v encaixado, vertentes ravinadas e vertentes retilíneas, das quais fundamentam a metodologia de caracterização integrada do meio físico e inferências aos meios biótico e antrópico, culminando com a adequação ambiental e produtiva deste compartimento geográfico.
 
-![](imagem.png)
+![](img/figura6.png)
 
 #### Afloramento
 
@@ -336,9 +338,9 @@ Aptidões:
 
 O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processos de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na sub-bacia (Figura 7). Este número é sem dúvida muito inferior ao número de usuários de água. É recomendável que o poder pública realize campanhas sobre a importância da elaborações dos processos de outorga para o correto mapeamento da demanda de água da bacia.
 
-![](img/figura7.png)
-
 [Atualizar informações] O processo 02559/2009, correspondente a portaria no 3013/2009, não possuía coordenadas na tabela enviada pela SEMAD, fazendo-se necessária a inserção manual das mesmas. Os processos 23400/2012, 23401/2012, 23402/2012, 23403/2012 e 23404/2012, ao serem plotados foram localizados dentro da sub-bacia do Ribeirão Santa Isabel. No entanto ao analisa-los, as informações de localização não se coincidiram com a região, sendo marcados como coordenadas incorretas e eliminados do estudo. De forma semelhante, o processo 03880/2012, correspondente à portaria no 3345/2012, foi removido por apresentar coordenadas incorretas.
+
+![](img/figura7.png)
 
 [Atualizar informações] Os usuários de outorga têm como finalidade de uso principal da água a irrigação, enquanto os de uso insignificante se concentram na atividade da água para consumo humano e alguns outros para dessedentação de animais, como visto no quadro 3. A maior concentração de uso da água se dá na porção média da sub-bacia onde se encontram as maiores áreas de cultura e irrigação.
 
@@ -348,17 +350,15 @@ O diagnóstico realizado identificou 3 processos de cadastro de uso insignifican
 
 Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca de 40 \% da totalidade dos trechos).
 
-![](imagem.png)
+![](img/figura8.png)
 
 [Atualizar informações] Há uma extensa demanda na sub-bacia de forma generalizada, porém focalizada, evidentemente, na porção média onde há uso intensivo da água para irrigação de grandes áreas e pivôs. Na parte baixa da sub-bacia, também se observa alguns trechos com demanda, incluindo atividade agropecuária e alguns pivôs de irrigação. É importante ressaltar que alguns processos vencidos não tomaram iniciativa de realizar a renovação e existem captações observadas em campo que não se encontram na base do SIAM. Desta maneira, os dados oficiais validados mostram uma visão incompatível com a realidade da sub-bacia em estudo, sendo necessária a orientação à regularização dos usuários da sub-bacia para que se possa apresentar um produto de Disponibilidade Hídrica mais eficiente.
 
-![](imagem.png)
-
 [Atualizar informações] Para o estudo da situação de disponibilidade hídrica (figura 19) foram identificados 7 (sete) trechos em estado de atenção (cerca de 25\% da totalidade dos trechos com demanda), o que significa que estes se configuram com captação entre 50 a 100 \% do máximo permitido. No cenário atual não há trechos indisponíveis, o que leva à desnecessidade de elaboração de um produto que verifique a viabilidade de regularização.
 
-[Atualizar informações] A figura 20 indica os pontos de reservatórios, observados utilizando imagem de satélite e visita a campo, os quais não há nenhuma outorga deferida ou em processo no IGAM. Alguns destes reservatórios, extensos, podem utilizar grande quantidade de água afetando a vazão a jusante. Sem um registro da quantidade de água consumida, o cálculo deste produto fica comprometido. Recomendam-se ações de conscientização para regularização dos diversos reservatórios observados. As atividades devem ser compatibilizadas com o uso, e o produto de Disponibilidade Hídrica deve se manter atualizado a fim de obter um melhor cenário nas decisões de âmbito da gestão hídrica da sub-bacia do Ribeirão Santa Isabel.
+![](img/figura8.png)
 
-![](imagem.png)
+[Atualizar informações] A figura 20 indica os pontos de reservatórios, observados utilizando imagem de satélite e visita a campo, os quais não há nenhuma outorga deferida ou em processo no IGAM. Alguns destes reservatórios, extensos, podem utilizar grande quantidade de água afetando a vazão a jusante. Sem um registro da quantidade de água consumida, o cálculo deste produto fica comprometido. Recomendam-se ações de conscientização para regularização dos diversos reservatórios observados. As atividades devem ser compatibilizadas com o uso, e o produto de Disponibilidade Hídrica deve se manter atualizado a fim de obter um melhor cenário nas decisões de âmbito da gestão hídrica da sub-bacia do Ribeirão Santa Isabel.
 
 [Atualizar informações] O Quadro 4 dispõe a relação dos trechos de água com demanda da sub-bacia do Ribeirão Santa Isabel. Abaixo, um resumo da disponibilidade hídrica.
 
@@ -385,8 +385,6 @@ Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca
 
 ![](imagem.png)
 
-![](imagem.png)
-
 [Atualizar informações] As classes mais expressivas na sub-bacia do Ribeirão Santa Isabel são as relacionadas a Vegetação, com 69,61 \% (somadas as classes Cerradão, Campo, Cerrado e Vereda), Cultura com 14,1\% (quando somada às classes Pivô e ILPF) e Pastagem com 13,38\%. A partir disso, é possível afirmar que a sub-bacia tem um bom nível de conservação, com presença vegetativa expressiva por toda a sua extensão. Vale ressaltar que as áreas de solo fragilizado e degradado também se fazem abundantes, sobretudo nas áreas de Cerrado e Pastagem, e nos pontos de solo mais arenoso, e recomenda-se e manejo dessas áreas e arredores.
 
 [Atualizar informações] Representando 10,77\% da sub-bacia, as culturas se concentram onde é notável a presença de Latossolo vermelho e relevo suave e plano, nos quais foi observado em campo principalmente o cultivo de milho, soja e feijão em grandes proporções. A irrigação por aspersão central nos chamados Pivôs (figura 23) é uma prática comum, próxima aos grandes campos de lavoura temporária que à época da visita de campo, estavam em processo de alternância de cultura. Com 2,72\% do total da área da sub-bacia, os pivôs de irrigação se destacam na paisagem próximos aos cursos d’água, devido à alta demanda a este recurso e entre as culturas quando em relevos mais planos. Existe ainda as áreas com cultivo de Eucaliptos, a Silvicultura, que não se faz proeminente na sub-bacia, apesar de esta atividade se desenvolver em grandes porções de terra.
@@ -395,7 +393,9 @@ Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca
 
 ### Área de preservação permanente
 
-[Atualizar informações] As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais que são capazes de desestabilizar ecossistemas em diferentes escalas. No estudo deste ZAP, conforme consta na metodologia oficial, foram identificadas as APPs hídricas diferenciadas por: i) nascentes; ii) cursos d’água; iii) veredas; e iv) represas. Para cada uma, em ordem, foi aplicado um buffer de 50, 30, 50 metros e o mais restritivo para grandes represas (maiores que 1 hectare), 50 metros. A área total de APPs hídrica da sub-bacia do Ribeirão Santa Isabel é cerca de 5.990 hectares, representando aproximadamente 12\% de toda a área de estudo. Foram identificadas 909 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes. As áreas de veredas também foram computadas no cálculo de área, uma vez que as próprias veredas são APPs incluindo seu buffer de 50 metros. O resultado do mapa de APPs hídricas pode ser observado na figura 27.
+[Atualizar informações] As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais que são capazes de desestabilizar ecossistemas em diferentes escalas. No estudo deste ZAP, conforme consta na metodologia oficial, foram identificadas as APPs hídricas diferenciadas por: i) nascentes; ii) cursos d’água; iii) veredas; e iv) represas. Para cada uma, em ordem, foi aplicado um buffer de 50, 30, 50 metros e o mais restritivo para grandes represas (maiores que 1 hectare), 50 metros. A área total de APPs hídrica da sub-bacia do Ribeirão Santa Isabel é cerca de 5.990 hectares, representando aproximadamente 12\% de toda a área de estudo. Foram identificadas 909 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes. As áreas de veredas também foram computadas no cálculo de área, uma vez que as próprias veredas são APPs incluindo seu buffer de 50 metros.
+
+![](img/figura13.png)
 
 ## Considerações gerais
 

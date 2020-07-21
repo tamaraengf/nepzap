@@ -352,7 +352,7 @@ Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca
 
 [Atualizar informações] Para o estudo da situação de disponibilidade hídrica (figura 19) foram identificados 7 (sete) trechos em estado de atenção (cerca de 25\% da totalidade dos trechos com demanda), o que significa que estes se configuram com captação entre 50 a 100 \% do máximo permitido. No cenário atual não há trechos indisponíveis, o que leva à desnecessidade de elaboração de um produto que verifique a viabilidade de regularização.
 
-![](img/figura8.png)
+!
 
 [Atualizar informações] A figura 20 indica os pontos de reservatórios, observados utilizando imagem de satélite e visita a campo, os quais não há nenhuma outorga deferida ou em processo no IGAM. Alguns destes reservatórios, extensos, podem utilizar grande quantidade de água afetando a vazão a jusante. Sem um registro da quantidade de água consumida, o cálculo deste produto fica comprometido. Recomendam-se ações de conscientização para regularização dos diversos reservatórios observados. As atividades devem ser compatibilizadas com o uso, e o produto de Disponibilidade Hídrica deve se manter atualizado a fim de obter um melhor cenário nas decisões de âmbito da gestão hídrica da sub-bacia do Ribeirão Santa Isabel.
 
@@ -373,8 +373,7 @@ Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca
 
 ### Uso e ocupação do solo
 
-[Atualizar informações] No presente estudo da sub-bacia do Ribeirão Santa Isabel foram identificadas 13 (treze) classes relevantes de uso e ocupação, sendo elas em ordem de representatividade: Cerradão Campo, Cerrado, Pastagem, Cultura, Pivô, Solo degradado, Silvicultura, Vereda, Assentamento, ILPF (Integração Lavoura-Pasto-Floresta), Espelho D’água e Vilarejo Paiol (quadro 5 e figura 22). As classes identificadas no estudo estão de acordo com a metodologia ZAP oficial, sendo acrescentadas as classes que são relevantes para o contexto da sub-bacia e para a análise feita, contando também com as feições de estradas principais. Foi utilizada a imagem Sentinel-2 para este estudo (figura 21). Em segundo plano, destacam-se as estradas vicinais, no intuito de relacioná-las com as áreas susceptíveis à erosão. Contudo, devido à escala de mapa, não foi possível representá-las como polígonos, o que possibilitaria a contabilização de sua abrangência, estando elas apresentadas então em formato de linha.
-
+Com a utilização da imagem Sentinel-2 foi possível identificar 9 (nove) classes relevantes de uso e ocupação, na bacia do Ribeirão Santana, sendo elas em ordem de representatividade: Vegetação Nativa, Pastagem, Afloramanto Rochosos, Área Urbana, Floresta Plantada, Agricultura, Solo Exposto, Benfeitorias, Represas. As classes identificadas no estudo estão de acordo com a metodologia ZAP oficial. 
 | Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
 | ------- | ---- | ------------------ | -------- | ---------- | --------------- |
 | lorem   | lorem | lorem | lorem | lorem | lorem |

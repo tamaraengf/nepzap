@@ -352,8 +352,6 @@ Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca
 
 [Atualizar informações] Para o estudo da situação de disponibilidade hídrica (figura 19) foram identificados 7 (sete) trechos em estado de atenção (cerca de 25\% da totalidade dos trechos com demanda), o que significa que estes se configuram com captação entre 50 a 100 \% do máximo permitido. No cenário atual não há trechos indisponíveis, o que leva à desnecessidade de elaboração de um produto que verifique a viabilidade de regularização.
 
-!
-
 [Atualizar informações] A figura 20 indica os pontos de reservatórios, observados utilizando imagem de satélite e visita a campo, os quais não há nenhuma outorga deferida ou em processo no IGAM. Alguns destes reservatórios, extensos, podem utilizar grande quantidade de água afetando a vazão a jusante. Sem um registro da quantidade de água consumida, o cálculo deste produto fica comprometido. Recomendam-se ações de conscientização para regularização dos diversos reservatórios observados. As atividades devem ser compatibilizadas com o uso, e o produto de Disponibilidade Hídrica deve se manter atualizado a fim de obter um melhor cenário nas decisões de âmbito da gestão hídrica da sub-bacia do Ribeirão Santa Isabel.
 
 [Atualizar informações] O Quadro 4 dispõe a relação dos trechos de água com demanda da sub-bacia do Ribeirão Santa Isabel. Abaixo, um resumo da disponibilidade hídrica.
@@ -378,7 +376,7 @@ Com a utilização da imagem Sentinel-2 foi possível identificar 9 (nove) class
 | ------- | ---- | ------------------ | -------- | ---------- | --------------- |
 | lorem   | lorem | lorem | lorem | lorem | lorem |
 
-![](imagem.png)
+![](figura12.png)
 
 [Atualizar informações] As classes mais expressivas na sub-bacia do Ribeirão Santa Isabel são as relacionadas a Vegetação, com 69,61 \% (somadas as classes Cerradão, Campo, Cerrado e Vereda), Cultura com 14,1\% (quando somada às classes Pivô e ILPF) e Pastagem com 13,38\%. A partir disso, é possível afirmar que a sub-bacia tem um bom nível de conservação, com presença vegetativa expressiva por toda a sua extensão. Vale ressaltar que as áreas de solo fragilizado e degradado também se fazem abundantes, sobretudo nas áreas de Cerrado e Pastagem, e nos pontos de solo mais arenoso, e recomenda-se e manejo dessas áreas e arredores.
 

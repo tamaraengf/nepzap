@@ -376,7 +376,7 @@ Com a utilização da imagem Sentinel-2 foi possível identificar 9 (nove) class
 | ------- | ---- | ------------------ | -------- | ---------- | --------------- |
 | lorem   | lorem | lorem | lorem | lorem | lorem |
 
-![](figura12.png)
+![](img/figura12.png)
 
 [Atualizar informações] As classes mais expressivas na sub-bacia do Ribeirão Santa Isabel são as relacionadas a Vegetação, com 69,61 \% (somadas as classes Cerradão, Campo, Cerrado e Vereda), Cultura com 14,1\% (quando somada às classes Pivô e ILPF) e Pastagem com 13,38\%. A partir disso, é possível afirmar que a sub-bacia tem um bom nível de conservação, com presença vegetativa expressiva por toda a sua extensão. Vale ressaltar que as áreas de solo fragilizado e degradado também se fazem abundantes, sobretudo nas áreas de Cerrado e Pastagem, e nos pontos de solo mais arenoso, e recomenda-se e manejo dessas áreas e arredores.
 

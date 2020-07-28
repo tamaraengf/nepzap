@@ -25,21 +25,21 @@ Três produtos principais compõem este estudo:definição das unidades de paisa
 
 ![](img/figura1.png)
 
-## Material e métodos
+## Desenvolvimento
 
 ### Caracterização da bacia
 
 A sub-bacia hidrográfica do ribeirão Santana está localizada, em sua totalidade no município de Felício dos Santos, a 369 km da capital do estado, Belo Horizonte. Com uma área de aproximadamente 45.00 hectares, se insere na Unidade de Planejamento e Gestão de Recursos Hídricos do rio Araçuaí (UPGRH JQ2). O seu curso principal, Ribeirão Santana, deságua no Rio Araçuaí, que por sua vez deságua no Rio Jequitinhonha.
 
-De acordo com a classificação de Köppen-Geiger o regime climático na região da sub-bacia é tropical de altitude (Cwb), caracterizado por verões brandos e úmidos e invernos mais frescos e secos. Os índices de precipitação variam de 1250 mm a 1550 mm, e a temperatura média anual não ultrapassa os 20ºC, tendo uma variável entre 18º a 19ºC. Sub-bacia está localizada em um contexto geológico regional representado por rochas metamórficas do Supergrupo Espinhaço, em que se destacam especialmente os quartzitos, xistos e rochas metabásicas e do embasamento cristalino. As condições de clima e solos, por sua vez, favorecem o desenvolvimento de uma flora típica, com a presença de várias Fitofisionomias.
+De acordo com a classificação de Köppen-Geiger o regime climático na região da sub-bacia é tropical de altitude (Cwb), caracterizado por verões brandos e úmidos e invernos mais frescos e secos. Os índices de precipitação variam de 1250 mm a 1550 mm, e a temperatura média anual não ultrapassa os 20ºC, tendo uma variável entre 18ºC a 19ºC. Sub-bacia está localizada em um contexto geológico regional representado por rochas metamórficas do Supergrupo Espinhaço, em que se destacam especialmente os quartzitos, xistos e rochas metabásicas e do embasamento cristalino. As condições de clima e solos, por sua vez, favorecem o desenvolvimento de uma flora típica, com a presença de várias Fitofisionomias.
 
 [Atualizar informações] Segundo estudos de Hasui et al. (2012), geologicamente a área está localizada no Cinturão Brasília, mais especificamente na Faixa Brasília, na porção oeste das unidades dos Grupos Canastra e Vazante, onde se concentram rochas metassedimentares. Ainda de acordo com Hasui et al. (2012), no grupo Canastra a sub-bacia do ribeirão Santa Isabel é constituída pelas Formações Paracatu e Chapada dos Pilões, compostas basicamente por quartzitos basais e filitos carbonosos. No grupo Vazante, a sub-bacia é composta pelas Formações Lapa e Serra do Poço Verde, representadas por dolomitos estromatolíticos, brechas intraformacionais, ardósias carbonosas, metassiltitos, arenitos conglomeráticos e quartzitos. A grande área de sedimentos clásticos e lateríticos ferruginosos não possui unidade específica, sendo caracterizada pela CODEMIG (2014) como cobertura superficial indiferenciada. 
 
-Os solos identificados na sub-bacia, são representados pelas classes dos Argissolos Vermelhos Amarelos,Cambissolos Háplicos, Latossolos Vermelho e Neossolos Litólicos. Destes, o Cambissolos Háplicos, de maior ocorrência na área da sub-bacia, .........enquanto nos Latossolos Vermelhos de observa-se uma forte economia na silvicultura.
+Os solos identificados na sub-bacia, são representados pelas classes dos Argissolos Vermelhos Amarelos,Cambissolos Háplicos, Latossolos Vermelho e Neossolos Litólicos. Destes, o Cambissolos Háplicos, de maior ocorrência na área da sub-bacia, .........enquanto nos Latossolos Vermelhos de observa-se uma forte presença de atividades silviculturais.
 
 ![](img/figura3.png)
 
-[Atualizar informações] A sub-bacia do ribeirão Santana faz parte da Serra do Espinhaço e apresenta um relevo plano com varias elevações, variando de 1826 metros na cabeceira da sub-bacia, até 709 metros. Possui variação de declividade, concentrando valores entre de 0 a 8 \%, enquanto na região norte e leste há uma maior variação chegando acima de 45 \% de declividade (Figura 5).
+A sub-bacia do ribeirão Santana faz parte da Serra do Espinhaço e apresenta um relevo suave ondulado na redição baixa da bacia e ondulado a montanhoso na região alta da bacia. A elevação varia de 1826 metros na cabeceira da sub-bacia, até 709 metros no encontro com o Rio Araçuaí. A declividade predominante está entre valores 0 e 8%, enquanto na região norte e leste há uma maior variação chegando a 45% de declividade.
 
 ![](img/figura4.png)
 
@@ -64,7 +64,7 @@ Os materiais utilizados para este estudo constituem de pesquisas bibliográficas
 
 Os mapas de solo, litologia, modelo digital de elevação e declividade auxiliam na elaboração de um dos principais produtos do ZAP, o mapa de Unidades de Paisagem. Nesta metodologia, considera-se a paisagem, dentro de cada especificidade local, como uma síntese dos componentes dos meios físicos (geologia, relevo e solos), meio biótico (vegetação nativa) e meio socioeconômico (atividades antrópicas). No caso específico a atividades rurais, é notória a familiaridade de produtores e trabalhadores rurais com a paisagem local, fato que facilita diálogos e discussões pertinentes à capacidade de suporte das respectivas Unidades de Paisagem.
 
-As Unidades de Paisagem foram identificadas em mapa preliminar obtido através do uso de imagens do satélite Sentinel-2 de até 6 meses anteriores à data deste estudo, e da imagem SRTM de 30 metros (Figura 2). Foram utilizadas, para refinamento e auxílio, as imagens do Google Earth, com precisão de 0,5 a 1 metro, além da visualização 3D através do modo “exagero vertical”, que se baseia na topografia do terreno o modelando em 3D na tela do computador. É possível então, através de inferências, a caracterização específica a cada Unidade de Paisagem, enfatizando: morfologia, embasamento geológico/pedológico, cobertura vegetal nativa original, potencialidades, limitações, uso atual, aptidões e situação ambiental. Realizou-se correlações em campo, das Unidades de Paisagens e na sequência a identificação, para cada Unidade de Paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
+As Unidades de Paisagem foram identificadas em mapa preliminar obtido através do uso de imagens do satélite Sentinel-2 de até 6 meses anteriores à data deste estudo, e da imagem SRTM de 30 metros. Foram utilizadas, para refinamento e auxílio, as imagens do Google Earth, com precisão de 0,5 a 1 metro, além da visualização 3D através do modo “exagero vertical”, que se baseia na topografia do terreno o modelando em 3D na tela do computador. É possível então, através de inferências, a caracterização específica a cada Unidade de Paisagem, enfatizando: morfologia, embasamento geológico/pedológico, cobertura vegetal nativa original, potencialidades, limitações, uso atual, aptidões e situação ambiental. Realizou-se correlações em campo, das Unidades de Paisagens e na sequência a identificação, para cada Unidade de Paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
 
 ![](img/figura11.png)
 
@@ -74,9 +74,7 @@ Os dados utilizados para diagnóstico da Disponibilidade Hídrica foram disponib
 
 Após a delimitação da sub-bacia e de sua hidrografia, os dados de outorga e cadastro de uso insignificante foram consistidos e plotados seguindo a metodologia ZAP oficial proposta. Apenas usuários de água superficial são contemplados neste estudo de disponibilidade hídrica, no entanto, como forma demonstrativa, os dados subterrâneos também estão incluídos (sem parte nos cálculos realizados) com intuito de auxiliar na análise da gestão de recursos hídricos da sub-bacia. Todos os usuários que apresentam status de “Cadastro Efetivado”, “Outorga Deferida, Renovada e Retificada” foram contemplados no diagnóstico. Foram filtrados os dados, através da coluna de vencimento de outorga, todos os usuários que possuem processos com vencimento superior a março de 2018, sendo estes incluídos conforme informado na metodologia ZAP oficial. Para uma análise mais detalhada, também foram contemplados, em um segundo momento, usuários que apresentam status de “Aguardando Informação Complementar”, “Análise Técnica Concluída”, “Em Análise Técnica” e “Processo Formalizado”, a fim de apresentar um cenário futuro para a Disponibilidade Hídrica da sub-bacia.
 
-Após a consolidação, os dados foram plotados em ambiente SIG, com os devidos cálculos para todos subprodutos da Disponibilidade Hídrica e então elaborado mapas que facilitam a interpretação. Os cálculos para cada subproduto da Disponibilidade Hídrica foram feitos de acordo com a metodologia oficial ZAP incluindo: disponibilidade hídrica de cada trecho, comprometimento hídrico de cada trecho.
-
-Ao término do processamento dos cálculos, para produção do mapa de Situação da Disponibilidade Hídrica foi necessário classificá-lo de acordo com o comprometimento de cada segmento: Indisponibilidade, Estado de atenção e Disponibilidade.
+Após a consolidação, os dados foram plotados em ambiente SIG, com os devidos cálculos para todos subprodutos da Disponibilidade Hídrica e então elaborado mapas que facilitam a interpretação. Os cálculos para cada subproduto da Disponibilidade Hídrica foram feitos de acordo com a metodologia oficial ZAP incluindo: disponibilidade hídrica de cada trecho, comprometimento hídrico de cada trecho. Ao término do processamento dos cálculos, para produção do mapa de Situação da Disponibilidade Hídrica foi necessário classificá-lo de acordo com o comprometimento de cada segmento: Indisponibilidade, Estado de atenção e Disponibilidade.
 
 ### Uso e ocupação do solo
 
@@ -332,19 +330,15 @@ Aptidões:
 
 ### Disponibilidade hídrica
 
-O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processos de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na sub-bacia (Figura 7). Este número é sem dúvida muito inferior ao número de usuários de água. É recomendável que o poder pública realize campanhas sobre a importância da elaborações dos processos de outorga para o correto mapeamento da demanda de água da bacia.
-
-[Atualizar informações] O processo 02559/2009, correspondente a portaria no 3013/2009, não possuía coordenadas na tabela enviada pela SEMAD, fazendo-se necessária a inserção manual das mesmas. Os processos 23400/2012, 23401/2012, 23402/2012, 23403/2012 e 23404/2012, ao serem plotados foram localizados dentro da sub-bacia do Ribeirão Santa Isabel. No entanto ao analisa-los, as informações de localização não se coincidiram com a região, sendo marcados como coordenadas incorretas e eliminados do estudo. De forma semelhante, o processo 03880/2012, correspondente à portaria no 3345/2012, foi removido por apresentar coordenadas incorretas.
+O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processos de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na sub-bacia. Este número é sem dúvida muito inferior ao número de usuários de água. É recomendável que o poder pública realize campanhas sobre a importância da elaborações dos processos de outorga para o correto mapeamento da demanda de água da bacia.
 
 ![](img/figura7.png)
 
-[Atualizar informações] Os usuários de outorga têm como finalidade de uso principal da água a irrigação, enquanto os de uso insignificante se concentram na atividade da água para consumo humano e alguns outros para dessedentação de animais, como visto no quadro 3. A maior concentração de uso da água se dá na porção média da sub-bacia onde se encontram as maiores áreas de cultura e irrigação.
+[Atualizar informações] Os usuários de outorga têm como finalidade de uso principal da água a irrigação, enquanto os de uso insignificante se concentram na atividade da água para consumo humano e alguns outros para dessedentação de animais, como visto no quadro 3. A maior concentração de uso da água se dá na porção média da sub-bacia onde se encontram as maiores áreas de cultura e irrigação. Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca de 40% da totalidade dos trechos).
 
-| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
-| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
-| lorem   | lorem | lorem | lorem | lorem | lorem |
-
-Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca de 40 \% da totalidade dos trechos).
+| Unidade | Área  | Representatividade | Aptidões | Limitações | Potencialidades |
+| ------- | ----- | ------------------ | -------- | ---------- | --------------- |
+| lorem   | lorem | lorem              | lorem    |      lorem |           lorem |
 
 ![](img/figura8.png)
 
@@ -359,11 +353,11 @@ Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca
 - Área de drenagem: ~ 500 km2;
 - Vazão de referência (Q7,10): 0,8285 m3/s;
 - Vazão média de longo período (Qmld): 6,4788 m3/s;
-- Índice (r7,10 = Q7,10/Qmld): 12,8\%;
-- Capacidade de regularização natural: de 11 a 30\% = Média capacidade de regularização natural;
-- Disponibilidade (vazão máxima outorgável: 50\% da Q7,10): 0,4142 m3/s;
+- Índice (r7,10 = Q7,10/Qmld): 12,8%;
+- Capacidade de regularização natural: de 11 a 30% = Média capacidade de regularização natural;
+- Disponibilidade (vazão máxima outorgável: 50% da Q7,10): 0,4142 m3/s;
 - Demanda (vazão outorgada) – cenário atual: 0,5662 m3/s;
-- Relação demanda/disponibilidade – cenário atual: 136,7\%
+- Relação demanda/disponibilidade – cenário atual: 136,7%
 
 | Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
 | ------- | ---- | ------------------ | -------- | ---------- | --------------- |
@@ -372,6 +366,7 @@ Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca
 ### Uso e ocupação do solo
 
 Com a utilização da imagem Sentinel-2 foi possível identificar 9 (nove) classes relevantes de uso e ocupação, na bacia do Ribeirão Santana, sendo elas em ordem de representatividade: Vegetação Nativa, Pastagem, Afloramanto Rochosos, Área Urbana, Floresta Plantada, Agricultura, Solo Exposto, Benfeitorias, Represas. As classes identificadas no estudo estão de acordo com a metodologia ZAP oficial. 
+
 | Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
 | ------- | ---- | ------------------ | -------- | ---------- | --------------- |
 | lorem   | lorem | lorem | lorem | lorem | lorem |
@@ -402,13 +397,13 @@ As considerações gerais têm como objetivo correlacionar todos os produtos do 
 
 ### Conflito com areas de preservação permanente
 
-\textbf{[Atualizar informações]} A representação das APPs hídricas conservadas e antropizadas pode ser utilizada para indicar quais áreas de APPs devem ser priorizadas para recuperação, qual a melhor forma para tal e ainda cruzar as informações com outros produtos objetivando análises mais profundas. Espacialmente, as APPs hídricas conservadas são representadas pela interseção entre as classes de uso e ocupação do solo Campo, Cerradão, Cerrado e Veredas com as APPs hídricas, e seu oposto, as APPs hídricas antropizadas são interseccionadas com as classes de uso e ocupação do solo Assentamento, Cultura, ILPF, Pastagem, Pivô, Silvicultura, Solo degradado e Vilarejo Paiol novamente com as APPs hídricas. o índice de antropização das APPs hídricas foi de 4\%
+[Atualizar informações] A representação das APPs hídricas conservadas e antropizadas pode ser utilizada para indicar quais áreas de APPs devem ser priorizadas para recuperação, qual a melhor forma para tal e ainda cruzar as informações com outros produtos objetivando análises mais profundas. Espacialmente, as APPs hídricas conservadas são representadas pela interseção entre as classes de uso e ocupação do solo Campo, Cerradão, Cerrado e Veredas com as APPs hídricas, e seu oposto, as APPs hídricas antropizadas são interseccionadas com as classes de uso e ocupação do solo Assentamento, Cultura, ILPF, Pastagem, Pivô, Silvicultura, Solo degradado e Vilarejo Paiol novamente com as APPs hídricas. o índice de antropização das APPs hídricas foi de 4%.
 
 ![](imagem.png)
 
 ### Conservação de nascentes
 
-[Atualizar informações] O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da sub-bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da sub-bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, se obtém 0,78 por nascente, e é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da sub-bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na sub-bacia. O índice de concentração de nascentes foi de 1.42\%
+[Atualizar informações] O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da sub-bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da sub-bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, se obtém 0,78 por nascente, e é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da sub-bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na sub-bacia. O índice de concentração de nascentes foi de 1.42%.
 
 ### Conflito de uso e ocupação do solo
 
@@ -422,7 +417,9 @@ As considerações gerais têm como objetivo correlacionar todos os produtos do 
 | ------- | ---- | ------------------ | -------- | ---------- | --------------- |
 | lorem   | lorem | lorem | lorem | lorem | lorem |
 
-[Atualizar informações] O quadro 9 demonstra os valores de área em hectares da análise de conflito e são utilizados para o cálculo do índice de uso conflitante da sub-bacia. O índice é calculado a partir da equação demonstrada abaixo e varia de 0 a 100 sendo que quanto maior o valor, maior a taxa de conflito entre o uso e ocupação do solo atual com as unidades de paisagem identificadas na sub-bacia. O índice de uso conflitante na bacia foi de 4.3 \%.
+[Atualizar informações] O quadro 9 demonstra os valores de área em hectares da análise de conflito e são utilizados para o cálculo do índice de uso conflitante da sub-bacia. O índice é calculado a partir da equação demonstrada abaixo e varia de 0 a 100 sendo que quanto maior o valor, maior a taxa de conflito entre o uso e ocupação do solo atual com as unidades de paisagem identificadas na sub-bacia. O índice de uso conflitante na bacia foi de 4.3
+
+.
 
 | Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
 | ------- | ---- | ------------------ | -------- | ---------- | --------------- |

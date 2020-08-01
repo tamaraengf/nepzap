@@ -1,7 +1,7 @@
 # ZAP - Bacia Hidrográfica do Ribeirão Santana
 
 <p align="center">
-  <b>Equipe do trabalho:</b><br>
+  <b>Autores:</b><br>
   <br><br>
   <a>Cristiano Matozinhos Christofaro</a><br>
   <a>Gleyce Campos Dutra</a><br>

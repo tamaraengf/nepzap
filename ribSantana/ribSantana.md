@@ -389,11 +389,17 @@ As considerações gerais têm como objetivo correlacionar todos os produtos do 
 
 ### Áreas conservadas e antropisadas
 
-[Atualizar informações] As classes Campo, Cerrado, Cerradão e Vereda foram consideradas conservadas, enquanto as classes Assentamento, Cultura, ILPF, Pastagem, Pivô, Silvicultura, Solo Degradado e Vilarejo Paiol foram consideradas antropisadas, excluindo a classe espelhos d’água por representar corpos hídricos. O resultado total em área (hectares) pode ser visto no quadro 6.
+As classes de uso do solo vegetação nativa e afloramento rochoso foram consideradas conservadas, enquanto as classes floresta plantada, benfeitorias, agricultura, urbana, solo exposto e pastagem foram consideradas antropisadas. A classe de represa foi desconsiderada por representar corpos hídricos.
 
 ![](imagem.png)
 
-[Atualizar informações] O índice de conservação da sub-bacia foi de 69.6\%. Este índice auxilia em uma primeira observação geral sobre a ocupação da sub-bacia, no entanto é necessária a observação em mapa e/ou SIG para um melhor planejamento de gestão, já que este permite visualizar onde se localizam importantes fragmentos de vegetação conservada que podem ser interligados a outros.
+O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o grau de ocupação da sub-bacia com atividades antrópicas. No entanto, ele não deve ser avaliado de forma isolada. A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na na parte média e baixa da bacia, e coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos é a porção mais preservada.
+
+| Tipo de área | Área (ha) | Representatividade (%) |
+|--------------|-----------|------------------------|
+| Conservada   | 5605,85   | 76,96                  |
+| Antropizadas | 1677,42   | 23,03                  |
+| Área total   | 7284,118  |                        |
 
 ### Conflito com areas de preservação permanente
 
@@ -401,9 +407,24 @@ As considerações gerais têm como objetivo correlacionar todos os produtos do 
 
 ![](imagem.png)
 
+| Tipos de área | Área (ha) | Representatividade (%) |
+|---------------|-----------|------------------------|
+| Conservada    | 776,880   | 0,80                   |
+| Antropizadas  | 192,350   | 0,20                   |
+| Represas      | 2,262     | 0,00                   |
+| Área total    | 971,490   |                        |
+
 ### Conservação de nascentes
 
 [Atualizar informações] O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da sub-bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da sub-bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, se obtém 0,78 por nascente, e é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da sub-bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na sub-bacia. O índice de concentração de nascentes foi de 1.42%.
+
+| Variáveis           | Valores     |
+|---------------------|-------------|
+| Número de nascentes | 166         |
+| fator               | 0,78        |
+| N * fator           | 129,48      |
+| Área da bacia       | 7284,118    |
+| I_cb                | 1,777565932 |
 
 ### Conflito de uso e ocupação do solo
 
@@ -413,17 +434,27 @@ As considerações gerais têm como objetivo correlacionar todos os produtos do 
 
 ![](imagem.png)
 
-| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
-| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
-| lorem   | lorem | lorem | lorem | lorem | lorem |
+| Uso e unidade de paisagem | Área (ha) | Representatividade (%) |
+|---------------------------|-----------|------------------------|
+| Compatível                | 6760,27   | 92,81                  |
+| Incompatível              | 320,687   | 4,40                   |
+| Controle e manejo         | 66,261    | 0,91                   |
+| Outros                    | 136,9     |                        |
+| Área total                | 7284,118  |                        |
 
-[Atualizar informações] O quadro 9 demonstra os valores de área em hectares da análise de conflito e são utilizados para o cálculo do índice de uso conflitante da sub-bacia. O índice é calculado a partir da equação demonstrada abaixo e varia de 0 a 100 sendo que quanto maior o valor, maior a taxa de conflito entre o uso e ocupação do solo atual com as unidades de paisagem identificadas na sub-bacia. O índice de uso conflitante na bacia foi de 4.3
+[Atualizar informações] O quadro 9 demonstra os valores de área em hectares da análise de conflito e são utilizados para o cálculo do índice de uso conflitante da sub-bacia. O índice é calculado a partir da equação demonstrada abaixo e varia de 0 a 100 sendo que quanto maior o valor, maior a taxa de conflito entre o uso e ocupação do solo atual com as unidades de paisagem identificadas na sub-bacia. O índice de uso conflitante na bacia foi de 4.3.
 
-.
-
-| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
-| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
-| lorem   | lorem | lorem | lorem | lorem | lorem |
+| Unidade de paisagem          | Incompatível (ha) | Representatividade (%) |
+|------------------------------|-------------------|------------------------|
+| Vertente Ravinada            | 268,34            | 13,22                  |
+| Anfiteatro                   |                   |                        |
+| Superfícies Tabulares        | 9,38              | 3,61                   |
+| Complexo Côncavo Convexo     | 5,19              | 0,35                   |
+| Vertente Retilínea           |                   |                        |
+| Colina Alongada              |                   |                        |
+| Vale em V                    | 10,42             | 4,00                   |
+| Afloramento                  | 26,57             | 1,44                   |
+| Planicie e Terraços Fluviais | 0,79              | 0,09                   |
 
 ### Resumo dos índices
 

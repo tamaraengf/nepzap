@@ -23,7 +23,7 @@ A sub-bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na reg
 
 Três produtos principais compõem este estudo:definição das unidades de paisagem, diagnóstico da disponibilidade hídrica da sub-bacia e levantamento do uso e ocupação do solo. Através do cruzamento dos dados destes três produtos foi possível elaborar diagnósticos e análises ambientais acerca da referida sub-bacia. Um documento anexo intitulado como Potencial de Adequação sugere ainda intervenções, baseadas neste ZAP, que auxiliam a tomada de decisões na gestão de recursos hídricos da sub-bacia.
 
-![](img/figura1.png)
+![](img/fig1_limites.png)
 
 ## Desenvolvimento
 
@@ -332,7 +332,7 @@ Aptidões:
 
 O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processos de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na sub-bacia. Este número é sem dúvida muito inferior ao número de usuários de água. É recomendável que o poder pública realize campanhas sobre a importância da elaborações dos processos de outorga para o correto mapeamento da demanda de água da bacia.
 
-![](img/figura7.png)
+![](img/fig7_outorgasTipo.png)
 
 [Atualizar informações] Os usuários de outorga têm como finalidade de uso principal da água a irrigação, enquanto os de uso insignificante se concentram na atividade da água para consumo humano e alguns outros para dessedentação de animais, como visto no quadro 3. A maior concentração de uso da água se dá na porção média da sub-bacia onde se encontram as maiores áreas de cultura e irrigação. Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca de 40% da totalidade dos trechos).
 
@@ -340,11 +340,13 @@ O diagnóstico realizado identificou 3 processos de cadastro de uso insignifican
 | ------- | ----- | ------------------ | -------- | ---------- | --------------- |
 | lorem   | lorem | lorem              | lorem    |      lorem |           lorem |
 
-![](img/figura8.png)
+![](img/fig8_demanda.png)
 
 [Atualizar informações] Há uma extensa demanda na sub-bacia de forma generalizada, porém focalizada, evidentemente, na porção média onde há uso intensivo da água para irrigação de grandes áreas e pivôs. Na parte baixa da sub-bacia, também se observa alguns trechos com demanda, incluindo atividade agropecuária e alguns pivôs de irrigação. É importante ressaltar que alguns processos vencidos não tomaram iniciativa de realizar a renovação e existem captações observadas em campo que não se encontram na base do SIAM. Desta maneira, os dados oficiais validados mostram uma visão incompatível com a realidade da sub-bacia em estudo, sendo necessária a orientação à regularização dos usuários da sub-bacia para que se possa apresentar um produto de Disponibilidade Hídrica mais eficiente.
 
 [Atualizar informações] Para o estudo da situação de disponibilidade hídrica (figura 19) foram identificados 7 (sete) trechos em estado de atenção (cerca de 25\% da totalidade dos trechos com demanda), o que significa que estes se configuram com captação entre 50 a 100 \% do máximo permitido. No cenário atual não há trechos indisponíveis, o que leva à desnecessidade de elaboração de um produto que verifique a viabilidade de regularização.
+
+![](img/fig9_disponibilidade.png)
 
 [Atualizar informações] A figura 20 indica os pontos de reservatórios, observados utilizando imagem de satélite e visita a campo, os quais não há nenhuma outorga deferida ou em processo no IGAM. Alguns destes reservatórios, extensos, podem utilizar grande quantidade de água afetando a vazão a jusante. Sem um registro da quantidade de água consumida, o cálculo deste produto fica comprometido. Recomendam-se ações de conscientização para regularização dos diversos reservatórios observados. As atividades devem ser compatibilizadas com o uso, e o produto de Disponibilidade Hídrica deve se manter atualizado a fim de obter um melhor cenário nas decisões de âmbito da gestão hídrica da sub-bacia do Ribeirão Santa Isabel.
 
@@ -381,7 +383,7 @@ Representando 1,6% da área da sub-bacia o cultivo de floresta plantada se faz p
 
 [Atualizar informações] As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais que são capazes de desestabilizar ecossistemas em diferentes escalas. No estudo deste ZAP, conforme consta na metodologia oficial, foram identificadas as APPs hídricas diferenciadas por: i) nascentes; ii) cursos d’água; iii) e v) represas. Para cada uma, em ordem, foi aplicado um buffer de 50, 30, 50 metros e o mais restritivo para grandes represas (maiores que 1 hectare), 50 metros. A área total de APPs hídrica da sub-bacia do Ribeirão Santa Isabel é cerca de 5.990 hectares, representando aproximadamente 12\% de toda a área de estudo. Foram identificadas 909 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes. As áreas de veredas também foram computadas no cálculo de área, uma vez que as próprias veredas são APPs incluindo seu buffer de 50 metros.
 
-![](img/figura13.png)
+![](img/fig13_appHidrica.png)
 
 ## Considerações gerais
 
@@ -391,7 +393,7 @@ As considerações gerais têm como objetivo correlacionar todos os produtos do 
 
 As classes de uso do solo vegetação nativa e afloramento rochoso foram consideradas conservadas, enquanto as classes floresta plantada, benfeitorias, agricultura, urbana, solo exposto e pastagem foram consideradas antropisadas. A classe de represa foi desconsiderada por representar corpos hídricos.
 
-![](imagem.png)
+![](fig14_areaAntropizada.png)
 
 O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o grau de ocupação da sub-bacia com atividades antrópicas. No entanto, ele não deve ser avaliado de forma isolada. A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na na parte média e baixa da bacia, e coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos é a porção mais preservada.
 
@@ -405,7 +407,7 @@ O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o gra
 
 [Atualizar informações] A representação das APPs hídricas conservadas e antropizadas pode ser utilizada para indicar quais áreas de APPs devem ser priorizadas para recuperação, qual a melhor forma para tal e ainda cruzar as informações com outros produtos objetivando análises mais profundas. Espacialmente, as APPs hídricas conservadas são representadas pela interseção entre as classes de uso e ocupação do solo Campo, Cerradão, Cerrado e Veredas com as APPs hídricas, e seu oposto, as APPs hídricas antropizadas são interseccionadas com as classes de uso e ocupação do solo Assentamento, Cultura, ILPF, Pastagem, Pivô, Silvicultura, Solo degradado e Vilarejo Paiol novamente com as APPs hídricas. o índice de antropização das APPs hídricas foi de 4%.
 
-![](imagem.png)
+![](fig15_appAntropizada.png)
 
 | Tipos de área | Área (ha) | Representatividade (%) |
 |---------------|-----------|------------------------|
@@ -432,7 +434,7 @@ O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o gra
 
 [Atualizar informações] É executado através da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, através da metodologia de caracterização de unidades de paisagem de Fernandes (2013) (com auxílio do Quadro 2 deste estudo) e conhecimento de campo, onde há compatibilidade e incompatibilidade de usos na sub-bacia. Uma terceira classificação foi proposta, conforme metodologia ZAP oficial, denominada de “depende de controle e manejo” demonstrando que tal uso é compatível a partir de técnicas de controle e manejo do solo adequados. A classificação “não aplicável” é dada às classes de uso que não são passíveis de alteração por inviabilidade ou consolidação de uso.
 
-![](imagem.png)
+![](fig16_conflitoUso.png)
 
 | Uso e unidade de paisagem | Área (ha) | Representatividade (%) |
 |---------------------------|-----------|------------------------|

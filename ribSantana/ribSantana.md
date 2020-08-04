@@ -393,7 +393,7 @@ As considerações gerais têm como objetivo correlacionar todos os produtos do 
 
 As classes de uso do solo vegetação nativa e afloramento rochoso foram consideradas conservadas, enquanto as classes floresta plantada, benfeitorias, agricultura, urbana, solo exposto e pastagem foram consideradas antropisadas. A classe de represa foi desconsiderada por representar corpos hídricos.
 
-![](fig14_areaAntropizada.png)
+![](img/fig14_areaAntropizada.png)
 
 O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o grau de ocupação da sub-bacia com atividades antrópicas. No entanto, ele não deve ser avaliado de forma isolada. A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na na parte média e baixa da bacia, e coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos é a porção mais preservada.
 
@@ -407,7 +407,7 @@ O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o gra
 
 [Atualizar informações] A representação das APPs hídricas conservadas e antropizadas pode ser utilizada para indicar quais áreas de APPs devem ser priorizadas para recuperação, qual a melhor forma para tal e ainda cruzar as informações com outros produtos objetivando análises mais profundas. Espacialmente, as APPs hídricas conservadas são representadas pela interseção entre as classes de uso e ocupação do solo Campo, Cerradão, Cerrado e Veredas com as APPs hídricas, e seu oposto, as APPs hídricas antropizadas são interseccionadas com as classes de uso e ocupação do solo Assentamento, Cultura, ILPF, Pastagem, Pivô, Silvicultura, Solo degradado e Vilarejo Paiol novamente com as APPs hídricas. o índice de antropização das APPs hídricas foi de 4%.
 
-![](fig15_appAntropizada.png)
+![](img/fig15_appAntropizada.png)
 
 | Tipos de área | Área (ha) | Representatividade (%) |
 |---------------|-----------|------------------------|
@@ -434,7 +434,7 @@ O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o gra
 
 [Atualizar informações] É executado através da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, através da metodologia de caracterização de unidades de paisagem de Fernandes (2013) (com auxílio do Quadro 2 deste estudo) e conhecimento de campo, onde há compatibilidade e incompatibilidade de usos na sub-bacia. Uma terceira classificação foi proposta, conforme metodologia ZAP oficial, denominada de “depende de controle e manejo” demonstrando que tal uso é compatível a partir de técnicas de controle e manejo do solo adequados. A classificação “não aplicável” é dada às classes de uso que não são passíveis de alteração por inviabilidade ou consolidação de uso.
 
-![](fig16_conflitoUso.png)
+![](img/fig16_conflitoUso.png)
 
 | Uso e unidade de paisagem | Área (ha) | Representatividade (%) |
 |---------------------------|-----------|------------------------|

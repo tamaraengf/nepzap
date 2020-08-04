@@ -428,6 +428,8 @@ O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o gra
 | Área da bacia       | 7284,118    |
 | I_cb                | 1,777565932 |
 
+![](img/fig17_concentracaoNascentes.png)
+
 ### Conflito de uso e ocupação do solo
 
 [Atualizar informações] O conflito entre Unidades de Paisagem e Uso e Ocupação do Solo (figura 30) expõe as áreas da sub-bacia que sofrem maior impacto ambiental por determinado tipo de uso em certa unidade de paisagem. É um importante subproduto a ser analisado ambientalmente para determinar áreas que devem sofrer intervenção em seu uso visando a conservação da sub-bacia.

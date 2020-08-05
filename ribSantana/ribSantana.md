@@ -35,7 +35,7 @@ De acordo com a classificação de Köppen-Geiger o regime climático na região
 
 [Atualizar informações] Segundo estudos de Hasui et al. (2012), geologicamente a área está localizada no Cinturão Brasília, mais especificamente na Faixa Brasília, na porção oeste das unidades dos Grupos Canastra e Vazante, onde se concentram rochas metassedimentares. Ainda de acordo com Hasui et al. (2012), no grupo Canastra a sub-bacia do ribeirão Santa Isabel é constituída pelas Formações Paracatu e Chapada dos Pilões, compostas basicamente por quartzitos basais e filitos carbonosos. No grupo Vazante, a sub-bacia é composta pelas Formações Lapa e Serra do Poço Verde, representadas por dolomitos estromatolíticos, brechas intraformacionais, ardósias carbonosas, metassiltitos, arenitos conglomeráticos e quartzitos. A grande área de sedimentos clásticos e lateríticos ferruginosos não possui unidade específica, sendo caracterizada pela CODEMIG (2014) como cobertura superficial indiferenciada. 
 
-Os solos identificados na sub-bacia, são representados pelas classes dos Argissolos Vermelhos Amarelos,Cambissolos Háplicos, Latossolos Vermelho e Neossolos Litólicos. Destes, o Cambissolos Háplicos, de maior ocorrência na área da sub-bacia, .........enquanto nos Latossolos Vermelhos de observa-se uma forte presença de atividades silviculturais.
+Os solos identificados na sub-bacia, são representados pelas classes dos Cambissolos Háplicos, Argissolos Vermelhos Amarelos, Neossolos Litólicos e Latossolos Vermelho. Destes, o Cambissolos Háplicos, de maior incidência  na área da sub-bacia,com ocorrência de Vegetação Nativa e pastagem, nos Argissolos Vermelhos Amarelos concentra-se a área urbana, pastagens e vegetação nativa, Neossolos litolicos afloramantos rochosos, vegetação nativa, enquanto nos Latossolos Vermelhos de observa-se presença de atividade silviculturais.
 
 ![](img/figura3.png)
 
@@ -395,13 +395,14 @@ As classes de uso do solo vegetação nativa e afloramento rochoso foram conside
 
 ![](img/fig14_areaAntropizada.png)
 
-O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o grau de ocupação da sub-bacia com atividades antrópicas. No entanto, ele não deve ser avaliado de forma isolada. A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na na parte média e baixa da bacia, e coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos é a porção mais preservada.
+O índice de conservação da sub-bacia foi de 76,96%. Este índice indica o grau de ocupação da sub-bacia com atividades antrópicas. No entanto, ele não deve ser avaliado de forma isolada. A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na na parte média e baixa da bacia, e coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos é a porção mais preservada.
 
 | Tipo de área | Área (ha) | Representatividade (%) |
 |--------------|-----------|------------------------|
 | Conservada   | 5605,85   | 76,96                  |
 | Antropizadas | 1677,42   | 23,03                  |
 | Área total   | 7284,118  |                        |
+
 
 ### Conflito com areas de preservação permanente
 
@@ -418,7 +419,7 @@ O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o gra
 
 ### Conservação de nascentes
 
-[Atualizar informações] O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da sub-bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da sub-bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, se obtém 0,78 por nascente, e é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da sub-bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na sub-bacia. O índice de concentração de nascentes foi de 1.42%.
+O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da sub-bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da sub-bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, se obtém 0,78 por nascente, e é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da sub-bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na sub-bacia. O índice de concentração de nascentes foi de 1.77%.
 
 | Variáveis           | Valores     |
 |---------------------|-------------|
@@ -427,8 +428,6 @@ O índice de conservação da sub-bacia foi de 79,96%. Este índice indica o gra
 | N * fator           | 129,48      |
 | Área da bacia       | 7284,118    |
 | I_cb                | 1,777565932 |
-
-![](img/fig17_concentracaoNascentes.png)
 
 ### Conflito de uso e ocupação do solo
 

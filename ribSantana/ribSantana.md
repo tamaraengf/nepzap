@@ -90,7 +90,7 @@ O mapeamento do uso e ocupação do solo foi elaborado através de processamento
 
 ### Unidades de Paisagem
 
-As Unidades de Paisagem da bacia do Ribeirão Santana foram caracterizadas por 9 (nove) classes: afloramento, anfiteatro, colina de topo alongado, complexo côncavo convexo, superfícies tabulares, planícies e terraços fluviais, vale em v encaixado, vertentes ravinadas e vertentes retilíneas, das quais fundamentam a metodologia de caracterização integrada do meio físico e inferências aos meios biótico e antrópico, culminando com a adequação ambiental e produtiva deste compartimento geográfico.
+Nove unidades de paisagem foram identificadas na bacia do Ribeirão Santana: afloramento, anfiteatro, colina de topo alongado, complexo côncavo/convexo, superfícies tabulares, planícies e terraços fluviais, vale em v encaixado, vertentes ravinadas e vertentes retilíneas. A definição das unidades seguiram uma metodologia de caracterização integrada do meio físico, do meio biótico e antrópico, a partir da qual permitirá uma adequação ambiental e produtiva dos diferentes compartimentos geográficos.
 
 #### Afloramento
 
@@ -135,7 +135,7 @@ Limitações:
 1. Susceptibilidade à erosão
 2. Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
 
-Aptidões
+Aptidões:
 
 1. Agropecuária
 2. Áreas de preservação permanente (nascentes)
@@ -161,7 +161,7 @@ Limitações:
 2. Predisposição a processos erosivos principalmente nas áreas de Argissolos
 3. Solos com baixa fertilidade
 
-Aptidões
+Aptidões:
 
 1. Áreas de preservação permanente do tipo Topo de Morro
 2. Manutenção de vegetação nativa (Floresta Estacional Semi-Decidual)
@@ -214,7 +214,7 @@ Limitações:
 1. Solos com baixa fertilidade, elevada acidez
 2. Escassez de recurso hídrico superficial
 
-Aptidões
+Aptidões:
 
 1. Extrativismo vegetal e pecuária extensiva (usos tradicionais)
 2. Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura
@@ -328,11 +328,19 @@ Aptidões:
 3. Pastagens, silvicultura, fruticultura e capineiras sob sistemas de controle de erosão
 4. Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
 
-| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
-| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
-| lorem   | lorem | lorem | lorem | lorem | lorem |
+| Unidade Paisagem             | Potencialidade                                                                                                                                | Limitações                                                                                                                                                              | Aptidões                                                                                                            | %                |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------|
+| Superfícies Tabulares        | Relevo plano e solos bem desenvolvidos e permeáveis.                                                                                          | Solos de baixa fertilidade e acidez elevada.                                                                                                                            | Agricultura mecanizada, silvicultura, fruticultura e pastagens cultivadas.                                          | 3.5667083785395  |
+| Vertente Ravinada            | Pode ocorrer surgências de aquíferos (nascentes)                                                                                              | Solos rasos e pedregosos em relevos fortemente acidentados.                                                                                                             | Áreas para preservação permanente e proteção de nascentes.                                                          | 27.866222142771  |
+| Vale em V                    | Áreas de surgências de aquíferos (nascentes) e cursos d'água de primeira ordem.                                                               | Solos rasos e pedregosos em relevos fortemente acidentados.                                                                                                             | Áreas para preservação permanente e proteção de nascentes.                                                          | 3.57685488085205 |
+| Afloramento                  | Beleza cênica e fornecimento de material para construção civil.                                                                               | Afloramento e relevo escarpado.                                                                                                                                         | Retirada de brita.                                                                                                  | 25.3773633867514 |
+| Complexo Côncavo Convexo     | Solos profundos e permeáveis. Concentração de águas de chuva e nutrientes.                                                                    | Baixa fertilidade e acidez elevada, comprimento da vertente em declive e suscetibilidade a processos de erosão hídrica laminar. Solos rasos e suscetíveis à erosão.     | Culturas permanentes e preservação permanente.                                                                      | 20.5197837573034 |
+| Colina Alongada              | Relevo suave nos topos, com solos profundos e permeáveis. Constituem áreas de recarga de aquíferos freáticos.                                 | Uso limitado pela legislação ambiental nos topos das colinas. Relevo acidentado das vertentes e predisposição a processos de erosão laminar.                            | Manutenção da vegetação nativa nos topos. Culturas permanentes incluindo cafeicultura, fruticultura e silvicultura. | 2.24001544355318 |
+| Planicie e Terraços Fluviais | Relevo plano podendo ocorrer solos de média a alta fertilidade.                                                                               | Suscetibilidades às ocorrências de inundações periódicas e encharcamento geomorfológicas das bacias dos solos.Redução de áreas para uso e ocupação da vegetação ciliar. | Culturas anuais de entressafra, preservação de nascentes difusas. Agroperucária e expansão urbana.                  | 12.3766046645352 |
+| Anfiteatro                   | Médios a altos níveis de fertilidade e boas condições hídricas dos solos. Área de concentração de águas pluviais: ocorrência de olhos d'água. | Susceptibilidade à erosão.                                                                                                                                              | Culturas anuais e permanentes, apicultura, área de preservação permanente e proteção de nascentes.                  | 0.64759124231907 |
+| Vertente Retilínea           | Solos profundos e permeáveis. Concentração de águas de chuva e nutrientes.                                                                    | Susceptíveis à compactação e a processos de erosão pluvial (laminar e sulco). Solos com baixa fertilidade.                                                              | Agricultura mecanizada, silvicultura, fruticultura e pastagens cultivadas.                                          | 3.82885610337515 |
 
-[Atualizar informações] O quadro 2 apresenta um resumo das Unidades de Paisagem que conta com a representatividade na bacia, aptidões e limitações de cada. Dentre as unidades, observa-se ocorrências expressivas de Superfície Tabular com áreas extensas, representando cerca de 44 \% da bacia, relevo plano a suavemente ondulado onde podem ser desenvolvidos cultivos de culturas anuais, com potencial para irrigação, pastagens e silviculturas. Já no médio e baixo trecho, onde há uma concentração maior da UP vale encaixado com crista, o relevo torna-se médio a fortemente ondulado, possibilitando o desenvolvimento de pastagens com manejo adequado, fruticultura e silvicultura. A tipologia de solos, dentro destas especificidades, correlaciona com as unidades de paisagens, conforme observado e inferido.
+As Unidades de Paisagem com maior representatividade na bacia são as vertentes ravinadas cobrindo cerca de 27,9% da bacia, os afloramentos rochosos cobrindo cerca de 25,4% e o completo concavo/convexo representando cerca de 20,5%. Destas, apenas o complexo côncavo/convexo possui aptidão agrícola para culturas pemanentes. As vertentes ravinadas e afloresamentos devem ser prioritariamente destinadas à àrea de preservação e proteção de nascentes. As unidades da paisagem presentes na bacia com potencial de uso agrícola e pastagem são o complexo côncavo/convexo, a planície e terraços fluviais, a vertente retilínia e a superfície tabular. A unidades do tipo anfiteatro e colinas alongadas podem ser destinadas a agrilcutura e pecuária desde que sigam um manejo adequado.
 
 ### Disponibilidade hídrica
 

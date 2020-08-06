@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Autores:</b><br>
-  <br><br>
   <a>Cristiano Matozinhos Christofaro</a><br>
   <a>Gleyce Campos Dutra</a><br>
   <a>Reynaldo Campos Santana</a><br>
@@ -33,7 +32,7 @@ No contexto geológico regional, a bacia do Ribeirão Santana é representado po
 
 Os solos identificados na bacia, são representados pelas classes dos cambissolo háplico, argissolo vermelho-amarelo, neossolo litólico e latossolo vermelho. O cambissolos háplico predomina na área da bacia, sendo ocupado principalmente por vegetação nativa e pastagem. No argissolo vermelho-amarelo predomina a ocupação urbana, pastagem e vegetação nativa. No neossolo litólico observa-se principalmente afloramantos rochosos e vegetação nativa, enquanto que no latossolo vermelho predomina a atividade silvicultural.
 
-![](img/figura3.png)
+![](img/fig03_solos.png)
 
 A bacia está localizada na Serra do Espinhaço e apresenta um relevo suave ondulado na porção baixa da bacia a ondulado a montanhoso na porção alta da bacia. A elevação varia de 1826 metros na cabeceira bacia, até 709 metros no encontro com o Rio Araçuaí. A declividade predominante está entre valores 0 e 8%, no entanto a porções da bacia com declividade atingindo 45%. O alto e médio da bacia está dentro de uma área de proteção ambiental denominada APA Municipal Felício dos Santos, instituído pela lei 502 de 27/03/03.
 

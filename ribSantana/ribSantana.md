@@ -444,9 +444,7 @@ O cálculo de concentração de nascentes possibilita a visualização numérica
 
 ### Conflito de uso e ocupação do solo
 
-[Atualizar informações] O conflito entre Unidades de Paisagem e Uso e Ocupação do Solo (figura 30) expõe as áreas da bacia que sofrem maior impacto ambiental por determinado tipo de uso em certa unidade de paisagem. É um importante subproduto a ser analisado ambientalmente para determinar áreas que devem sofrer intervenção em seu uso visando a conservação da bacia.
-
-[Atualizar informações] É executado através da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, através da metodologia de caracterização de unidades de paisagem de Fernandes (2013) (com auxílio do Quadro 2 deste estudo) e conhecimento de campo, onde há compatibilidade e incompatibilidade de usos na bacia. Uma terceira classificação foi proposta, conforme metodologia ZAP oficial, denominada de “depende de controle e manejo” demonstrando que tal uso é compatível a partir de técnicas de controle e manejo do solo adequados. A classificação “não aplicável” é dada às classes de uso que não são passíveis de alteração por inviabilidade ou consolidação de uso.
+O conflito entre unidades de paisagem e uso e ocupação do solo expõe as áreas da bacia que sofrem maior impacto ambiental por determinado tipo de uso em certa unidade de paisagem. É um importante subproduto a ser analisado para determinar áreas que devem sofrer intervenção em seu uso visando um amlehor conservação da bacia. Área de conflito são obtidas por meio da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, através das aptidões das unidades de paisagem e visitas de campo, onde há compatibilidade e incompatibilidade de usos. Algumas áreas foram associadas à classe de conflito “controle e manejo” demonstrando que tal uso é compatível a partir de técnicas de controle e manejo do solo adequadas. A classificação “não aplicável” foi dada às classes de uso que não são passíveis de alteração por inviabilidade ou consolidação de uso, como exemplo área urbanas e minerárias.
 
 ![](img/fig16_conflitoUso.png)
 
@@ -458,7 +456,7 @@ O cálculo de concentração de nascentes possibilita a visualização numérica
 | Outros                    | 136,9     |                        |
 | Área total                | 7284,118  |                        |
 
-[Atualizar informações] O quadro 9 demonstra os valores de área em hectares da análise de conflito e são utilizados para o cálculo do índice de uso conflitante da bacia. O índice é calculado a partir da equação demonstrada abaixo e varia de 0 a 100 sendo que quanto maior o valor, maior a taxa de conflito entre o uso e ocupação do solo atual com as unidades de paisagem identificadas na bacia. O índice de uso conflitante na bacia foi de 4.3.
+Os valores de área em hectares da análise de conflito são utilizados para o cálculo do índice de uso conflitante da bacia. A bacia apresentou em sua totalidade um índice de 4,4% de incompatibilidade entre unidade de paisagem e uso do solo. Quanto maior o valor, maior o conflito entre o uso e ocupação do solo atual com as unidades de paisagem identificadas na bacia. A unidade de paisagem com maior incompatibilidade de uso foram as vertentes ravinadas, seguido pelo vale em V e superfícies tabulares.
 
 | Unidade de paisagem          | Incompatível (ha) | Representatividade (%) |
 |------------------------------|-------------------|------------------------|

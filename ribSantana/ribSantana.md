@@ -344,72 +344,71 @@ As Unidades de Paisagem com maior representatividade na bacia são as vertentes 
 
 ### Disponibilidade hídrica
 
-O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processos de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na bacia. Este número é sem dúvida muito inferior ao número de usuários de água. É recomendável que o poder pública realize campanhas sobre a importância da elaborações dos processos de outorga para o correto mapeamento da demanda de água da bacia.
+O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processo de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na bacia e com os critérios de inclusão neste estudo. Este número é sem dúvida muito inferior ao número de usuários real de água. É recomendável que o poder público e os órgão extensionistas realizem campanhas sobre a importância da solicitação de outorga para o real compreensão da demanda de água na bacia. O uso da água na bacia têm como finalidade principal o abastecimento humano e a irrigação de pequenos cultivos agrícolas. As outorgas estão distribuídas no curso principal do Ribeirão Santana, no médio e baixo. 
 
 ![](img/fig7_outorgasTipo.png)
 
-[Atualizar informações] Os usuários de outorga têm como finalidade de uso principal da água a irrigação, enquanto os de uso insignificante se concentram na atividade da água para consumo humano e alguns outros para dessedentação de animais, como visto no quadro 3. A maior concentração de uso da água se dá na porção média da bacia onde se encontram as maiores áreas de cultura e irrigação. Dos 83 trechos mapeados pelo IGAM, 33 deles possuem usuários com demanda (cerca de 40% da totalidade dos trechos).
-
-| Unidade | Área  | Representatividade | Aptidões | Limitações | Potencialidades |
-| ------- | ----- | ------------------ | -------- | ---------- | --------------- |
-| lorem   | lorem | lorem              | lorem    |      lorem |           lorem |
-
 ![](img/fig8_demanda.png)
 
-[Atualizar informações] Há uma extensa demanda na bacia de forma generalizada, porém focalizada, evidentemente, na porção média onde há uso intensivo da água para irrigação de grandes áreas e pivôs. Na parte baixa da bacia, também se observa alguns trechos com demanda, incluindo atividade agropecuária e alguns pivôs de irrigação. É importante ressaltar que alguns processos vencidos não tomaram iniciativa de realizar a renovação e existem captações observadas em campo que não se encontram na base do SIAM. Desta maneira, os dados oficiais validados mostram uma visão incompatível com a realidade da bacia em estudo, sendo necessária a orientação à regularização dos usuários da bacia para que se possa apresentar um produto de Disponibilidade Hídrica mais eficiente.
+Não há demanda hídrica na bacia para uso intensivo da água para irrigação de grandes áreas e pivôs. Predomina uma criação extensiva de animais com pequenas lavouras espalhadas principalmente na porção média e baixa da bacia. Dos 275 trechos mapeados pelo IGAM, 3 deles possuem usuários com demanda, sendo que em um deles o volume outorgado supera o valor de 50% da Q710, valor de referência para disponibilidade hídrica. É importante ressaltar que alguns processos vencidos não tomaram iniciativa de realizar a renovação e existem captações observadas em campo que não se encontram na base do SIAM. Desta maneira, os dados oficiais validados mostram um cenário incompatível com a realidade da bacia em estudo.
 
-[Atualizar informações] Para o estudo da situação de disponibilidade hídrica (figura 19) foram identificados 7 (sete) trechos em estado de atenção (cerca de 25\% da totalidade dos trechos com demanda), o que significa que estes se configuram com captação entre 50 a 100 \% do máximo permitido. No cenário atual não há trechos indisponíveis, o que leva à desnecessidade de elaboração de um produto que verifique a viabilidade de regularização.
+| Código do trecho | Nome do curso d'água | Qmld (m³/s) | Q710 (m³/s) | Qreg (m³/s) | Q outorgável (m³/s) | Q demandada (m³/s) | QDH (m³/s) | Comprometimento DH (%) | Viabilidade de regularização de Q |
+|------------------|----------------------|-------------|-------------|-------------|---------------------|--------------------|------------|------------------------|-----------------------------------|
+| 75829983         | Ribeirão Santana     | 0.51821     | 0.01199     | 0.35675     | 0.005997            | 0.001              | 0.00500    | 16.67                  |                                   |
+| 7582998591       | Ribeirão Santana     | 0.43676     | 0.00976     | 0.30085     | 0.004881            | 0.0005             | 0.00438    | 10.24                  |                                   |
+| 7582998733       | Ribeirão Santana     | 0.32747     | 0.00690     | 0.22578     | 0.003451            | 0.00823            | -0.00478   | 238.50                 | sim                               |
 
 ![](img/fig9_disponibilidade.png)
 
-[Atualizar informações] A figura 20 indica os pontos de reservatórios, observados utilizando imagem de satélite e visita a campo, os quais não há nenhuma outorga deferida ou em processo no IGAM. Alguns destes reservatórios, extensos, podem utilizar grande quantidade de água afetando a vazão a jusante. Sem um registro da quantidade de água consumida, o cálculo deste produto fica comprometido. Recomendam-se ações de conscientização para regularização dos diversos reservatórios observados. As atividades devem ser compatibilizadas com o uso, e o produto de Disponibilidade Hídrica deve se manter atualizado a fim de obter um melhor cenário nas decisões de âmbito da gestão hídrica da bacia do Ribeirão Santa Isabel.
+Observa-se inúmeros represamentos, de área inferior a 1 hectare, espalhados por toda a bacia. Na região central, observa-se um agrupamento de represamentos, provavelmente relacionados a psicultura. Para efeito de uso do solo eles foram vetorizados em conjunto, mas não foram considerandos para desenho da área de preservação permanente, por se tratarem na prática de múltiplos pequenos reservatórios.
 
-[Atualizar informações] O Quadro 4 dispõe a relação dos trechos de água com demanda da bacia do Ribeirão Santa Isabel. Abaixo, um resumo da disponibilidade hídrica.
-
-- Área de drenagem: ~ 500 km2;
-- Vazão de referência (Q7,10): 0,8285 m3/s;
-- Vazão média de longo período (Qmld): 6,4788 m3/s;
-- Índice (r7,10 = Q7,10/Qmld): 12,8%;
-- Capacidade de regularização natural: de 11 a 30% = Média capacidade de regularização natural;
-- Disponibilidade (vazão máxima outorgável: 50% da Q7,10): 0,4142 m3/s;
-- Demanda (vazão outorgada) – cenário atual: 0,5662 m3/s;
+- Vazão de referência (Q7,10): 0,014 m3/s;
+- Vazão média de longo período (Qmld): 0,581 m3/s;
+- Índice (r7,10 = Q7,10/Qmld): 2,4%;
+- Capacidade de regularização natural: Baixa capacidade de regularização natural;
+- Disponibilidade (vazão máxima outorgável: 50% da Q7,10): 0,007 m3/s;
 - Relação demanda/disponibilidade – cenário atual: 136,7%
 
-| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
-| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
-| lorem   | lorem | lorem | lorem | lorem | lorem |
 
 ### Uso e ocupação do solo
 
-Com a utilização da imagem Sentinel-2 foi possível identificar 9 (nove) classes relevantes de uso e ocupação, na bacia do Ribeirão Santana, sendo elas em ordem de representatividade: Vegetação Nativa, Pastagem, Afloramanto Rochosos, Área Urbana, Floresta Plantada, Agricultura, Solo Exposto, Benfeitorias, Represas. As classes identificadas no estudo estão de acordo com a metodologia ZAP oficial. 
+A partir da imagem Sentinel-2 foram identificadas 9 (nove) classes relevantes de uso e ocupação na bacia do Ribeirão Santana, sendo elas em ordem de representatividade: Vegetação Nativa, Pastagem, Afloramanto Rochoso, Área Urbana, Floresta Plantada, Agricultura, Solo Exposto, Benfeitorias, Represas. As classes identificadas no estudo estão de acordo com a metodologia ZAP oficial. 
 
-| Unidade | Área | Representatividade | Aptidões | Limitações | Potencialidades |
-| ------- | ---- | ------------------ | -------- | ---------- | --------------- |
-| lorem   | lorem | lorem | lorem | lorem | lorem |
+| Uso do Solo       | representatividade (%) |
+|-------------------|------------------------|
+| Afloramento       | 11.81                  |
+| Agricultura       | 0.76                   |
+| Benfeitoria       | 0.06                   |
+| Floresta plantada | 1.66                   |
+| Pastagem          | 18.52                  |
+| Represa           | 0.05                   |
+| Solo exposto      | 0.21                   |
+| Urbana            | 1.81                   |
+| Vegetação nativa  | 65.10                  |
 
 ![](img/figura12.png)
 
-A classe de maior representatividade na bacia do Ribeirão Santana está relacionada a Vegetação Nativa, com 65,10\%, seguida por Pastagem com 18% e 12% Afloramento Rochosos, já as classes área urbana, floresta plantada, agricultura, solo exposto, benfeitorias e Represa apresentam uma porcentagem a baixo de 5% . A partir disso, é possível afirmar que a bacia tem um bom nível de conservação, com presença vegetativa expressiva por toda a sua extensão. Vale ressaltar uma atenção para as áreas de pastagem que apresenta variados níveis de degradação, e nos pontos de solo mais arenoso, e recomenda-se e manejo dessas áreas e arredores.
+A classe de maior representatividade na bacia do Ribeirão Santana está relacionada a Vegetação Nativa, com 65,1%, seguida por Pastagem com 18,5% e afloramento rochoso com 11,8%. As classes área urbana, floresta plantada, agricultura, solo exposto, benfeitorias e represa apresentam uma porcentagem a baixo de 2% individualmente. As áreas de pastagem apresentam variados níveis de degradação, e nos pontos de solo mais arenoso, e recomenda-se um manejo mais cuidadoso em relação à perda de solo e erosão laminar. Em geral, a bacia apresenta um bom nível de conservação, com presença expressiva de vegetação nativa por toda a sua extensão.
 
-Representando 1,6% da área da bacia o cultivo de floresta plantada se faz presente nos solos, argissolos vermelhos amarelos e cambissolos haplicos. Cultivos agrícolas abrangem 0,75% da área total, fragmentada, em pequenas propriedades. Solo exposto ocupa 0,2% da área total, ocorre principalmente em pastagens e em associação com as comunidades rurais, que por sua vez representam apenas 0,05% do trecho da bacia. Represas (corpos d’água) abrangem apenas 0,05%, fragmentadas e dispostas em pequenas propriedades.
+Representando 1,6% da área da bacia o cultivo de floresta plantada se faz presente na porção norte da bacia, nas formações tabulares. Os cultivos agrícolas abrangem 0,75% da área total, de forma fragmentada nas propriedades. Solo exposto ocupa 0,2% da área total, ocorre principalmente em pastagens e em associação com estradas. Represas (corpos d’água) embora numerosas, abrangem apenas 0,05% de forma fragmentadas e espalahdas na paisagem.
 
 ### Área de preservação permanente
 
-[Atualizar informações] As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais que são capazes de desestabilizar ecossistemas em diferentes escalas. No estudo deste ZAP, conforme consta na metodologia oficial, foram identificadas as APPs hídricas diferenciadas por: i) nascentes; ii) cursos d’água; iii) e v) represas. Para cada uma, em ordem, foi aplicado um buffer de 50, 30, 50 metros e o mais restritivo para grandes represas (maiores que 1 hectare), 50 metros. A área total de APPs hídrica da bacia do Ribeirão Santa Isabel é cerca de 5.990 hectares, representando aproximadamente 12\% de toda a área de estudo. Foram identificadas 909 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes. As áreas de veredas também foram computadas no cálculo de área, uma vez que as próprias veredas são APPs incluindo seu buffer de 50 metros.
+As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais capazes de desestabilizar ecossistemas. Foram identificadas as APPs hídricas diferenciadas por: i) nascentes e ii) cursos d’água; iii). Não houveram represas com área superior a 1 ha, sendo portanto dispoensadas de possui área de preservação permanente. Nas nascentes foi aplicado um buffer de 50 e ao longo dos cursos d'água um buffer de 30 metros. A área total de APPs hídrica da bacia do Ribeirão Santana é cerca de 854,52 hectares, representando aproximadamente 12% de toda a área de estudo. Foram identificadas 166 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes, totalizando 119,4 hectares.
 
 ![](img/fig13_appHidrica.png)
 
 ## Considerações gerais
 
-As considerações gerais têm como objetivo correlacionar todos os produtos do ZAP a fim de auxiliar em análises futuras como, potenciais e planos de adequação. São elaborados índices que representam a atual condição da bacia, que são: Índice de conservação da bacia, de antropisação das APPs hídricas, de concentração de nascentes e de uso conflitante na bacia. Além dos índices, também são apresentados mapas a fim de facilitar a visualização da informação espacialmente.
+Nesta seção serão apresentandos os conflitos referentes ao uso do solo com as áreas de preservação permanente e aptisão das unidades de paisagem. São apresentados também os índices que representam a atual condição da bacia, que são: índice de conservação da bacia, de antropisação das APPs hídricas, de concentração de nascentes e de uso conflitante na bacia.
 
 ### Áreas conservadas e antropisadas
 
-As classes de uso do solo vegetação nativa e afloramento rochoso foram consideradas conservadas, enquanto as classes floresta plantada, benfeitorias, agricultura, urbana, solo exposto e pastagem foram consideradas antropisadas. A classe de represa foi desconsiderada por representar corpos hídricos.
+As classes de uso do solo vegetação nativa e afloramento rochoso foram consideradas conservadas, enquanto as classes floresta plantada, benfeitorias, agricultura, urbana, solo exposto e pastagem foram consideradas antropisadas. A classe de represa foi desconsiderada por representar corpos hídricos. O índice de conservação da bacia foi de 76,96%. Este índice indica o grau de ocupação da bacia com atividades antrópicas. No entanto, ele não deve ser avaliado de forma isolada. 
 
 ![](img/fig14_areaAntropizada.png)
 
-O índice de conservação da bacia foi de 76,96%. Este índice indica o grau de ocupação da bacia com atividades antrópicas. No entanto, ele não deve ser avaliado de forma isolada. A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na na parte média e baixa da bacia, e coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos é a porção mais preservada.
+A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na na parte média e baixa da bacia, e coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos é a porção mais preservada.
 
 | Tipo de área | Área (ha) | Representatividade (%) |
 |--------------|-----------|------------------------|
@@ -420,28 +419,28 @@ O índice de conservação da bacia foi de 76,96%. Este índice indica o grau de
 
 ### Conflito com areas de preservação permanente
 
-[Atualizar informações] A representação das APPs hídricas conservadas e antropizadas pode ser utilizada para indicar quais áreas de APPs devem ser priorizadas para recuperação, qual a melhor forma para tal e ainda cruzar as informações com outros produtos objetivando análises mais profundas. Espacialmente, as APPs hídricas conservadas são representadas pela interseção entre as classes de uso e ocupação do solo Campo, Cerradão, Cerrado e Veredas com as APPs hídricas, e seu oposto, as APPs hídricas antropizadas são interseccionadas com as classes de uso e ocupação do solo Assentamento, Cultura, ILPF, Pastagem, Pivô, Silvicultura, Solo degradado e Vilarejo Paiol novamente com as APPs hídricas. o índice de antropização das APPs hídricas foi de 4%.
+A informação de APPs hídricas conservadas e antropizadas pode ser utilizada para indicar áreas prioritárias para recuperação. Espacialmente, as APPs hídricas conservadas são representadas pela interseção entre as classes de uso e ocupação do solo vegetação nativa e afloramento rochoso. Já as APPs antropizadas são interseccionadas com as classes de uso e ocupação do solo benfeitorias, pastagem, agricultura, silvicultura, área urbana e solo exposto. o índice de antropização das APPs hídricas foi de 20%.
 
 ![](img/fig15_appAntropizada.png)
 
 | Tipos de área | Área (ha) | Representatividade (%) |
 |---------------|-----------|------------------------|
-| Conservada    | 776,880   | 0,80                   |
-| Antropizadas  | 192,350   | 0,20                   |
-| Represas      | 2,262     | 0,00                   |
+| Conservada    | 776,880   | 80                   |
+| Antropizadas  | 192,350   | 20                   |
+| Represas      | 2,262     |                    |
 | Área total    | 971,490   |                        |
 
 ### Conservação de nascentes
 
-O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, se obtém 0,78 por nascente, e é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na bacia. O índice de concentração de nascentes foi de 1.77%.
+O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, obtém o valor de 0,78 por nascente. Este é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na bacia. O índice de concentração de nascentes foi de 1.77%.
 
-| Variáveis           | Valores     |
-|---------------------|-------------|
-| Número de nascentes | 166         |
-| fator               | 0,78        |
-| N * fator           | 129,48      |
-| Área da bacia       | 7284,118    |
-| I_cb                | 1,777565932 |
+| Variáveis           | Valores    |
+|---------------------|------------|
+| Número de nascentes | 166        |
+| fator               | 0,78       |
+| N * fator           | 129,48     |
+| Área da bacia       | 7284,12    |
+| I_cb                | 1,77       |
 
 ### Conflito de uso e ocupação do solo
 

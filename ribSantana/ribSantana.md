@@ -18,7 +18,6 @@
 2. [Desenvolvimento](https://github.com/Gorgens/nepzap/blob/master/ribSantana/ribSantana.md#desenvolvimento)
 3. [Diagnóstico e análise ambiental da bacia](https://github.com/Gorgens/nepzap/blob/master/ribSantana/ribSantana.md#diagn%C3%B3stico-e-an%C3%A1lise-ambiental-da-bacia)
 4. [Considerações gerais](https://github.com/Gorgens/nepzap/blob/master/ribSantana/ribSantana.md#considera%C3%A7%C3%B5es-gerais)
-5. [Fichas técnicas de observação de campo](https://github.com/Gorgens/nepzap/blob/master/ribSantana/ribSantana.md#fichas-t%C3%A9cnicas-de-observa%C3%A7%C3%A3o-de-campo)
 
 ## Introdução
 
@@ -94,6 +93,115 @@ O mapeamento do uso e ocupação do solo foi elaborado através de processamento
 - Área urbana
 
 ## Diagnóstico e análise ambiental da bacia
+
+### Descrição técnica das observações de campo
+
+![](img/fig17_inspecao.jpg)
+
+#### Ponto 1
+
+Bacia: Ribeirão Santana
+Descrição: Rebordo da chapada com vistas para o curso do Ribeirão Santana, iniciando com vista para sul, sudeste e leste.
+Solo Predominante:
+Uso e ocupação atual: Vegetação nativa, com alguns pontos de pastagem.
+Situação ambiental:
+Imagens:
+
+![](img/ponto1_visadaSul.jpg)
+
+![](img/ponto1_visadaSudeste.jpg)
+
+![](img/ponto1_visadaLeste.jpg)
+
+#### Ponto 2
+
+Bacia: Ribeirão Santana
+Descrição: Comunidade rural denominada Canjica.
+Solo Predominante:
+Uso e ocupação atual: Pastagem a agricultura
+Situação ambiental:
+Imagens:
+
+![](img/ponto2_visadaSudoeste.jpg)
+
+#### Ponto 3
+
+Bacia: Ribeirão Santana
+Descrição: Vertente ravinada com vista para o tabuleiro com plantios de eucalipto.
+Solo Predominante:
+Uso e ocupação atual: Vegetação nativa na vertente com plantios de eucalipto no tabuleiro.
+Situação ambiental:
+Imagens:
+
+![](img/ponto3_visadaNorte.jpg)
+
+#### Ponto 4
+
+Bacia: Ribeirão Santana
+Descrição: 
+Solo Predominante:
+Uso e ocupação atual:
+Situação ambiental:
+Imagens:
+
+![](img/ponto3_cachoeiraLajeado.jpg)
+
+#### Ponto 5
+
+Bacia: Ribeirão Santana
+Descrição: 
+Solo Predominante:
+Uso e ocupação atual:
+Situação ambiental:
+Imagens:
+
+![](img/ponto5_visadaNordeste.jpg)
+
+#### Ponto 6
+
+Bacia: Ribeirão Santana
+Descrição: 
+Solo Predominante:
+Uso e ocupação atual:
+Situação ambiental:
+Imagens:
+
+![](img/ponto6_visadaOeste.jpg)
+
+#### Ponto 7
+
+Bacia: Ribeirão Santana
+Descrição: 
+Solo Predominante:
+Uso e ocupação atual:
+Situação ambiental:
+Imagens:
+
+![](img/ponto7_visadaNorte.jpg)
+
+#### Ponto 8
+
+Bacia: Ribeirão Santana
+Descrição: 
+Solo Predominante:
+Uso e ocupação atual:
+Situação ambiental:
+Imagens:
+
+![](img/ponto8_visadaSul.jpg)
+
+#### Ponto 9
+
+Bacia: Ribeirão Santana
+Descrição: 
+Solo Predominante:
+Uso e ocupação atual:
+Situação ambiental:
+Imagens:
+
+![](img/ponto9_visadaSul.jpg)
+
+![](img/ponto9_visadaSudeste.jpg)
 
 ### Unidades de Paisagem
 
@@ -487,114 +595,3 @@ Todos os índices calculados para a bacia do Ribeirão Santana estão reunidos n
 | Índice de Antropização das APPs hídricas | 19,80 % |
 | Índice de Concentração de Nascentes      | 1,77    |
 | Índice de Uso Conflitante na bacia       | 4,40 %  |
-
-# Anexo 1 - Fichas técnicas de observação de campo
-
-## Roteiro da visita
-
-![](img/fig17_inspecao.jpg)
-
-### Ponto 1
-
-Bacia: Ribeirão Santana
-Descrição: Rebordo da chapada com vistas para o curso do Ribeirão Santana, iniciando com vista para sul, sudeste e leste.
-Solo Predominante:
-Uso e ocupação atual: Vegetação nativa, com alguns pontos de pastagem.
-Situação ambiental:
-Imagens:
-
-![](img/ponto1_visadaSul.jpg)
-
-![](img/ponto1_visadaSudeste.jpg)
-
-![](img/ponto1_visadaLeste.jpg)
-
-### Ponto 2
-
-Bacia: Ribeirão Santana
-Descrição: Comunidade rural denominada Canjica.
-Solo Predominante:
-Uso e ocupação atual: Pastagem a agricultura
-Situação ambiental:
-Imagens:
-
-![](img/ponto2_visadaSudoeste.jpg)
-
-### Ponto 3
-
-Bacia: Ribeirão Santana
-Descrição: Vertente ravinada com vista para o tabuleiro com plantios de eucalipto.
-Solo Predominante:
-Uso e ocupação atual: Vegetação nativa na vertente com plantios de eucalipto no tabuleiro.
-Situação ambiental:
-Imagens:
-
-![](img/ponto3_visadaNorte.jpg)
-
-### Ponto 4
-
-Bacia: Ribeirão Santana
-Descrição: 
-Solo Predominante:
-Uso e ocupação atual:
-Situação ambiental:
-Imagens:
-
-![](img/ponto3_cachoeiraLajeado.jpg)
-
-### Ponto 5
-
-Bacia: Ribeirão Santana
-Descrição: 
-Solo Predominante:
-Uso e ocupação atual:
-Situação ambiental:
-Imagens:
-
-![](img/ponto5_visadaNordeste.jpg)
-
-### Ponto 6
-
-Bacia: Ribeirão Santana
-Descrição: 
-Solo Predominante:
-Uso e ocupação atual:
-Situação ambiental:
-Imagens:
-
-![](img/ponto6_visadaOeste.jpg)
-
-### Ponto 7
-
-Bacia: Ribeirão Santana
-Descrição: 
-Solo Predominante:
-Uso e ocupação atual:
-Situação ambiental:
-Imagens:
-
-![](img/ponto7_visadaNorte.jpg)
-
-### Ponto 8
-
-Bacia: Ribeirão Santana
-Descrição: 
-Solo Predominante:
-Uso e ocupação atual:
-Situação ambiental:
-Imagens:
-
-![](img/ponto8_visadaSul.jpg)
-
-### Ponto 9
-
-Bacia: Ribeirão Santana
-Descrição: 
-Solo Predominante:
-Uso e ocupação atual:
-Situação ambiental:
-Imagens:
-
-![](img/ponto9_visadaSul.jpg)
-
-![](img/ponto9_visadaSudeste.jpg)

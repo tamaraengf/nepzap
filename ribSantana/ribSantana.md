@@ -100,11 +100,14 @@ O mapeamento do uso e ocupação do solo foi elaborado através de processamento
 
 #### Ponto 1
 
-Bacia: Ribeirão Santana
 Descrição: Rebordo da chapada com vistas para o curso do Ribeirão Santana, iniciando com vista para sul, sudeste e leste.
+
 Solo Predominante:
+
 Uso e ocupação atual: Vegetação nativa, com alguns pontos de pastagem.
+
 Situação ambiental:
+
 Imagens:
 
 ![](img/ponto1_visadaSul.jpg)

@@ -118,88 +118,112 @@ Imagens:
 
 #### Ponto 2
 
-Bacia: Ribeirão Santana
 Descrição: Comunidade rural denominada Canjica.
+
 Solo Predominante:
+
 Uso e ocupação atual: Pastagem a agricultura
+
 Situação ambiental:
+
 Imagens:
 
 ![](img/ponto2_visadaSudoeste.jpg)
 
 #### Ponto 3
 
-Bacia: Ribeirão Santana
 Descrição: Vertente ravinada com vista para o tabuleiro com plantios de eucalipto.
+
 Solo Predominante:
+
 Uso e ocupação atual: Vegetação nativa na vertente com plantios de eucalipto no tabuleiro.
+
 Situação ambiental:
+
 Imagens:
 
 ![](img/ponto3_visadaNorte.jpg)
 
 #### Ponto 4
 
-Bacia: Ribeirão Santana
 Descrição: 
+
 Solo Predominante:
+
 Uso e ocupação atual:
+
 Situação ambiental:
+
 Imagens:
 
 ![](img/ponto3_cachoeiraLajeado.jpg)
 
 #### Ponto 5
 
-Bacia: Ribeirão Santana
 Descrição: 
+
 Solo Predominante:
+
 Uso e ocupação atual:
+
 Situação ambiental:
+
 Imagens:
 
 ![](img/ponto5_visadaNordeste.jpg)
 
 #### Ponto 6
 
-Bacia: Ribeirão Santana
 Descrição: 
+
 Solo Predominante:
+
 Uso e ocupação atual:
+
 Situação ambiental:
+
 Imagens:
 
 ![](img/ponto6_visadaOeste.jpg)
 
 #### Ponto 7
 
-Bacia: Ribeirão Santana
 Descrição: 
+
 Solo Predominante:
+
 Uso e ocupação atual:
+
 Situação ambiental:
+
 Imagens:
 
 ![](img/ponto7_visadaNorte.jpg)
 
 #### Ponto 8
 
-Bacia: Ribeirão Santana
 Descrição: 
+
 Solo Predominante:
+
 Uso e ocupação atual:
+
 Situação ambiental:
+
 Imagens:
 
 ![](img/ponto8_visadaSul.jpg)
 
 #### Ponto 9
 
-Bacia: Ribeirão Santana
 Descrição: 
+
 Solo Predominante:
+
 Uso e ocupação atual:
+
 Situação ambiental:
+
 Imagens:
 
 ![](img/ponto9_visadaSul.jpg)

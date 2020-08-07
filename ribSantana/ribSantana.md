@@ -484,7 +484,7 @@ Todos os índices calculados para a bacia do Ribeirão Santana estão reunidos n
 
 ## Roteiro da visita
 
-![](img/fig17_inspecao.png)
+![](img/fig17_inspecao.jpg)
 
 ### Ponto 1
 
@@ -495,11 +495,11 @@ Uso e ocupação atual: Vegetação nativa, com alguns pontos de pastagem.
 Situação ambiental:
 Imagens:
 
-![](img/ponto1_visadaSul.png)
+![](img/ponto1_visadaSul.jpg)
 
-![](img/ponto1_visadaSudeste.png)
+![](img/ponto1_visadaSudeste.jpg)
 
-![](img/ponto1_visadaLeste.png)
+![](img/ponto1_visadaLeste.jpg)
 
 ### Ponto 2
 
@@ -510,7 +510,7 @@ Uso e ocupação atual: Pastagem a agricultura
 Situação ambiental:
 Imagens:
 
-![](img/ponto2_visadaSudoeste.png)
+![](img/ponto2_visadaSudoeste.jpg)
 
 ### Ponto 3
 
@@ -521,7 +521,7 @@ Uso e ocupação atual: Vegetação nativa na vertente com plantios de eucalipto
 Situação ambiental:
 Imagens:
 
-![](img/ponto3_visadaNorte.png)
+![](img/ponto3_visadaNorte.jpg)
 
 ### Ponto 4
 
@@ -532,7 +532,7 @@ Uso e ocupação atual:
 Situação ambiental:
 Imagens:
 
-![](img/ponto3_cachoeiraLajeado.png)
+![](img/ponto3_cachoeiraLajeado.jpg)
 
 ### Ponto 5
 
@@ -543,7 +543,7 @@ Uso e ocupação atual:
 Situação ambiental:
 Imagens:
 
-![](img/ponto5_visadaNordeste.png)
+![](img/ponto5_visadaNordeste.jpg)
 
 ### Ponto 6
 
@@ -554,7 +554,7 @@ Uso e ocupação atual:
 Situação ambiental:
 Imagens:
 
-![](img/ponto6_visadaOeste.png)
+![](img/ponto6_visadaOeste.jpg)
 
 ### Ponto 7
 
@@ -565,7 +565,7 @@ Uso e ocupação atual:
 Situação ambiental:
 Imagens:
 
-![](img/ponto7_visadaNorte.png)
+![](img/ponto7_visadaNorte.jpg)
 
 ### Ponto 8
 
@@ -576,7 +576,7 @@ Uso e ocupação atual:
 Situação ambiental:
 Imagens:
 
-![](img/ponto8_visadaSul.png)
+![](img/ponto8_visadaSul.jpg)
 
 ### Ponto 9
 
@@ -587,6 +587,6 @@ Uso e ocupação atual:
 Situação ambiental:
 Imagens:
 
-![](img/ponto9_visadaSul.png)
+![](img/ponto9_visadaSul.jpg)
 
-![](img/ponto9_visadaSudeste.png)
+![](img/ponto9_visadaSudeste.jpg)

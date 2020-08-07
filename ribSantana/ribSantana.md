@@ -16,6 +16,9 @@
 
 1. [Introdução](https://github.com/Gorgens/nepzap/blob/master/ribSantana/ribSantana.md#introdu%C3%A7%C3%A3o)
 2. [Desenvolvimento](https://github.com/Gorgens/nepzap/blob/master/ribSantana/ribSantana.md#desenvolvimento)
+3. [Diagnóstico e análise ambiental da bacia](https://github.com/Gorgens/nepzap/blob/master/ribSantana/ribSantana.md#diagn%C3%B3stico-e-an%C3%A1lise-ambiental-da-bacia)
+4. [Considerações gerais](https://github.com/Gorgens/nepzap/blob/master/ribSantana/ribSantana.md#considera%C3%A7%C3%B5es-gerais)
+5. [Observaçõe de campo](https://github.com/Gorgens/nepzap/blob/master/ribSantana/ribSantana.md#fichas-t%C3%A9cnicas-de-observa%C3%A7%C3%A3o-de-campo)
 
 ## Introdução
 

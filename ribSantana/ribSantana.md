@@ -61,7 +61,7 @@ Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo
 - Shapefile de Declaração de Áreas de Conflito (DAC) obtido no IDE-Sisema;
 - Shapefile de Unidades de Conservação obtido através da IDE-Sisema; 
 - Mapa geológico do Estado de Minas Gerais na escala de 1:100.000 da CODEMIG versão 2014;
-- Mapa de classes de solos do Estado de Minas Gerais na escala de 1:500.000 da UFV versão 2010;
+- Mapa de classes de solos do Brasil na escala de 1:5.000.000 da EMBRAPA/RADAM;
 - Relatório dos usuários de água e de Hidrografia da bacia do Ribeirão Santana obtido junto a SEMAD.
 
 ### Unidades de paisagem

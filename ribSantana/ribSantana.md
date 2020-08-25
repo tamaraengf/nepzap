@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Autores:</b><br>
-  <a>Cristiano Matozinhos Christofaro</a><br>
+  <a>Cristiano Christofaro Matosinhos</a><br>
   <a>Gleyce Campos Dutra</a><br>
   <a>Reynaldo Campos Santana</a><br>
   <a>Danielle Piuzana Mucida</a><br>
@@ -21,12 +21,11 @@
 
 ## Introdução
 
-A crescente demanda pelos recursos hídricos faz com que a gestão destes seja cada vez mais aprimorada nas regiões onde a água se encontra em estado de conflito de uso ou escassa. Novas metodologias de caracterização e interpretação de dados são elaboradas para auxiliar na resolução destes conflitos. O Zoneamento Ambiental Produtivo é uma dessas metodologias, aprovada pelo Estado de Minas Gerais em 2014, como metodologia oficial, que tem como objetivo aprimorar a gestão socioambiental e econômica de bacias hidrográficas no Estado de Minas Gerais através da concepção de três produtos básicos que podem ser cruzados para obtenção de informações mais detalhadas. 
+A crescente demanda pelos recursos hídricos faz com que a gestão destes seja cada vez mais aprimorada nas regiões onde a água se encontra em estado de conflito de uso ou escassa. Novas metodologias de caracterização e interpretação de dados são elaboradas para auxiliar na resolução destes conflitos. O Zoneamento Ambiental Produtivo (ZAP) é uma dessas metodologias, aprovada pelo Estado de Minas Gerais em 2014, que tem como objetivo aprimorar a gestão socioambiental e econômica de bacias hidrográficas no Estado de Minas Gerais. O ZAP baseia-se na concepção de três produtos básicos que são interrelacionados de modo a gerar informações importantes para o manejo de bacias hidrográficas. 
 
 Três produtos principais compõem este estudo: (1) caracterização das unidades de paisagem, (2) diagnóstico da disponibilidade hídrica da bacia com base nas outorgas existentes e (3) levantamento do uso e ocupação do solo. Através do cruzamento desses produtos foi possível elaborar um diagnóstico completo sobre o uso dos recursos hídricos e sobre uso e ocupação do solo frente as unidades de paisagem que compõem a bacia.
 
 A bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região do Alto Jequitinhonha, no município de Felício dos Santos e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do Rio Araçuaí (UPGRH JQ2). Não há registro de conflitos pelo uso da água na sub bacia do Ribeirão Santana, e a demanda está concentrada na parte baixa da bacia. No entanto, este estudo é peça fundamental no planejamento e gestão do espaço para evitar e mitigar potenciais conflitos. Além da gestão do uso dos recursos hídricos, o ZAP subsidia o planejamento territorial visando a conservação e potencializando a utilização ótima de cada unidade de trabalho. Este relatório apresenta um diagnóstico completo da bacia, incluindo caracterização da paisagem, limitações, potencialidades de uso e conflito. Sendo, portanto, o ponto de partida para a implantação de futuros projetos e desenvolvimento de políticas públicas. A ausência de estudos socioambientais, na área onde se encontra a bacia do Ribeirão Santana, faz com que a aplicação da metodologia ZAP, se torne ainda mais relevante. 
-
 
 ![](img/fig1_limites.png)
 
@@ -34,11 +33,11 @@ A bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região
 
 ### Caracterização da bacia
 
-A bacia do Ribeirão Santana está localizada, em sua totalidade no município de Felício dos Santos, a 369 km da capital do estado, Belo Horizonte. Com uma área de aproximadamente 7284.12 hectares, se insere na Unidade de Planejamento e Gestão de Recursos Hídricos do rio Araçuaí (UPGRH JQ2). O seu curso principal, Ribeirão Santana, deságua no Rio Araçuaí, que por sua vez deságua no Rio Jequitinhonha. A área urbana do município de Felício dos Santos que conta com cerca de 5.692 habitantes, está localizada na parte baixa da bacia.De acordo com a classificação de Köppen-Geiger o regime climático na região da bacia é tropical de altitude (Cwb), caracterizado por verões brandos e úmidos e invernos frescos e secos. Os índices de precipitação variam de 1250 mm a 1550 mm, e a temperatura média anual não ultrapassa os 20ºC. 
+A bacia do Ribeirão Santana está integralmente localizada no município de Felício dos Santos, a 369 km de Belo Horizonte, capital do estado. Com uma área de aproximadamente 7284.12 hectares, se insere na Unidade de Planejamento e Gestão de Recursos Hídricos do rio Araçuaí (UPGRH JQ2). O seu curso principal, Ribeirão Santana, deságua no Rio Araçuaí que, por sua vez, deságua no Rio Jequitinhonha. A área urbana do município de Felício dos Santos conta com cerca de 5.692 habitantes e está localizada na parte baixa da bacia. De acordo com a classificação de Köppen-Geiger, o regime climático na região da bacia é tropical de altitude (Cwb), caracterizado por verões brandos e úmidos e invernos frescos e secos. Os índices de precipitação variam de 1250 mm a 1550 mm e a temperatura média anual não ultrapassa os 20ºC. 
 
-No contexto geológico regional, a bacia do Ribeirão Santana é representado por três unidades: rochas metamórficas do supergrupo Espinhaço (grupo Diamantina) na porção alta da bacia, rochas metamórficas do supergrupo São Francisco (grupo Macaúbas) na porção média da bacia e rochas ígnicas da unidade Granitóide Rio Itanguá. Por conta desta diversidade de substratos, a vegetação apresenta uma fisionomia diversifidada de campos rupestres a trechos de floreta semidecidual. Na porção sob influencia do supergrupo Espinhaço, destacam-se os litotipos de metaconglomerados, quartzito e metapelito. Já na porção do supergrupo São Francisco, destacam-se os litotipos metadiamictito, quartzito ferruginoso, grafita xisto e metapelito. POr fim, na porção Granitóide Rio Itanguá, detaca-se o litotipo granito.
+No contexto geológico regional, a bacia do Ribeirão Santana é representado por três unidades: rochas metamórficas do supergrupo Espinhaço (grupo Diamantina) na porção alta da bacia, rochas metamórficas do supergrupo São Francisco (grupo Macaúbas) na porção média da bacia e rochas ígnicas da unidade Granitóide Rio Itanguá. Por conta desta diversidade de substratos, a vegetação apresenta uma fisionomia diversifidada de campos rupestres a trechos de floreta semidecidual. Na porção sob influência do supergrupo Espinhaço, destacam-se os litotipos de metaconglomerados, quartzito e metapelito. Na porção do supergrupo São Francisco, destacam-se os litotipos metadiamictito, quartzito ferruginoso, grafita xisto e metapelito. Por fim, na porção Granitóide Rio Itanguá, destaca-se o litotipo granito.
 
-Os solos identificados na bacia, são representados pelas classes dos cambissolo háplico, argissolo vermelho-amarelo, neossolo litólico e latossolo vermelho. O cambissolos háplico predomina na área da bacia, sendo ocupado principalmente por vegetação nativa e pastagem. No argissolo vermelho-amarelo predomina a ocupação urbana, pastagem e vegetação nativa. No neossolo litólico observa-se principalmente afloramantos rochosos e vegetação nativa, enquanto que no latossolo vermelho predomina a atividade silvicultural.
+Os solos identificados na bacia são representados pelas classes dos cambissolo háplico, argissolo vermelho-amarelo, neossolo litólico e latossolo vermelho. O cambissolos háplico predomina na área da bacia, sendo ocupado principalmente por vegetação nativa e pastagem. No argissolo vermelho-amarelo predomina a ocupação urbana, pastagem e vegetação nativa. No neossolo litólico observa-se principalmente afloramantos rochosos e vegetação nativa, enquanto que no latossolo vermelho predomina a atividade silvicultural.
 
 ![](img/fig03_solos.png)
 
@@ -57,9 +56,9 @@ Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo
 - Software Google Earth Engine;
 - Imagens Sentinel-2 e SRTM Global DEM;
 - Shapefile de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido através da IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
-- Shapefile de ottobacias da bacia do Rio São Francisco, obtido através da IDE-Sisema;
-- Shapefile dos municípios do Estado de Minas Gerais, obtido através da IDE-Sisema;
-- Shapefile de Declaração de Áreas de Conflito (DAC) obtido através da IDE-Sisema;
+- Shapefile de ottobacias da bacia do Rio São Francisco, obtido no IDE-Sisema;
+- Shapefile dos municípios do Estado de Minas Gerais, obtido no IDE-Sisema;
+- Shapefile de Declaração de Áreas de Conflito (DAC) obtido no IDE-Sisema;
 - Shapefile de Unidades de Conservação obtido através da IDE-Sisema; 
 - Mapa geológico do Estado de Minas Gerais na escala de 1:100.000 da CODEMIG versão 2014;
 - Mapa de classes de solos do Estado de Minas Gerais na escala de 1:500.000 da UFV versão 2010;
@@ -73,15 +72,15 @@ As unidades de paisagem são inicialmente traçadas a partir dos mapas de solo, 
 
 ### Disponibilidade hidrica
 
-O diagnóstico da disponibilidade hídrica se baseia nos dados de outorgas disponibilizados pelo Instituto Mineiro de Gestão das Águas (IGAM) e pela Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável de Minas Gerais (SEMAD). Foi determinado o código indentificador do curso d’água principal da bacia, no caso, Ribeirão Santama, com a base ottocodificada do IGAM. A hidrografia com os dados de regionalização de vazão para os cálculos necessários ao diagnóstico foi obtida através do IDE-Sisema e as informações de outorgas e cadastro de uso insignificante solicitado à SEMAD por meio do anexo III da metodologia ZAP.
+O diagnóstico da disponibilidade hídrica se baseia nos dados de outorgas disponibilizados pelo Instituto Mineiro de Gestão das Águas (IGAM) e pela Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável de Minas Gerais (SEMAD). Foi determinado o código indentificador do curso d’água principal da bacia, no caso, Ribeirão Santama, com a base ottocodificada do IGAM. A hidrografia com os dados de regionalização de vazão para os cálculos necessários ao diagnóstico foi obtida no IDE-Sisema e as informações de outorgas e cadastro de uso insignificante solicitadas à SEMAD, nos termos do anexo III da metodologia ZAP.
 
 Após a delimitação da bacia e de sua hidrografia, os dados de outorga e cadastro de uso insignificante foram consistidos e plotados seguindo a metodologia ZAP. Apenas usuários de água superficial são contemplados neste estudo de disponibilidade hídrica. Todos os usuários que apresentam status de “Cadastro Efetivado”, “Outorga Deferida, Renovada e Retificada” e processos com vencimento posterior a março de 2018 foram incluídos.
 
-Após a consolidação da camada, os cálculos para todos os subprodutos da disponibilidade hídrica foram computados e os mapas finais elaborados. Os cálculos incluiram disponibilidade hídrica de cada trecho e comprometimento hídrico de cada trecho. A situação da disponibilidade hídrica foi classificada de acordo com o comprometimento de cada segmento em 'indisponível', 'estado de atenção' e 'disponível'.
+Após a consolidação da camada, os cálculos para todos os subprodutos da disponibilidade hídrica foram computados e os mapas finais elaborados. Os cálculos incluiram a disponibilidade hídrica de cada trecho e o comprometimento hídrico de cada trecho. A situação da disponibilidade hídrica foi classificada de acordo com o comprometimento de cada segmento em 'indisponível', 'estado de atenção' e 'disponível'.
 
 ### Uso e ocupação do solo
 
-O mapeamento do uso e ocupação do solo foi elaborado através de processamento de imagens de satélite, vetorização manual e observações em campo. O mapeamento foir ealizado em duas etapas. Na primeira, as bandas 2, 3, 4 e 8 do Sentinel-2 com resolução espacial de 10 metros foram classificadas em 4 grupos de forma automatizada usando metodologia classificação supervisionada. No segundo momento a classificação foi refinada utilizando as ferramentas de digitalização avançada do QGis e as imagens do Google Satélite para refinar a interpretação visual das feições. Foram considerandos os seguintes usos do solo:
+O mapeamento do uso e ocupação do solo foi elaborado a partir do processamento de imagens de satélite, vetorização manual e observações em campo. O mapeamento foi realizado em duas etapas. Na primeira, as bandas 2, 3, 4 e 8 do Sentinel-2 com resolução espacial de 10 metros foram classificadas em 4 grupos de forma automatizada usando metodologia classificação supervisionada. No segundo momento, a classificação foi refinada utilizando as ferramentas de digitalização avançada do QGis e as imagens do Google Satélite para refinar a interpretação visual das feições. Foram considerandos os seguintes usos do solo:
 
 - Agricultura
 - Pastagem
@@ -92,6 +91,8 @@ O mapeamento do uso e ocupação do solo foi elaborado através de processamento
 - Afloramento rochoso
 - Floresta plantada (silvicultura)
 - Área urbana
+
+A bacia apresenta inúmeros represamentos, de área inferior a 1 hectare, espalhados por toda a área. Na região central, observa-se um agrupamento de represamentos, provavelmente relacionados à psicultura. Para efeito de uso do solo eles foram vetorizados em conjunto, mas não foram considerados para desenho da área de preservação permanente, por se tratarem, na prática, de múltiplos pequenos reservatórios.
 
 ## Diagnóstico e análise ambiental da bacia
 
@@ -233,7 +234,7 @@ Imagens:
 
 ### Unidades de Paisagem
 
-Nove unidades de paisagem foram identificadas na bacia do Ribeirão Santana: afloramento, anfiteatro, colina de topo alongado, complexo côncavo/convexo, superfícies tabulares, planícies e terraços fluviais, vale em v encaixado, vertentes ravinadas e vertentes retilíneas. A definição das unidades seguiram uma metodologia de caracterização integrada do meio físico, do meio biótico e antrópico, a partir da qual permitirá uma adequação ambiental e produtiva dos diferentes compartimentos geográficos.
+Nove unidades de paisagem foram identificadas na bacia do Ribeirão Santana: afloramento, anfiteatro, colina de topo alongado, complexo côncavo/convexo, superfícies tabulares, planícies e terraços fluviais, vale em v encaixado, vertentes ravinadas e vertentes retilíneas. A definição das unidades seguiu uma metodologia de caracterização integrada do meio físico, do meio biótico e antrópico, permitindo uma adequação ambiental e produtiva dos diferentes compartimentos geográficos.
 
 #### Afloramento
 
@@ -347,7 +348,7 @@ Tipo de solo: Latossolo vermelho
 
 Potencialidades:
 
-1. Solo profundo, permeável, com aquíferos alçados devido a presença de horizontes lateríticos
+1. Solo profundo, permeável, com aquíferos alçados devido à presença de horizontes lateríticos
 2. Relevo plano que permite mecanização
 3. Pesquisa científica 
 4. Recarga da bacia
@@ -487,13 +488,13 @@ As Unidades de Paisagem com maior representatividade na bacia são as vertentes 
 
 ### Disponibilidade hídrica
 
-O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processo de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na bacia e com os critérios de inclusão neste estudo. Este número é sem dúvida muito inferior ao número de usuários real de água. É recomendável que o poder público e os órgão extensionistas realizem campanhas sobre a importância da solicitação de outorga para o real compreensão da demanda de água na bacia. O uso da água na bacia têm como finalidade principal o abastecimento humano e a irrigação de pequenos cultivos agrícolas. As outorgas estão distribuídas no curso principal do Ribeirão Santana, no médio e baixo. 
+O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processo de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na bacia e com os critérios de inclusão neste estudo. Este número é sem dúvida muito inferior ao número de usuários real de água. As outorgas estão distribuídas no curso principal do Ribeirão Santana, no médio e baixo. O uso da água na bacia têm como finalidade principal o abastecimento humano e a irrigação de pequenos cultivos agrícolas.Não há demanda hídrica na bacia para uso intensivo da água para irrigação de grandes áreas e pivôs, predominando a criação extensiva de animais, com pequenas lavouras espalhadas principalmente na porção média e baixa da bacia. A vazão limite para cadastro de uso insignificante na região é de 0,5L/s (0,0005m³/s).
 
 ![](img/fig7_outorgasTipo.png)
 
 ![](img/fig8_demanda.png)
 
-Não há demanda hídrica na bacia para uso intensivo da água para irrigação de grandes áreas e pivôs. Predomina uma criação extensiva de animais com pequenas lavouras espalhadas principalmente na porção média e baixa da bacia. Dos 275 trechos mapeados pelo IGAM, 3 deles possuem usuários com demanda, sendo que em um deles o volume outorgado supera o valor de 50% da Q710, valor de referência para disponibilidade hídrica. É importante ressaltar que alguns processos vencidos não tomaram iniciativa de realizar a renovação e existem captações observadas em campo que não se encontram na base do SIAM. Desta maneira, os dados oficiais validados mostram um cenário incompatível com a realidade da bacia em estudo.
+Dois usuários com cadastro de uso insignificante estão localizados no trecho 75829983 do Ribeirão Santana, e um único usuário com cadastro de uso insignificante está localizado no trecho 7582998591. Esses usuários não comprometem a disponibilidade hídrica nos seus respectivos trechos do curso d'água. No trecho 7582998733 a vazão outorgada encontra-se acima do limite de 50% da Q710, comprometendo disponibilidade hídrica do Ribeirão Santana. 
 
 | Código do trecho | Nome do curso d'água | Qmld (m³/s) | Q710 (m³/s) | Qreg (m³/s) | Q outorgável (m³/s) | Q demandada (m³/s) | QDH (m³/s) | Comprometimento DH (%) | Viabilidade de regularização de Q |
 |------------------|----------------------|-------------|-------------|-------------|---------------------|--------------------|------------|------------------------|-----------------------------------|
@@ -501,17 +502,11 @@ Não há demanda hídrica na bacia para uso intensivo da água para irrigação 
 | 7582998591       | Ribeirão Santana     | 0.43676     | 0.00976     | 0.30085     | 0.004881            | 0.0005             | 0.00438    | 10.24                  |                                   |
 | 7582998733       | Ribeirão Santana     | 0.32747     | 0.00690     | 0.22578     | 0.003451            | 0.00823            | -0.00478   | 238.50                 | sim                               |
 
+Obs: Qmld = Vazão média de longo período; Q7,10 = Vazão de referência;  Q outorgável = 50%Q7,10; Qreg = vazão potencial de regularização; QDH = vazão de disponibilidade hídrica; Viabilidade de regularização de Q: se Qreg + QDH > 0, há viabilidade
+
 ![](img/fig9_disponibilidade.png)
 
-Observa-se inúmeros represamentos, de área inferior a 1 hectare, espalhados por toda a bacia. Na região central, observa-se um agrupamento de represamentos, provavelmente relacionados a psicultura. Para efeito de uso do solo eles foram vetorizados em conjunto, mas não foram considerandos para desenho da área de preservação permanente, por se tratarem na prática de múltiplos pequenos reservatórios.
-
-- Vazão de referência (Q7,10): 0,014 m3/s;
-- Vazão média de longo período (Qmld): 0,581 m3/s;
-- Índice (r7,10 = Q7,10/Qmld): 2,4%;
-- Capacidade de regularização natural: Baixa capacidade de regularização natural;
-- Disponibilidade (vazão máxima outorgável: 50% da Q7,10): 0,007 m3/s;
-- Relação demanda/disponibilidade – cenário atual: 136,7%
-
+É importante ressaltar que alguns processos vencidos não tomaram iniciativa de realizar a renovação e existem captações observadas em campo que não se encontram na base do SIAM. Desta maneira, os dados oficiais validados mostram um cenário incompatível com a realidade da bacia em estudo. Recomenda-se que o poder público e os órgãos extensionistas realizem campanhas sobre a importância da solicitação de outorga para o real compreensão da demanda de água na bacia.
 
 ### Uso e ocupação do solo
 
@@ -537,13 +532,13 @@ Representando 1,6% da área da bacia o cultivo de floresta plantada se faz prese
 
 ### Área de preservação permanente
 
-As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais capazes de desestabilizar ecossistemas. Foram identificadas as APPs hídricas diferenciadas por: i) nascentes e ii) cursos d’água; iii). Não houveram represas com área superior a 1 ha, sendo portanto dispoensadas de possui área de preservação permanente. Nas nascentes foi aplicado um buffer de 50 e ao longo dos cursos d'água um buffer de 30 metros. A área total de APPs hídrica da bacia do Ribeirão Santana é cerca de 854,52 hectares, representando aproximadamente 12% de toda a área de estudo. Foram identificadas 166 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes, totalizando 119,4 hectares.
+As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais capazes de desestabilizar ecossistemas. Foram identificadas as APPs hídricas diferenciadas por: i) nascentes e ii) cursos d’água. Não houveram represas com área superior a 1 ha, sendo portanto dispensadas de possuirem área de preservação permanente. Nas nascentes foi aplicado um buffer de 50 e ao longo dos cursos d'água um buffer de 30 metros. A área total de APPs hídrica da bacia do Ribeirão Santana é cerca de 854,52 hectares, representando aproximadamente 12% de toda a área de estudo. Foram identificadas 166 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes, totalizando 119,4 hectares.
 
 ![](img/fig13_appHidrica.png)
 
 ## Considerações gerais
 
-Nesta seção serão apresentandos os conflitos referentes ao uso do solo com as áreas de preservação permanente e aptisão das unidades de paisagem. São apresentados também os índices que representam a atual condição da bacia, que são: índice de conservação da bacia, de antropisação das APPs hídricas, de concentração de nascentes e de uso conflitante na bacia.
+Nesta seção serão apresentandos os conflitos referentes ao uso do solo com as áreas de preservação permanente e aptidão das unidades de paisagem. São apresentados também os índices que representam a atual condição da bacia: índice de conservação da bacia, de antropisação das APPs hídricas, de concentração de nascentes e de uso conflitante na bacia.
 
 ### Áreas conservadas e antropisadas
 
@@ -551,7 +546,7 @@ As classes de uso do solo vegetação nativa e afloramento rochoso foram conside
 
 ![](img/fig14_areaAntropizada.png)
 
-A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na na parte média e baixa da bacia, e coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos é a porção mais preservada.
+A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na parte média e baixa da bacia coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos, é a porção mais preservada.
 
 | Tipo de área | Área (ha) | Representatividade (%) |
 |--------------|-----------|------------------------|
@@ -575,7 +570,7 @@ A informação de APPs hídricas conservadas e antropizadas pode ser utilizada p
 
 ### Conservação de nascentes
 
-O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, obtém o valor de 0,78 por nascente. Este é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na bacia. O índice de concentração de nascentes foi de 1.77%.
+O cálculo de concentração de nascentes possibilita a visualização numérica da quantidade de nascentes por área total da bacia. Ele facilita à priorização de alocação de recursos para a adequação ambiental da bacia quando se trata de recuperação de nascentes e disponibilidade hídrica. Presume-se que cada APP de nascente equivale a um raio de 50 metros, que, convertendo para hectares, resulta no valor de 0,78 por nascente. Este é por sua vez multiplicado pelo número de nascentes encontradas e dividido pela área total da bacia. O resultado pode ser interpretado em uma escala de 0 a 100, sendo que quanto maior o valor, maior a concentração de nascentes na bacia. O índice de concentração de nascentes foi de 1.77%.
 
 | Variáveis           | Valores    |
 |---------------------|------------|
@@ -587,7 +582,7 @@ O cálculo de concentração de nascentes possibilita a visualização numérica
 
 ### Conflito de uso e ocupação do solo
 
-O conflito entre unidades de paisagem e uso e ocupação do solo expõe as áreas da bacia que sofrem maior impacto ambiental por determinado tipo de uso em certa unidade de paisagem. É um importante subproduto a ser analisado para determinar áreas que devem sofrer intervenção em seu uso visando um amlehor conservação da bacia. Área de conflito são obtidas por meio da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, através das aptidões das unidades de paisagem e visitas de campo, onde há compatibilidade e incompatibilidade de usos. Algumas áreas foram associadas à classe de conflito “controle e manejo” demonstrando que tal uso é compatível a partir de técnicas de controle e manejo do solo adequadas. A classificação “não aplicável” foi dada às classes de uso que não são passíveis de alteração por inviabilidade ou consolidação de uso, como exemplo área urbanas e minerárias.
+O conflito entre unidades de paisagem e uso e ocupação do solo expõe as áreas da bacia que sofrem maior impacto ambiental por determinado tipo de uso em certa unidade de paisagem. É um importante subproduto a ser analisado para determinar áreas que devem sofrer intervenção em seu uso visando uma melhor conservação da bacia. Áreas de conflito são obtidas por meio da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, a partir das aptidões das unidades de paisagem e visitas de campo, onde há compatibilidade e incompatibilidade de usos. As áreas associadas à classe de conflito “controle e manejo” podem ser utilizadas para agricultura ou pecuária desde que sejam utilizadas técnicas de controle e manejo do solo adequadas. A classificação “não aplicável” foi dada às classes de uso não passíveis de alteração por inviabilidade ou consolidação de uso, como exemplo área urbanas e minerárias.
 
 ![](img/fig16_conflitoUso.png)
 

@@ -8,7 +8,7 @@
   <a>Danielle Piuzana Mucida</a><br>
   <a>Marcelino Morais</a><br>
   <a>Tamara Kelly Marques Rocha Nunes</a><br>
-  <a>Eric Bastos Gorgens</a> [Eric, você deve ser o primeiro autor]
+  <a>Eric Bastos Gorgens</a>
   <br><br>
 </p>
 
@@ -91,6 +91,8 @@ O mapeamento do uso e ocupação do solo foi elaborado a partir do processamento
 - Afloramento rochoso
 - Floresta plantada (silvicultura)
 - Área urbana
+
+A bacia apresenta inúmeros represamentos, de área inferior a 1 hectare, espalhados por toda a área. Na região central, observa-se um agrupamento de represamentos, provavelmente relacionados à psicultura. Para efeito de uso do solo eles foram vetorizados em conjunto, mas não foram considerados para desenho da área de preservação permanente, por se tratarem, na prática, de múltiplos pequenos reservatórios.
 
 ## Diagnóstico e análise ambiental da bacia
 
@@ -500,24 +502,11 @@ Dois usuários com cadastro de uso insignificante estão localizados no trecho 7
 | 7582998591       | Ribeirão Santana     | 0.43676     | 0.00976     | 0.30085     | 0.004881            | 0.0005             | 0.00438    | 10.24                  |                                   |
 | 7582998733       | Ribeirão Santana     | 0.32747     | 0.00690     | 0.22578     | 0.003451            | 0.00823            | -0.00478   | 238.50                 | sim                               |
 
-
 Obs: Qmld = Vazão média de longo período; Q7,10 = Vazão de referência;  Q outorgável = 50%Q7,10; Qreg = vazão potencial de regularização; QDH = vazão de disponibilidade hídrica; Viabilidade de regularização de Q: se Qreg + QDH > 0, há viabilidade
 
 ![](img/fig9_disponibilidade.png)
 
 É importante ressaltar que alguns processos vencidos não tomaram iniciativa de realizar a renovação e existem captações observadas em campo que não se encontram na base do SIAM. Desta maneira, os dados oficiais validados mostram um cenário incompatível com a realidade da bacia em estudo. Recomenda-se que o poder público e os órgãos extensionistas realizem campanhas sobre a importância da solicitação de outorga para o real compreensão da demanda de água na bacia.
-
-[ esse trecho é para uso do solo?]
-A bacia apresenta inúmeros represamentos, de área inferior a 1 hectare, espalhados por toda a área. Na região central, observa-se um agrupamento de represamentos, provavelmente relacionados à psicultura. Para efeito de uso do solo eles foram vetorizados em conjunto, mas não foram considerados para desenho da área de preservação permanente, por se tratarem, na prática, de múltiplos pequenos reservatórios.
- 
-[essa informação abaixo está solta, não está claro o que quer ser mostrado, os dados não bateram com a tabela acima]
-- Vazão de referência (Q7,10): 0,014 m3/s;
-- Vazão média de longo período (Qmld): 0,581 m3/s;
-- Índice (r7,10 = Q7,10/Qmld): 2,4%;
-- Capacidade de regularização natural: Baixa capacidade de regularização natural;
-- Disponibilidade (vazão máxima outorgável: 50% da Q7,10): 0,007 m3/s;
-- Relação demanda/disponibilidade – cenário atual: 136,7%
-
 
 ### Uso e ocupação do solo
 
@@ -543,7 +532,7 @@ Representando 1,6% da área da bacia o cultivo de floresta plantada se faz prese
 
 ### Área de preservação permanente
 
-As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais capazes de desestabilizar ecossistemas. Foram identificadas as APPs hídricas diferenciadas por: i) nascentes e ii) cursos d’água; iii) [XXXX falta aqui esse item XXXX] . Não houveram represas com área superior a 1 ha, sendo portanto dispensadas de possuirem área de preservação permanente. Nas nascentes foi aplicado um buffer de 50 e ao longo dos cursos d'água um buffer de 30 metros. A área total de APPs hídrica da bacia do Ribeirão Santana é cerca de 854,52 hectares, representando aproximadamente 12% de toda a área de estudo. Foram identificadas 166 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes, totalizando 119,4 hectares.
+As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais capazes de desestabilizar ecossistemas. Foram identificadas as APPs hídricas diferenciadas por: i) nascentes e ii) cursos d’água. Não houveram represas com área superior a 1 ha, sendo portanto dispensadas de possuirem área de preservação permanente. Nas nascentes foi aplicado um buffer de 50 e ao longo dos cursos d'água um buffer de 30 metros. A área total de APPs hídrica da bacia do Ribeirão Santana é cerca de 854,52 hectares, representando aproximadamente 12% de toda a área de estudo. Foram identificadas 166 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes, totalizando 119,4 hectares.
 
 ![](img/fig13_appHidrica.png)
 
@@ -593,7 +582,7 @@ O cálculo de concentração de nascentes possibilita a visualização numérica
 
 ### Conflito de uso e ocupação do solo
 
-O conflito entre unidades de paisagem e uso e ocupação do solo expõe as áreas da bacia que sofrem maior impacto ambiental por determinado tipo de uso em certa unidade de paisagem. É um importante subproduto a ser analisado para determinar áreas que devem sofrer intervenção em seu uso visando uma melhor conservação da bacia. Áreas de conflito são obtidas por meio da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, a partir das aptidões das unidades de paisagem e visitas de campo, onde há compatibilidade e incompatibilidade de usos. Algumas áreas foram associadas à classe de conflito “controle e manejo”, demonstrando que tal uso é compatível [fiquei um pouco em dúvida aqui com o que queria dizer] a partir de técnicas de controle e manejo do solo adequadas. A classificação “não aplicável” foi dada às classes de uso não passíveis de alteração por inviabilidade ou consolidação de uso, como exemplo área urbanas e minerárias.
+O conflito entre unidades de paisagem e uso e ocupação do solo expõe as áreas da bacia que sofrem maior impacto ambiental por determinado tipo de uso em certa unidade de paisagem. É um importante subproduto a ser analisado para determinar áreas que devem sofrer intervenção em seu uso visando uma melhor conservação da bacia. Áreas de conflito são obtidas por meio da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, a partir das aptidões das unidades de paisagem e visitas de campo, onde há compatibilidade e incompatibilidade de usos. As áreas associadas à classe de conflito “controle e manejo” podem ser utilizadas para agricultura ou pecuária desde que sejam utilizadas técnicas de controle e manejo do solo adequadas. A classificação “não aplicável” foi dada às classes de uso não passíveis de alteração por inviabilidade ou consolidação de uso, como exemplo área urbanas e minerárias.
 
 ![](img/fig16_conflitoUso.png)
 

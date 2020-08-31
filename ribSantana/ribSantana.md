@@ -55,22 +55,22 @@ Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo
 - Software Google Earth Pro 7.3.2.5491, 64-bits;
 - Software Google Earth Engine;
 - Imagens Sentinel-2 e SRTM Global DEM;
-- Shapefile de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido através da IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
+- Shapefile de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido no IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
 - Shapefile de ottobacias da bacia do Rio São Francisco, obtido no IDE-Sisema;
 - Shapefile dos municípios do Estado de Minas Gerais, obtido no IDE-Sisema;
 - Shapefile de Declaração de Áreas de Conflito (DAC) obtido no IDE-Sisema;
-- Shapefile de Unidades de Conservação obtido através da IDE-Sisema; 
-- Mapa geológico do Estado de Minas Gerais na escala de 1:100.000 da CODEMIG versão 2014;
+- Shapefile de Unidades de Conservação obtido no IDE-Sisema; 
+- Mapa geológico da Folha Rio Vermelho, na escala de 1:100.000 (Projeto Espinhaço) da CODEMIG, versão 2014;
 - Mapa de classes de solos do Brasil na escala de 1:5.000.000 da EMBRAPA/RADAM;
 - Relatório dos usuários de água e de Hidrografia da bacia do Ribeirão Santana obtido junto a SEMAD.
 
 ### Unidades de paisagem
 
-As unidades de paisagem são inicialmente traçadas a partir dos mapas de solo, litologia, modelo digital de elevação e declividade. Em seguida, as unidades são validadas por meio de visitam em campo. A unidade de paisagem leva em consideração a especificidade local e seus componentes físicos (geologia, relevo e solos), bióticos (vegetação nativa) e socioeconômicos (atividades antrópicas). As unidades de paisagem foram identificadas preliminarmente cruzando as curvas de nível derivadas do modelo digital de elevação do SRTM e as imagens do Google Earth Pro. A interpretação da paisagem foi feita a partir da visualização 3D, com exagero vertical de 1,5. A caracterização de cada Unidade de Paisagem leva em consideração a morfologia, o embasamento geológico/pedológico, cobertura vegetal nativa original, uso atual e situação ambiental. Em seguida, por meio de visita a campo, a interpretação preliminar é refinada. A análise foi finalizada com a identificação, para cada unidade de paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
+As unidades de paisagem são inicialmente traçadas a partir dos mapas de solo, litologia, modelo digital de elevação e declividade. Em seguida, as unidades são validadas por meio de visitas em campo. A unidade de paisagem leva em consideração a especificidade local e seus componentes físicos (geologia, relevo e solos), bióticos (vegetação nativa) e socioeconômicos (atividades antrópicas). As unidades de paisagem foram identificadas preliminarmente cruzando as curvas de nível derivadas do modelo digital de elevação do SRTM e as imagens do Google Earth Pro. A interpretação da paisagem foi feita a partir da visualização 3D, com exagero vertical de 1,5. A caracterização de cada Unidade de Paisagem leva em consideração a morfologia, o embasamento geológico/pedológico, cobertura vegetal nativa original, uso atual e situação ambiental. Em seguida, por meio de visita a campo, a interpretação preliminar é refinada. A análise foi finalizada com a identificação, para cada unidade de paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
 
 ![](img/figura11.png)
 
-### Disponibilidade hidrica
+### Disponibilidade hídrica
 
 O diagnóstico da disponibilidade hídrica se baseia nos dados de outorgas disponibilizados pelo Instituto Mineiro de Gestão das Águas (IGAM) e pela Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável de Minas Gerais (SEMAD). Foi determinado o código indentificador do curso d’água principal da bacia, no caso, Ribeirão Santama, com a base ottocodificada do IGAM. A hidrografia com os dados de regionalização de vazão para os cálculos necessários ao diagnóstico foi obtida no IDE-Sisema e as informações de outorgas e cadastro de uso insignificante solicitadas à SEMAD, nos termos do anexo III da metodologia ZAP.
 

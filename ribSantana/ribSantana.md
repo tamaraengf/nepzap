@@ -54,7 +54,8 @@ Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo
 - Software QGIS vesão 3.10 e plugins;
 - Software Google Earth Pro 7.3.2.5491, 64-bits;
 - Software Google Earth Engine;
-- Imagens Sentinel-2 e SRTM Global DEM;
+- Imagens Sentinel-2;
+- Modelo de Elevação Alos Palsar;
 - Shapefile de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido através da IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
 - Shapefile de ottobacias da bacia do Rio São Francisco, obtido no IDE-Sisema;
 - Shapefile dos municípios do Estado de Minas Gerais, obtido no IDE-Sisema;

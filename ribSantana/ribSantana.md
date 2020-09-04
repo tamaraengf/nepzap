@@ -49,19 +49,19 @@ A bacia está localizada na Serra do Espinhaço e apresenta um relevo suave ondu
 
 ### Bases de dados
 
-Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo, softwares de geoprocessamento, processamento de imagens de satélite e dados oficiais de órgãos federais e estaduais. Enumerando:
+Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo, softwares de geoprocessamento, processamento digital de imagens de satélite e dados oficiais de órgãos federais e estaduais. Enumerando:
 
 - Software QGIS vesão 3.10 e plugins;
 - Software Google Earth Pro 7.3.2.5491, 64-bits;
 - Software Google Earth Engine;
 - Imagens Sentinel-2 e SRTM Global DEM;
-- Shapefile de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido através da IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
-- Shapefile de ottobacias da bacia do Rio São Francisco, obtido no IDE-Sisema;
-- Shapefile dos municípios do Estado de Minas Gerais, obtido no IDE-Sisema;
-- Shapefile de Declaração de Áreas de Conflito (DAC) obtido no IDE-Sisema;
-- Shapefile de Unidades de Conservação obtido através da IDE-Sisema; 
-- Mapa geológico do Estado de Minas Gerais na escala de 1:100.000 da CODEMIG versão 2014;
-- Mapa de classes de solos do Brasil na escala de 1:5.000.000 da EMBRAPA/RADAM;
+- Arquivo vetorial de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido através da IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
+- Arquivo vetorial de ottobacias da bacia do Rio São Francisco, obtido no IDE-Sisema;
+- Arquivo vetorial dos municípios do Estado de Minas Gerais, obtido no IDE-Sisema;
+- Arquivo vetorial de Declaração de Áreas de Conflito (DAC) obtido no IDE-Sisema;
+- Arquivo vetorial de Unidades de Conservação obtido no IDE-Sisema; 
+- Arquivo vetorial do mapa geológico do Estado de Minas Gerais na escala de 1:100.000 da CODEMIG versão 2014;
+- Arquivo vetorial do mapa de classes de solos do Brasil na escala de 1:5.000.000 da EMBRAPA/RADAM;
 - Relatório dos usuários de água e de Hidrografia da bacia do Ribeirão Santana obtido junto a SEMAD.
 
 ### Unidades de paisagem

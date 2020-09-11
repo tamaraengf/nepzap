@@ -238,29 +238,28 @@ Nove unidades de paisagem foram identificadas na bacia do Ribeirão Santana: afl
 
 #### Afloramento
 
-Ocorrência: Porção sul da bacia; grande distribuição areal; vincula-se à quartzitos do Supergrupo Espinhaço; Região mais elevada (cotas entre 1740 a 900m). Limita-se com as Vertentes Ravinadas e contém Vales Encaixados;	De escarpas a rampas rochosas, com mergulho preferencial para Leste que condicionam uma hidrografia local dos tipos Subsequentes (determinados por zonas de fraquezas) e consequentes condicionados pelo mergulho da camada litológica.
-
-Relevo: Expressiva área com declividade predominante acima de 45% podendo nas porções mais cimeiras e/ou mais dissecadas apresentar declividade superior a 75%.	
-
+Ocorrência: A unidade Afloramento ocorre na porção sul da bacia do Ribeirão Santana abrangendo 27,78% do total da área. A unidade vincula-se predominantemente aos quartzitos do Supergrupo Espinhaço, de ocorrência nas regiões mais elevada da bacia, em cotas altimétricas entre 1740 a 900m. Caracteriza-se por escarpas a rampas rochosas, com mergulho preferencial para Leste que condicionam uma hidrografia local dos tipos Subsequentes (determinados por zonas de fraquezas) e consequentes condicionados pelo mergulho da camada litológica. Limita-se com a unidade de paisagem de Vertentes Ravinadas e contém a unidade de Vales Encaixados (Figura XXXX)
+Relevo: Expressiva área com declividade predominante acima de 45% podendo nas porções mais cimeiras e/ou mais dissecadas apresentar declividade superior a 75%.
 Tipo de solo: Neossolo litólico;	
 
-Potencialidades:
 
-1. Beleza cênica
-2. Sítios de Geodiversidade 
-3. Aquíferos fraturados	
+Inserir figura afloramento
+
+Potencialidades:
+1.	Beleza cênica: com ocorrência de quedas d’água e  águas superficiais cristalinas e oxigenadas
+2.	Sítios de Geodiversidade: potencialidade vinculadas a  aspectos naturais geológicos  e  geomorfológicos, como formas de relevo e seus processos de formação que podem revelar alto valor para ciência, educação, cultura ou mesmo o turismo.
+3.	Aquíferos fraturados: Potencialidade de  armazenamento de água subterrânea entre fraturas dos quartzitos. A quantidade de água existente nesse aquífero está diretamente relacionada  ao número de fraturas.
 
 Limitações:
-
-1. Acessibilidade
-2. Relevo acidentado
-3. Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
-4. Solos com baixa fertilidade	
+1.	Acessibilidade. Sem estradas vicinais nem trilhas para acesso
+2.	Relevo acidentado 
+3.	Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+4.	Ausência de solos pela ocorrência em superfície de afloramentos quartzíticos e solos com baixa fertilidade.
 
 Aptidões:
+1.	Pesquisas científicas em Campos Rupestres. As formações campestres da Serra do Espinhaço são extremamente relevantes para estudos por apresentarem alta diversidade de espécies de plantas, a maior parte delas endêmica (que ocorre exclusivamente naquela região). A ocorrência destas formações consiste em um dos principais motivos para a declaração, pela Unesco, da Reserva da Biosfera da Serra do Espinhaço.
+2.	Ecoturismo. 
 
-1. Pesquisas científicas em Campos Rupestres
-2. Ecoturismo
 
 #### Anfiteatro
 

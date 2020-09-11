@@ -416,11 +416,13 @@ Aptidões:
 
 #### Vertentes ravinadas	
 
-Ocorrência: Alta representatividade areal; porção central (eixo NW-SE) da bacia; ocorrência em quartzitos sericíticos do Grupo Macaúbas;Limita-se com as unidades: Superfícies Tabulares; Complexo Côncavo-Convexo; Afloramentos de Quartzitos, Terraços e Planícies Fluviais e Vale encaixado.
+Ocorrência: As Vertentes ravinadas ocorrem porção central da bacia (eixo NW-SE) com alta representatividade areal, cerca de 27.87% da área total. Caracteriza-se pelo substrato com predominância dos quartzitos sericíticos do Grupo Macaúbas; Limita-se com as unidades: Superfícies Tabulares; Complexo Côncavo-Convexo; Afloramentos de Quartzitos, Terraços e Planícies Fluviais e Vale em V encaixado (Figura XXXX). 
 
-Relevo: Assemelham-se as vertentes do Complexo Côncavo-Convexo, porém as os processos da erosão pluvial são marcantes.
+Relevo: Assemelham-se as vertentes do Complexo Côncavo-Convexo, porém os processos da erosão pluvial são marcantes.
 
 Tipo de solo: Cambissolo e Neossolo Litólico
+
+nseir figura vertente ravinada
 
 Potencialidades: 
 

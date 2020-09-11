@@ -340,9 +340,9 @@ Aptidões:
 
 #### Superfícies tabulares	
 
-Ocorrência: Porção NW da bacia; cotas altimétricas entre 960 e 940m. Limita-se com as unidades: Vertentes Ravinadas e Complexo Côncavo-Convexo. Áreas de recarga de aquífero que determinam o uso e ocupação do solo tradicional nas meias vertentes e fundo de vale, sistema chapada-grota. Remanescentes de Cerrado Sentido Restrito, mas com intensa ocupação por silvicultura (eucalipto).  
+Ocorrência: A unidade Superfícies Tabulares ocorre na porção NW da bacia abrangendo 5,67% da área total. Ocorre sobre quartzitos sericíticos do Grupo Macaúbas em cotas altimétricas entre 960 e 940m. Limita-se com as unidades: Vertentes Ravinadas e Complexo Côncavo-Convexo. Áreas de recarga de aquífero que determinam o uso e ocupação do solo tradicional nas meias vertentes e fundo de vale, sistema chapada-grota. Remanescentes de Cerrado Sentido Restrito, mas com intensa ocupação por silvicultura (eucalipto) (Figura XXXXX) 
 
-Relevo: Forma topográfica que se assemelha a planaltos, limitados por vertentes abruptas. regionalmente (Alto Jequitinhonha) é denominada como “chapadas”. 
+Relevo: Forma topográfica que se assemelha a planaltos, limitados por vertentes abruptas. Regionalmente, no Alto Jequitinhonha, esta unidade de paisagem é denominada “chapada”. 
 
 Tipo de solo: Latossolo vermelho
 
@@ -355,8 +355,10 @@ Potencialidades:
 
 Limitações:
 
-1. Solos com baixa fertilidade, elevada acidez
-2. Escassez de recurso hídrico superficial
+1.	Áreas de preservação (APP do tipo borda de Tabuleiros ou Chapadas (100 m em projeção horizontal até a linha de ruptura do relevo)
+2.	Solos com baixa fertilidade, elevada acidez
+3.	Escassez de recurso hídrico superficial
+
 
 Aptidões:
 

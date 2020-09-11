@@ -391,28 +391,29 @@ Aptidões:
 
 #### Vales em V encaixado	
 
-Ocorrência: Vale fechado em V na porção centro-sul da bacia em unidades de Afloramento de Quartzito e Vertentes Ravinadas. Vegetação arbórea densa, pela presença de água.
-
-Relevo: Vales com vertentes íngremes e rochosas, planícies e terraços fluviais imperceptíveis. 
+Ocorrência: A unidade de paisagem Vale em V ocorre na porção centro-sul da bacia, nas regiões mais elevadas, em cotas altimétricas entre 1740 a 900m. Ocupa cerca de 3.58% da área da bacia. É associada à hidrografia local dos drenagens  subsequentes (determinados por zonas de fraquezas) e consequentes (condicionados pelo mergulho das camadas quartzíticas). Limita-se com as unidades de Afloramento (quartzitos do Supergrupo Espinhaço) e Vertentes Ravinadas. Caracteriza-se por ocorrência de uma vegetação arbórea densa, pela presença de água.
+Relevo: Vales com vertentes íngremes e rochosas, planícies e terraços fluviais imperceptíveis.
 
 Tipo de solo: Neossolo Litólico
 
-Potencialidades:
+inserir figura vale em V
 
-1. Área do curso principal do Rib. Santana e tributários que estão em planos de fratura dos quartzitos (nascentes)
+Potencialidades:
+1.	Porção alta do curso principal do ribeirão Santana e tributários que estão em planos de fratura dos quartzitos (nascentes), proporcionando aquíferos fraturados.
+2.Abundância de recursos hídricos superficiais, com ocorrência de quedas d’água e  águas superficiais cristalinas e oxigenadas
 
 Limitações:
-
-1. Relevo fortemente acidentado
-2. Difícil acesso
-3. Declividade acentuada (45 a 75%)
-4. Solos com baixa fertilidade
+1.	Relevo fortemente acidentado
+2.	Acessibilidade. Sem estradas vicinais nem trilhas para acesso
+3.	Declividade acentuada (45 a 75%)
+4.	Ausência de solos 
+5.	Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
 
 Aptidões:
+1.	Áreas para preservação permanente (APP de Mata Ciliar e Nascentes) 
+2.	Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+3.	Refúgio Silvestre
 
-1. Áreas para preservação permanente e proteção de nascentes
-2. Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
-3. Beleza Cênica
 
 #### Vertentes ravinadas	
 

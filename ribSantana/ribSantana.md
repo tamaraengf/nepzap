@@ -287,29 +287,30 @@ Aptidões:
 
 #### Colinas de topo alongado	
 
-Ocorrência: Porção leste da bacia (eixo SW-NE); Encontra-se no domínio do Granito Itanguá. Limita-se com as unidades: Complexo Côncavo-Convexo; Anfiteatro e Vertentes Retilíneas. Parte superior da encosta (cotas entre 900 a 840m).
+Ocorrência: Esta unidade localiza-se na porção leste da bacia, com uma direção geral SW-NE, abrangendo cerca de 2,24% da área total. Encontra-se no domínio do Granitoide Rio Itanguá, na parte superior de encostas entre as cotas altimétricas de 900 e 840m. Limita-se com as unidades: Complexo Côncavo-Convexo; Anfiteatro e Vertentes Retilíneas (Figura XXXX).
 
 Relevo: Elevação alongada e relativamente ilhada, sugerindo ser testemunho de uma paleosuperfície por não apresentar uma conectividade no seu modelado. Fisiografia consequente da dissecação que condicionou a unidade Planície/Terraços Fluviais. 
 
 Tipo de solo: Predominância de Argissolo podendo ocorrer Latossolos
 
-Potencialidades:
+Inserir figura topo alongado
 
-1. Relevo suave
-2. Solos profundos
-3. Áreas de Recarga
+
+Potencialidades:
+1.	Relevo suave
+2.	Solos profundos
+3.	Áreas de Recarga
 
 Limitações:
-
-1. Uso limitado por ser topo de morro (Código Florestal)
-2. Predisposição a processos erosivos principalmente nas áreas de Argissolos
-3. Solos com baixa fertilidade
+1.	Uso limitado por ser topo de morro (Código Florestal)
+2.	Predisposição a processos erosivos principalmente nas áreas de Argissolos
+3.	Solos com baixa fertilidade
 
 Aptidões:
+1.	Áreas de preservação permanente (APP) do tipo Topo de Morro
+2.	Manutenção de vegetação nativa (Floresta Estacional Semi-Decidual)
+3.	Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
-1. Áreas de preservação permanente do tipo Topo de Morro
-2. Manutenção de vegetação nativa (Floresta Estacional Semi-Decidual)
-3. Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
 #### Complexo côncavo convexo	
 

@@ -61,19 +61,17 @@ Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo
 - Arquivo vetorial dos municípios do Estado de Minas Gerais, obtido no IDE-Sisema;
 - Arquivo vetorial de Declaração de Áreas de Conflito (DAC) obtido no IDE-Sisema;
 - Arquivo vetorial de Unidades de Conservação obtido no IDE-Sisema; 
-- Arquivo vetorial do mapa geológico do Estado de Minas Gerais na escala de 1:100.000 da CODEMIG versão 2014;
+- Mapa geológico da Folha Rio Vermelho, na escala de 1:100.000 (Projeto Espinhaço) da CODEMIG, versão 2014;
 - Arquivo vetorial do mapa de classes de solos do Brasil na escala de 1:5.000.000 da EMBRAPA/RADAM;
 - Relatório dos usuários de água e de Hidrografia da bacia do Ribeirão Santana obtido junto a SEMAD.
 
 ### Unidades de paisagem
 
-As Unidades de Paisagem são inicialmente traçadas a partir dos mapas de solo, geologia (embasamento geológico/pedológico), morfologia do relevo, modelo digital de elevação e declividade. Considera-se, ainda, a cobertura vegetal nativa original, uso atual e situação ambiental. Em seguida, os dados preliminares são validados por meio de visitas em campo. 
-As unidades de paisagem da bacia do ribeirão Santana foram identificadas preliminarmente cruzando as curvas de nível derivadas do modelo digital de elevação do SRTM e as imagens do Google Earth Pro. A interpretação da paisagem foi feita a partir da visualização 3D, com exagero vertical de 1,5. Em seguida, por meio de visita a campo nos meses de junho e setembro de 2020, a interpretação preliminar foi refinada. A análise foi finalizada com a identificação, locais de ocorrência, tipo de relevo, solo para cada unidade de paisagem, além de suas potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
-
+As Unidades de Paisagem são inicialmente traçadas a partir dos mapas de solo, geologia (embasamento geológico/pedológico), morfologia do relevo, modelo digital de elevação e declividade. Considera-se, ainda, a cobertura vegetal nativa original, uso atual e situação ambiental. Em seguida, os dados preliminares são validados por meio de visitas em campo.  As unidades de paisagem da bacia do ribeirão Santana foram identificadas preliminarmente cruzando as curvas de nível derivadas do modelo digital de elevação do SRTM e as imagens do Google Earth Pro. A interpretação da paisagem foi feita a partir da visualização 3D, com exagero vertical de 1,5. Em seguida, por meio de visita a campo nos meses de junho e setembro de 2020, a interpretação preliminar foi refinada. A análise foi finalizada com a identificação, locais de ocorrência, tipo de relevo, solo para cada unidade de paisagem, além de suas potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
 
 ![](img/figura11.png)
 
-### Disponibilidade hidrica
+### Disponibilidade hídrica
 
 O diagnóstico da disponibilidade hídrica se baseia nos dados de outorgas disponibilizados pelo Instituto Mineiro de Gestão das Águas (IGAM) e pela Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável de Minas Gerais (SEMAD). Foi determinado o código indentificador do curso d’água principal da bacia, no caso, Ribeirão Santama, com a base ottocodificada do IGAM. A hidrografia com os dados de regionalização de vazão para os cálculos necessários ao diagnóstico foi obtida no IDE-Sisema e as informações de outorgas e cadastro de uso insignificante solicitadas à SEMAD, nos termos do anexo III da metodologia ZAP.
 

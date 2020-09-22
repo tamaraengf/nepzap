@@ -365,11 +365,13 @@ Aptidões:
 
 #### Planícies e terraços fluviais	
 
-Ocorrência: Porção central e norte da bacia (eixo SW-NE, cotas entre 720 a 760m). Limita-se com as unidades: Complexo Côncavo-Convexo; Vertentes Ravinadas e Vertentes Retilíneas. Área mais antropizada da bacia contempla a sede urbana de Felício dos Santos.
+Ocorrência: Esta unidade de paisagem ocorre ao longo da porção média e baixa do ribeirão Santana, na região central e norte da bacia, em direção geral SW-NE, perfazendo 12.38 % de área. Ocorre entre as  cotas altimétricas de 720 a 760m. Limita-se com as unidades: Complexo Côncavo-Convexo; Vertentes Ravinadas e Vertentes Retilíneas. Trata-se da unidade de paisagem mais antropizada da bacia, contemplando a sede urbana de Felício dos Santos.
 
-Relevo: Relevo plano a suave ondulado. As Planícies contemplam as áreas mais baixas do relevo, distribuído ao longo dos cursos d´água e os terraços são as antigas planícies atualmente com cotas superiores
+Relevo: plano a suave ondulado. As Planícies contemplam as áreas mais baixas do relevo, distribuído ao longo dos cursos d´água e os terraços são as antigas planícies atualmente com cotas superiores (Figura XXX).
 
 Tipo de solo: Solos sedimentares predominando Neossolo Flúvico, Gleissolos nas planícies e nos terraços Cambissolos (observados na margem esquerda) nas partes mais elevadas ocorrem Argissolos.
+
+Inserir figura 
 
 Potencialidades:
 

@@ -313,30 +313,31 @@ Aptidões:
 
 #### Complexo côncavo convexo	
 
-Ocorrência: Porção centro-norte da bacia; Ocorrência sobre rocha granítica, denominada Granito Itanguá; limita-se com Superfícies Tabulares, Vertentes Ravinadas, Colinas de Topo Alongado; Terraços e Planícies Fluviais
+Ocorrência: A unidade de paisagem Complexo Côncavo-Convexo ocorre na porção centro-norte da bacia abrangendo 20,52% da sua área total. Ocorrência sobre rochas do Granitoide Rio Itanguá; limita-se com Superfícies Tabulares, Vertentes Ravinadas, Colinas de Topo Alongado; Terraços e Planícies Fluviais (Figura XXXXX).
 
-Relevo: Conjunto de Vertentes Côncavas e Convexas. Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%. Formam um sistema de captura e armazenamento de água pluvial.Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%
+Relevo: Conjunto de Vertentes Côncavas e Convexas. Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%, especialmente nos limites com a unidade de paisagem Superfícies Tabulares.  Formam um sistema de captura e armazenamento de água pluvial. 
 
 Tipo de solo: Argissolos, Cambissolos e Neossolo Litólico
 
-Potencialidades:
+Inserir figura concavo convexo
 
-1. Recursos hídricos superficiais abundantes
-2. O contato com outras unidades de paisagem potencializa: preservação ambiental pela presença de nascentes nos contatos com as Superfícies Tabulares e Colinas de Topo Alongado
-3. Agriculturas sazonais e perenes quanto em contato com Terraços e Planícies Fluviais
+
+Potencialidades:
+1.	Recursos hídricos superficiais abundantes. Esta potencialidade, especialmente com a ocorrência de Argissolos  condiciona o uso do solo com atividades agropecuárias nesta unidade de paisagem.  
+2.	O contato com as unidades Superfícies Tabulares e Colinas de Topo Alongado potencializa a preservação ambiental pela Áreas de Proteção Permanente (APP) do tipo Encostas (declividade > 45º) e  nascentes.
+3.	Agriculturas sazonais e perenes quanto em contato com Terraços e Planícies Fluviais
 
 Limitações:
-
-1. Relevo acidentado
-2. Solos rasos e suscetibilidade à erosão (Laminar e Sulco)
-3. Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
+1.	Relevo declivoso próximo a limites com as unidades de paisagem Superfícies Tabulares e Colinas de Topo Alongado.
+2.	Solos rasos e suscetibilidade à erosão (Laminar e Sulco) próximo a limites com as unidades de paisagem Superfícies Tabulares e Colinas de Topo Alongado.
+3.	Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
 
 Aptidões:
+1.	Áreas de preservação (APP do tipo Encostas e Nascentes) e quando próximas às Superfícies Tabulares, Vertentes Ravinadas e Colinas de Topo Alongado
+2.	Área de recarga de aquífero
+3.	Culturas permanentes quando relevo é suavizado, próximo a unidade Terraços e Planícies Fluviais
+4.	Apicultura, Culturas permanentes. Pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
-1. Áreas de preservação quando próximas às Superfícies Tabulares, Vertentes Ravinadas e Colinas de Topo Alongado
-2. Área de recarga de aquífero
-3. Culturas permanentes quando relevo é suavizado, próximo a unidade Terraços e Planícies Fluviais
-4. Apicultura, Culturas permanentes. Pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
 #### Superfícies tabulares	
 

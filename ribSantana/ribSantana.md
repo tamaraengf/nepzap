@@ -35,7 +35,7 @@ A bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na região
 
 A bacia do Ribeirão Santana está integralmente localizada no município de Felício dos Santos, a 369 km de Belo Horizonte, capital do estado. Com uma área de aproximadamente 7284.12 hectares, se insere na Unidade de Planejamento e Gestão de Recursos Hídricos do rio Araçuaí (UPGRH JQ2). O seu curso principal, Ribeirão Santana, deságua no Rio Araçuaí que, por sua vez, deságua no Rio Jequitinhonha. A área urbana do município de Felício dos Santos conta com cerca de 5.692 habitantes e está localizada na parte baixa da bacia. De acordo com a classificação de Köppen-Geiger, o regime climático na região da bacia é tropical de altitude (Cwb), caracterizado por verões brandos e úmidos e invernos frescos e secos. Os índices de precipitação variam de 1250 mm a 1550 mm e a temperatura média anual não ultrapassa os 20ºC. 
 
-No contexto geológico regional, a bacia do Ribeirão Santana é representado por três unidades: rochas metamórficas do Supergrupo Espinhaço (Grupo Diamantina) na porção alta da bacia, rochas metamórficas do Supergrupo São Francisco (grupo Macaúbas) na porção média da bacia e rochas ígnicas da unidade Granitóide Rio Itanguá. Por conta desta diversidade de substratos, a vegetação apresenta uma fisionomia diversifidada de campos rupestres a trechos de floreta semidecidual. Na porção sob influência do supergrupo Espinhaço, destacam-se os litotipos de metaconglomerados, quartzito e metapelito. Na porção do supergrupo São Francisco, destacam-se os litotipos metadiamictito, quartzito ferruginoso, grafita xisto e metapelito. Por fim, na porção Granitóide Rio Itanguá, destaca-se o litotipo granito.
+No contexto geológico regional, a bacia do Ribeirão Santana é representado por três unidades: rochas metamórficas do Supergrupo Espinhaço (Grupo Diamantina) na porção alta da bacia, rochas metamórficas do Supergrupo São Francisco (grupo Macaúbas) na porção média da bacia e rochas metaígneas da unidade Granitoide Rio Itanguá. Por conta desta diversidade de substratos, a vegetação apresenta uma fisionomia diversifidada de campos rupestres a trechos de floreta semidecidual. Na porção sob influência do Supergrupo Espinhaço, destacam-se os litotipos de metaconglomerados, quartzito e metapelito. Na porção do Supergrupo São Francisco, destacam-se os litotipos metadiamictito, quartzito ferruginoso, grafita xisto e metapelito. Por fim, na porção Granitoide Rio Itanguá, destaca-se o litotipo metagranitos.
 
 Os solos identificados na bacia são representados pelas classes dos cambissolo háplico, argissolo vermelho-amarelo, neossolo litólico e latossolo vermelho. O cambissolos háplico predomina na área da bacia, sendo ocupado principalmente por vegetação nativa e pastagem. No argissolo vermelho-amarelo predomina a ocupação urbana, pastagem e vegetação nativa. No neossolo litólico observa-se principalmente afloramantos rochosos e vegetação nativa, enquanto que no latossolo vermelho predomina a atividade silvicultural.
 
@@ -49,24 +49,25 @@ A bacia está localizada na Serra do Espinhaço e apresenta um relevo suave ondu
 
 ### Bases de dados
 
-Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo, softwares de geoprocessamento, processamento de imagens de satélite e dados oficiais de órgãos federais e estaduais. Enumerando:
+Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo, softwares de geoprocessamento, processamento digital de imagens de satélite e dados oficiais de órgãos federais e estaduais. Enumerando:
 
 - Software QGIS vesão 3.10 e plugins;
 - Software Google Earth Pro 7.3.2.5491, 64-bits;
 - Software Google Earth Engine;
-- Imagens Sentinel-2 e SRTM Global DEM;
-- Shapefile de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido no IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
-- Shapefile de ottobacias da bacia do Rio São Francisco, obtido no IDE-Sisema;
-- Shapefile dos municípios do Estado de Minas Gerais, obtido no IDE-Sisema;
-- Shapefile de Declaração de Áreas de Conflito (DAC) obtido no IDE-Sisema;
-- Shapefile de Unidades de Conservação obtido no IDE-Sisema; 
+- Imagens Sentinel-2;
+- Modelo de Elevação Alos Palsar;
+- Arquivo vetorial de drenagem da bacia do Rio São Francisco com escala de 1:100.000, obtido através da IDE-Sisema (Infraestrutura de Dados Espaciais do Sistema Estadual de Meio Ambiente e Recursos Hídricos);
+- Arquivo vetorial de ottobacias da bacia do Rio São Francisco, obtido no IDE-Sisema;
+- Arquivo vetorial dos municípios do Estado de Minas Gerais, obtido no IDE-Sisema;
+- Arquivo vetorial de Declaração de Áreas de Conflito (DAC) obtido no IDE-Sisema;
+- Arquivo vetorial de Unidades de Conservação obtido no IDE-Sisema; 
 - Mapa geológico da Folha Rio Vermelho, na escala de 1:100.000 (Projeto Espinhaço) da CODEMIG, versão 2014;
-- Mapa de classes de solos do Brasil na escala de 1:5.000.000 da EMBRAPA/RADAM;
+- Arquivo vetorial do mapa de classes de solos do Brasil na escala de 1:5.000.000 da EMBRAPA/RADAM;
 - Relatório dos usuários de água e de Hidrografia da bacia do Ribeirão Santana obtido junto a SEMAD.
 
 ### Unidades de paisagem
 
-As unidades de paisagem são inicialmente traçadas a partir dos mapas de solo, litologia, modelo digital de elevação e declividade. Em seguida, as unidades são validadas por meio de visitas em campo. A unidade de paisagem leva em consideração a especificidade local e seus componentes físicos (geologia, relevo e solos), bióticos (vegetação nativa) e socioeconômicos (atividades antrópicas). As unidades de paisagem foram identificadas preliminarmente cruzando as curvas de nível derivadas do modelo digital de elevação do SRTM e as imagens do Google Earth Pro. A interpretação da paisagem foi feita a partir da visualização 3D, com exagero vertical de 1,5. A caracterização de cada Unidade de Paisagem leva em consideração a morfologia, o embasamento geológico/pedológico, cobertura vegetal nativa original, uso atual e situação ambiental. Em seguida, por meio de visita a campo, a interpretação preliminar é refinada. A análise foi finalizada com a identificação, para cada unidade de paisagem, das potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
+As Unidades de Paisagem são inicialmente traçadas a partir dos mapas de solo, geologia (embasamento geológico/pedológico), morfologia do relevo, modelo digital de elevação e declividade. Considera-se, ainda, a cobertura vegetal nativa original, uso atual e situação ambiental. Em seguida, os dados preliminares são validados por meio de visitas em campo.  As unidades de paisagem da bacia do ribeirão Santana foram identificadas preliminarmente cruzando as curvas de nível derivadas do modelo digital de elevação do SRTM e as imagens do Google Earth Pro. A interpretação da paisagem foi feita a partir da visualização 3D, com exagero vertical de 1,5. Em seguida, por meio de visita a campo nos meses de junho e setembro de 2020, a interpretação preliminar foi refinada. A análise foi finalizada com a identificação, locais de ocorrência, tipo de relevo, solo para cada unidade de paisagem, além de suas potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
 
 ![](img/figura11.png)
 
@@ -238,37 +239,39 @@ Nove unidades de paisagem foram identificadas na bacia do Ribeirão Santana: afl
 
 #### Afloramento
 
-Ocorrência: Porção sul da bacia; grande distribuição areal; vincula-se à quartzitos do Supergrupo Espinhaço; Região mais elevada (cotas entre 1740 a 900m). Limita-se com as Vertentes Ravinadas e contém Vales Encaixados;	De escarpas a rampas rochosas, com mergulho preferencial para Leste que condicionam uma hidrografia local dos tipos Subsequentes (determinados por zonas de fraquezas) e consequentes condicionados pelo mergulho da camada litológica.
-
-Relevo: Expressiva área com declividade predominante acima de 45% podendo nas porções mais cimeiras e/ou mais dissecadas apresentar declividade superior a 75%.	
-
+Ocorrência: A unidade Afloramento ocorre na porção sul da bacia do Ribeirão Santana abrangendo 27,78% do total da área. A unidade vincula-se predominantemente aos quartzitos do Supergrupo Espinhaço, de ocorrência nas regiões mais elevada da bacia, em cotas altimétricas entre 1740 a 900m. Caracteriza-se por escarpas a rampas rochosas, com mergulho preferencial para Leste que condicionam uma hidrografia local dos tipos Subsequentes (determinados por zonas de fraquezas) e consequentes condicionados pelo mergulho da camada litológica. Limita-se com a unidade de paisagem de Vertentes Ravinadas e contém a unidade de Vales Encaixados (Figura XXXX)
+Relevo: Expressiva área com declividade predominante acima de 45% podendo nas porções mais cimeiras e/ou mais dissecadas apresentar declividade superior a 75%.
 Tipo de solo: Neossolo litólico;	
 
-Potencialidades:
 
-1. Beleza cênica
-2. Sítios de Geodiversidade 
-3. Aquíferos fraturados	
+Inserir figura afloramento
+
+Potencialidades:
+1.	Beleza cênica: com ocorrência de quedas d’água e  águas superficiais cristalinas e oxigenadas
+2.	Sítios de Geodiversidade: potencialidade vinculadas a  aspectos naturais geológicos  e  geomorfológicos, como formas de relevo e seus processos de formação que podem revelar alto valor para ciência, educação, cultura ou mesmo o turismo.
+3.	Aquíferos fraturados: Potencialidade de  armazenamento de água subterrânea entre fraturas dos quartzitos. A quantidade de água existente nesse aquífero está diretamente relacionada  ao número de fraturas.
 
 Limitações:
-
-1. Acessibilidade
-2. Relevo acidentado
-3. Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
-4. Solos com baixa fertilidade	
+1.	Acessibilidade. Sem estradas vicinais nem trilhas para acesso
+2.	Relevo acidentado 
+3.	Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+4.	Ausência de solos pela ocorrência em superfície de afloramentos quartzíticos e solos com baixa fertilidade.
 
 Aptidões:
+1.	Pesquisas científicas em Campos Rupestres. As formações campestres da Serra do Espinhaço são extremamente relevantes para estudos por apresentarem alta diversidade de espécies de plantas, a maior parte delas endêmica (que ocorre exclusivamente naquela região). A ocorrência destas formações consiste em um dos principais motivos para a declaração, pela Unesco, da Reserva da Biosfera da Serra do Espinhaço.
+2.	Ecoturismo. 
 
-1. Pesquisas científicas em Campos Rupestres
-2. Ecoturismo
 
 #### Anfiteatro
 
-Ocorrência: Porção centro-leste da bacia. Vincula-se ao domínio do Granito Itanguá. Limita-se com as unidades Complexo Côncavo-Convexo; Colina de Topo Alongado Terraços e Planícies Fluviais. Variação de cota entre 860 a 740m). Trata-se de uma vertente côncava aberta.	
+Ocorrência: A unidade Anfiteatro tem ocorrência restrita na porção centro-leste da bacia, com 0,65% do total da área (Figura XXXX).  Vincula-se ao domínio do Granito Itanguá, em cotas altimétricas que variam entre 860 a 740m. Limita-se com as unidades: Complexo Côncavo-Convexo; Colina de Topo Alongado Terraços e Planícies Fluviais. Trata-se de uma vertente côncava aberta. 
 
-Relevo: Típico circo de erosão apresentando declividade predominante de até 20% podendo nas partes mais declivosas atingir cercas de 45%. Tem a fisiografia de um vale semicircular cuja bacia de recepção é sensivelmente larga e pouco declivosa. Apresenta um residual de uma paleovertente. A concavidade dessa unidade permite a concentração de águas pluviais e sedimentos, mantendo os solos inseridos em satisfatórias condições de umidade.	
+Relevo: Típico circo de erosão apresentando declividade predominante de até 20% podendo nas partes mais declivosas atingir cercas de 45%. Tem a fisiografia de um vale semicircular cuja bacia de recepção é sensivelmente larga e pouco declivosa. Apresenta um residual de uma paleovertente. A concavidade dessa unidade permite a concentração de águas pluviais e sedimentos, mantendo os solos inseridos em satisfatórias condições de umidade.
 
 Tipo de solo: Argissolo e Cambissolos	
+
+
+inserir FIgura anfiteatro
 
 Potencialidades:
 
@@ -287,62 +290,64 @@ Aptidões:
 
 #### Colinas de topo alongado	
 
-Ocorrência: Porção leste da bacia (eixo SW-NE); Encontra-se no domínio do Granito Itanguá. Limita-se com as unidades: Complexo Côncavo-Convexo; Anfiteatro e Vertentes Retilíneas. Parte superior da encosta (cotas entre 900 a 840m).
+Ocorrência: Esta unidade localiza-se na porção leste da bacia, com uma direção geral SW-NE, abrangendo cerca de 2,24% da área total. Encontra-se no domínio do Granitoide Rio Itanguá, na parte superior de encostas entre as cotas altimétricas de 900 e 840m. Limita-se com as unidades: Complexo Côncavo-Convexo; Anfiteatro e Vertentes Retilíneas (Figura XXXX).
 
 Relevo: Elevação alongada e relativamente ilhada, sugerindo ser testemunho de uma paleosuperfície por não apresentar uma conectividade no seu modelado. Fisiografia consequente da dissecação que condicionou a unidade Planície/Terraços Fluviais. 
 
 Tipo de solo: Predominância de Argissolo podendo ocorrer Latossolos
 
-Potencialidades:
+Inserir figura topo alongado
 
-1. Relevo suave
-2. Solos profundos
-3. Áreas de Recarga
+
+Potencialidades:
+1.	Relevo suave
+2.	Solos profundos
+3.	Áreas de Recarga
 
 Limitações:
-
-1. Uso limitado por ser topo de morro (Código Florestal)
-2. Predisposição a processos erosivos principalmente nas áreas de Argissolos
-3. Solos com baixa fertilidade
+1.	Uso limitado por ser topo de morro (Código Florestal)
+2.	Predisposição a processos erosivos principalmente nas áreas de Argissolos
+3.	Solos com baixa fertilidade
 
 Aptidões:
+1.	Áreas de preservação permanente (APP) do tipo Topo de Morro
+2.	Manutenção de vegetação nativa (Floresta Estacional Semi-Decidual)
+3.	Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
-1. Áreas de preservação permanente do tipo Topo de Morro
-2. Manutenção de vegetação nativa (Floresta Estacional Semi-Decidual)
-3. Apicultura, culturas permanentes, pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
 #### Complexo côncavo convexo	
 
-Ocorrência: Porção centro-norte da bacia; Ocorrência sobre rocha granítica, denominada Granito Itanguá; limita-se com Superfícies Tabulares, Vertentes Ravinadas, Colinas de Topo Alongado; Terraços e Planícies Fluviais
+Ocorrência: A unidade de paisagem Complexo Côncavo-Convexo ocorre na porção centro-norte da bacia abrangendo 20,52% da sua área total. Ocorrência sobre rochas do Granitoide Rio Itanguá; limita-se com Superfícies Tabulares, Vertentes Ravinadas, Colinas de Topo Alongado; Terraços e Planícies Fluviais (Figura XXXXX).
 
-Relevo: Conjunto de Vertentes Côncavas e Convexas. Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%. Formam um sistema de captura e armazenamento de água pluvial.Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%
+Relevo: Conjunto de Vertentes Côncavas e Convexas. Expressiva área com declividade predominante acima de 45% podendo nas partes mais declivosas atingir 75%, especialmente nos limites com a unidade de paisagem Superfícies Tabulares.  Formam um sistema de captura e armazenamento de água pluvial. 
 
 Tipo de solo: Argissolos, Cambissolos e Neossolo Litólico
 
-Potencialidades:
+Inserir figura concavo convexo
 
-1. Recursos hídricos superficiais abundantes
-2. O contato com outras unidades de paisagem potencializa: preservação ambiental pela presença de nascentes nos contatos com as Superfícies Tabulares e Colinas de Topo Alongado
-3. Agriculturas sazonais e perenes quanto em contato com Terraços e Planícies Fluviais
+
+Potencialidades:
+1.	Recursos hídricos superficiais abundantes. Esta potencialidade, especialmente com a ocorrência de Argissolos  condiciona o uso do solo com atividades agropecuárias nesta unidade de paisagem.  
+2.	O contato com as unidades Superfícies Tabulares e Colinas de Topo Alongado potencializa a preservação ambiental pela Áreas de Proteção Permanente (APP) do tipo Encostas (declividade > 45º) e  nascentes.
+3.	Agriculturas sazonais e perenes quanto em contato com Terraços e Planícies Fluviais
 
 Limitações:
-
-1. Relevo acidentado
-2. Solos rasos e suscetibilidade à erosão (Laminar e Sulco)
-3. Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
+1.	Relevo declivoso próximo a limites com as unidades de paisagem Superfícies Tabulares e Colinas de Topo Alongado.
+2.	Solos rasos e suscetibilidade à erosão (Laminar e Sulco) próximo a limites com as unidades de paisagem Superfícies Tabulares e Colinas de Topo Alongado.
+3.	Solos com baixa fertilidade podendo ocorrer Cambissolos com fertilidade média
 
 Aptidões:
+1.	Áreas de preservação (APP do tipo Encostas e Nascentes) e quando próximas às Superfícies Tabulares, Vertentes Ravinadas e Colinas de Topo Alongado
+2.	Área de recarga de aquífero
+3.	Culturas permanentes quando relevo é suavizado, próximo a unidade Terraços e Planícies Fluviais
+4.	Apicultura, Culturas permanentes. Pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
-1. Áreas de preservação quando próximas às Superfícies Tabulares, Vertentes Ravinadas e Colinas de Topo Alongado
-2. Área de recarga de aquífero
-3. Culturas permanentes quando relevo é suavizado, próximo a unidade Terraços e Planícies Fluviais
-4. Apicultura, Culturas permanentes. Pastagens, silvicultura, fruticultura arbórea, cafeicultura
 
 #### Superfícies tabulares	
 
-Ocorrência: Porção NW da bacia; cotas altimétricas entre 960 e 940m. Limita-se com as unidades: Vertentes Ravinadas e Complexo Côncavo-Convexo. Áreas de recarga de aquífero que determinam o uso e ocupação do solo tradicional nas meias vertentes e fundo de vale, sistema chapada-grota. Remanescentes de Cerrado Sentido Restrito, mas com intensa ocupação por silvicultura (eucalipto).  
+Ocorrência: A unidade Superfícies Tabulares ocorre na porção NW da bacia abrangendo 5,67% da área total. Ocorre sobre quartzitos sericíticos do Grupo Macaúbas em cotas altimétricas entre 960 e 940m. Limita-se com as unidades: Vertentes Ravinadas e Complexo Côncavo-Convexo. Áreas de recarga de aquífero que determinam o uso e ocupação do solo tradicional nas meias vertentes e fundo de vale, sistema chapada-grota. Remanescentes de Cerrado Sentido Restrito, mas com intensa ocupação por silvicultura (eucalipto) (Figura XXXXX) 
 
-Relevo: Forma topográfica que se assemelha a planaltos, limitados por vertentes abruptas. regionalmente (Alto Jequitinhonha) é denominada como “chapadas”. 
+Relevo: Forma topográfica que se assemelha a planaltos, limitados por vertentes abruptas. Regionalmente, no Alto Jequitinhonha, esta unidade de paisagem é denominada “chapada”. 
 
 Tipo de solo: Latossolo vermelho
 
@@ -355,8 +360,10 @@ Potencialidades:
 
 Limitações:
 
-1. Solos com baixa fertilidade, elevada acidez
-2. Escassez de recurso hídrico superficial
+1.	Áreas de preservação (APP do tipo borda de Tabuleiros ou Chapadas (100 m em projeção horizontal até a linha de ruptura do relevo)
+2.	Solos com baixa fertilidade, elevada acidez
+3.	Escassez de recurso hídrico superficial
+
 
 Aptidões:
 
@@ -365,11 +372,13 @@ Aptidões:
 
 #### Planícies e terraços fluviais	
 
-Ocorrência: Porção central e norte da bacia (eixo SW-NE, cotas entre 720 a 760m). Limita-se com as unidades: Complexo Côncavo-Convexo; Vertentes Ravinadas e Vertentes Retilíneas. Área mais antropizada da bacia contempla a sede urbana de Felício dos Santos.
+Ocorrência: Esta unidade de paisagem ocorre ao longo da porção média e baixa do ribeirão Santana, na região central e norte da bacia, em direção geral SW-NE, perfazendo 12.38 % de área. Ocorre entre as  cotas altimétricas de 720 a 760m. Limita-se com as unidades: Complexo Côncavo-Convexo; Vertentes Ravinadas e Vertentes Retilíneas. Trata-se da unidade de paisagem mais antropizada da bacia, contemplando a sede urbana de Felício dos Santos.
 
-Relevo: Relevo plano a suave ondulado. As Planícies contemplam as áreas mais baixas do relevo, distribuído ao longo dos cursos d´água e os terraços são as antigas planícies atualmente com cotas superiores
+Relevo: plano a suave ondulado. As Planícies contemplam as áreas mais baixas do relevo, distribuído ao longo dos cursos d´água e os terraços são as antigas planícies atualmente com cotas superiores (Figura XXX).
 
 Tipo de solo: Solos sedimentares predominando Neossolo Flúvico, Gleissolos nas planícies e nos terraços Cambissolos (observados na margem esquerda) nas partes mais elevadas ocorrem Argissolos.
+
+Inserir figura 
 
 Potencialidades:
 
@@ -391,36 +400,39 @@ Aptidões:
 
 #### Vales em V encaixado	
 
-Ocorrência: Vale fechado em V na porção centro-sul da bacia em unidades de Afloramento de Quartzito e Vertentes Ravinadas. Vegetação arbórea densa, pela presença de água.
-
-Relevo: Vales com vertentes íngremes e rochosas, planícies e terraços fluviais imperceptíveis. 
+Ocorrência: A unidade de paisagem Vale em V ocorre na porção centro-sul da bacia, nas regiões mais elevadas, em cotas altimétricas entre 1740 a 900m. Ocupa cerca de 3.58% da área da bacia. É associada à hidrografia local dos drenagens  subsequentes (determinados por zonas de fraquezas) e consequentes (condicionados pelo mergulho das camadas quartzíticas). Limita-se com as unidades de Afloramento (quartzitos do Supergrupo Espinhaço) e Vertentes Ravinadas. Caracteriza-se por ocorrência de uma vegetação arbórea densa, pela presença de água.
+Relevo: Vales com vertentes íngremes e rochosas, planícies e terraços fluviais imperceptíveis.
 
 Tipo de solo: Neossolo Litólico
 
-Potencialidades:
+inserir figura vale em V
 
-1. Área do curso principal do Rib. Santana e tributários que estão em planos de fratura dos quartzitos (nascentes)
+Potencialidades:
+1.	Porção alta do curso principal do ribeirão Santana e tributários que estão em planos de fratura dos quartzitos (nascentes), proporcionando aquíferos fraturados.
+2.Abundância de recursos hídricos superficiais, com ocorrência de quedas d’água e  águas superficiais cristalinas e oxigenadas
 
 Limitações:
-
-1. Relevo fortemente acidentado
-2. Difícil acesso
-3. Declividade acentuada (45 a 75%)
-4. Solos com baixa fertilidade
+1.	Relevo fortemente acidentado
+2.	Acessibilidade. Sem estradas vicinais nem trilhas para acesso
+3.	Declividade acentuada (45 a 75%)
+4.	Ausência de solos 
+5.	Parte da unidade está Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
 
 Aptidões:
+1.	Áreas para preservação permanente (APP de Mata Ciliar e Nascentes) 
+2.	Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
+3.	Refúgio Silvestre
 
-1. Áreas para preservação permanente e proteção de nascentes
-2. Inserida na Zona de Amortecimento do Parque Estadual do Rio Preto
-3. Beleza Cênica
 
 #### Vertentes ravinadas	
 
-Ocorrência: Alta representatividade areal; porção central (eixo NW-SE) da bacia; ocorrência em quartzitos sericíticos do Grupo Macaúbas;Limita-se com as unidades: Superfícies Tabulares; Complexo Côncavo-Convexo; Afloramentos de Quartzitos, Terraços e Planícies Fluviais e Vale encaixado.
+Ocorrência: As Vertentes ravinadas ocorrem porção central da bacia (eixo NW-SE) com alta representatividade areal, cerca de 27.87% da área total. Caracteriza-se pelo substrato com predominância dos quartzitos sericíticos do Grupo Macaúbas; Limita-se com as unidades: Superfícies Tabulares; Complexo Côncavo-Convexo; Afloramentos de Quartzitos, Terraços e Planícies Fluviais e Vale em V encaixado (Figura XXXX). 
 
-Relevo: Assemelham-se as vertentes do Complexo Côncavo-Convexo, porém as os processos da erosão pluvial são marcantes.
+Relevo: Assemelham-se as vertentes do Complexo Côncavo-Convexo, porém os processos da erosão pluvial são marcantes.
 
 Tipo de solo: Cambissolo e Neossolo Litólico
+
+nseir figura vertente ravinada
 
 Potencialidades: 
 

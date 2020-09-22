@@ -264,11 +264,14 @@ Aptidões:
 
 #### Anfiteatro
 
-Ocorrência: Porção centro-leste da bacia. Vincula-se ao domínio do Granito Itanguá. Limita-se com as unidades Complexo Côncavo-Convexo; Colina de Topo Alongado Terraços e Planícies Fluviais. Variação de cota entre 860 a 740m). Trata-se de uma vertente côncava aberta.	
+Ocorrência: A unidade Anfiteatro tem ocorrência restrita na porção centro-leste da bacia, com 0,65% do total da área (Figura XXXX).  Vincula-se ao domínio do Granito Itanguá, em cotas altimétricas que variam entre 860 a 740m. Limita-se com as unidades: Complexo Côncavo-Convexo; Colina de Topo Alongado Terraços e Planícies Fluviais. Trata-se de uma vertente côncava aberta. 
 
-Relevo: Típico circo de erosão apresentando declividade predominante de até 20% podendo nas partes mais declivosas atingir cercas de 45%. Tem a fisiografia de um vale semicircular cuja bacia de recepção é sensivelmente larga e pouco declivosa. Apresenta um residual de uma paleovertente. A concavidade dessa unidade permite a concentração de águas pluviais e sedimentos, mantendo os solos inseridos em satisfatórias condições de umidade.	
+Relevo: Típico circo de erosão apresentando declividade predominante de até 20% podendo nas partes mais declivosas atingir cercas de 45%. Tem a fisiografia de um vale semicircular cuja bacia de recepção é sensivelmente larga e pouco declivosa. Apresenta um residual de uma paleovertente. A concavidade dessa unidade permite a concentração de águas pluviais e sedimentos, mantendo os solos inseridos em satisfatórias condições de umidade.
 
 Tipo de solo: Argissolo e Cambissolos	
+
+
+inserir FIgura anfiteatro
 
 Potencialidades:
 

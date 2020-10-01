@@ -27,7 +27,7 @@ Três produtos principais compõem este estudo: (1) caracterização das unidade
 
 A bacia do Ribeirão Santana, contemplada neste ZAP, está localizada na Mesorregião do Jequitinhonha, Microregião de Diamantina, no município de Felício dos Santos e pertence à Unidade de Planejamento e Gestão de Recursos Hídricos do Rio Araçuaí (UPGRH JQ2). Não há registro de conflitos pelo uso da água na sub bacia do Ribeirão Santana, e a demanda está concentrada na parte baixa da bacia, nas imediações na sede urbana do município. No entanto, este estudo é peça fundamental no planejamento e gestão do espaço para evitar e mitigar potenciais conflitos. Além da gestão do uso dos recursos hídricos, o ZAP subsidia o planejamento territorial visando a conservação e potencializando a utilização ótima de cada unidade de trabalho. Este relatório apresenta um diagnóstico completo da bacia, incluindo caracterização da paisagem, limitações, potencialidades de uso e conflito. Sendo, portanto, o ponto de partida para a implantação de futuros projetos e desenvolvimento de políticas públicas. A ausência de estudos socioambientais, na área onde se encontra a bacia do Ribeirão Santana, faz com que a aplicação da metodologia ZAP se torne ainda mais relevante. 
 
-![](img/fig1_limites.png)
+![](img/fig1.png)
 
 ## Desenvolvimento
 
@@ -37,15 +37,17 @@ A bacia do Ribeirão Santana está integralmente localizada no município de Fel
 
 No contexto geológico regional, a bacia do Ribeirão Santana é representado por três unidades: rochas metamórficas de origem sedimentar do Supergrupo Espinhaço (Grupo Diamantina) na porção alta da bacia e do Supergrupo São Francisco (Grupo Macaúbas) na porção média da bacia. Na porção baixa e leste há ocorrência de rochas metamórficas de origem ígnea, o Batólito Itanguá. Por conta desta diversidade de substratos, a vegetação apresenta fisionomias diversifidadas desde Campos Rupestres a trechos de Floresta Estacional Semidecidual. Na porção sob influência do Supergrupo Espinhaço, destacam-se os quartzitos, metaconglomerados e metapelitos subordinados. Na porção do Grupo Macaúbas destacam-se os metapelitos, metadiamictitos e com menor ocorrência, quartzitos ferruginosos e grafita xistos. Por fim, na porção do Batólito Itanguá, destaca-se o litotipo granito-gnaisse.
 
+![](img/fig2.png)
+
 Os solos identificados na bacia são representados pelas classes dos Cambissolo Háplico, Argissolo Vermelho-Amarelo, Neossolo Litólico e Latossolo Vermelho. O cambissolos háplico predomina na área da bacia, sendo ocupado principalmente por vegetação nativa e pastagem. No argissolo vermelho-amarelo predomina a ocupação urbana, pastagem e vegetação nativa. No neossolo litólico observa-se principalmente afloramantos rochosos e vegetação nativa, enquanto que no latossolo vermelho predomina a atividade silvicultural.
 
-![](img/fig03_solos.png)
+![](img/fig3.png)
 
 A bacia está localizada na Serra do Espinhaço e apresenta um relevo suave ondulado na porção baixa da bacia a ondulado a montanhoso na porção alta da bacia. A elevação varia de 1826 metros na cabeceira bacia, até 709 metros no encontro com o Rio Araçuaí. A declividade predominante está entre valores 0 e 8%, no entanto a porções da bacia com declividade atingindo 45%. O alto e médio da bacia está dentro de uma área de proteção ambiental denominada APA Municipal Felício dos Santos, instituído pela lei 502 de 27/03/03.
 
-![](img/figura4.png)
+![](img/fig4.png)
 
-![](img/figura5.png)
+![](img/fig5.png)
 
 ### Bases de dados
 
@@ -69,7 +71,7 @@ Este estudo foi realizado a partir de pesquisas bibliográficas, visita de campo
 
 As Unidades de Paisagem são inicialmente traçadas a partir dos mapas de solo, geologia (embasamento geológico/pedológico), morfologia do relevo, modelo digital de elevação e declividade. Considera-se, ainda, a cobertura vegetal nativa original, uso atual e situação ambiental. Em seguida, os dados preliminares são validados por meio de visitas em campo.  As unidades de paisagem da bacia do ribeirão Santana foram identificadas preliminarmente cruzando as curvas de nível derivadas do modelo digital de elevação do SRTM e as imagens do Google Earth Pro. A interpretação da paisagem foi feita a partir da visualização 3D, com exagero vertical de 1,5. Em seguida, por meio de visita a campo nos meses de junho e setembro de 2020, a interpretação preliminar foi refinada. A análise foi finalizada com a identificação, locais de ocorrência, tipo de relevo, solo para cada unidade de paisagem, além de suas potencialidades, limitações, fragilidades e aptidões para fins múltiplos.
 
-![](img/figura11.png)
+![](img/fig11.png)
 
 ### Disponibilidade hídrica
 
@@ -99,7 +101,7 @@ A bacia apresenta inúmeros represamentos, de área inferior a 1 hectare, espalh
 
 ### Descrição técnica das observações de campo
 
-![](img/fig17_inspecao.jpg)
+![](img/fig17.jpg)
 
 #### Ponto 1
 
@@ -327,7 +329,7 @@ Inserir figura concavo convexo
 
 
 Potencialidades:
-1.	Recursos hídricos superficiais abundantes. Esta potencialidade, especialmente com a ocorrência de Argissolos  condiciona o uso do solo com atividades agropecuárias nesta unidade de paisagem.  
+1.	Recursos hídricos superficiais abundantes. Esta potencialidade, especialmente com a ocorrência de Argissolos  condiciona o uso do solo com atividades agropecuárias nesta unidade de paisagem.
 2.	O contato com as unidades Superfícies Tabulares e Colinas de Topo Alongado potencializa a preservação ambiental pela Áreas de Proteção Permanente (APP) do tipo Encostas (declividade > 45º) e  nascentes.
 3.	Agriculturas sazonais e perenes quanto em contato com Terraços e Planícies Fluviais
 
@@ -502,9 +504,7 @@ As Unidades de Paisagem com maior representatividade na bacia são as vertentes 
 
 O diagnóstico realizado identificou 3 processos de cadastro de uso insignificante e 1 processo de outorga de uso individual, totalizando 4 usuários de água com processos vigentes na bacia e com os critérios de inclusão neste estudo. Este número é sem dúvida muito inferior ao número de usuários real de água. As outorgas estão distribuídas no curso principal do Ribeirão Santana, no médio e baixo. O uso da água na bacia têm como finalidade principal o abastecimento humano e a irrigação de pequenos cultivos agrícolas.Não há demanda hídrica na bacia para uso intensivo da água para irrigação de grandes áreas e pivôs, predominando a criação extensiva de animais, com pequenas lavouras espalhadas principalmente na porção média e baixa da bacia. A vazão limite para cadastro de uso insignificante na região é de 0,5L/s (0,0005m³/s).
 
-![](img/fig7_outorgasTipo.png)
-
-![](img/fig8_demanda.png)
+![](img/fig7.png)
 
 Dois usuários com cadastro de uso insignificante estão localizados no trecho 75829983 do Ribeirão Santana, e um único usuário com cadastro de uso insignificante está localizado no trecho 7582998591. Esses usuários não comprometem a disponibilidade hídrica nos seus respectivos trechos do curso d'água. No trecho 7582998733 a vazão outorgada encontra-se acima do limite de 50% da Q710, comprometendo disponibilidade hídrica do Ribeirão Santana. 
 
@@ -516,9 +516,11 @@ Dois usuários com cadastro de uso insignificante estão localizados no trecho 7
 
 Obs: Qmld = Vazão média de longo período; Q7,10 = Vazão de referência;  Q outorgável = 50%Q7,10; Qreg = vazão potencial de regularização; QDH = vazão de disponibilidade hídrica; Viabilidade de regularização de Q: se Qreg + QDH > 0, há viabilidade
 
-![](img/fig9_disponibilidade.png)
+![](img/fig9.png)
 
 É importante ressaltar que alguns processos vencidos não tomaram iniciativa de realizar a renovação e existem captações observadas em campo que não se encontram na base do SIAM. Desta maneira, os dados oficiais validados mostram um cenário incompatível com a realidade da bacia em estudo. Recomenda-se que o poder público e os órgãos extensionistas realizem campanhas sobre a importância da solicitação de outorga para o real compreensão da demanda de água na bacia.
+
+![](img/fig10.png)
 
 ### Uso e ocupação do solo
 
@@ -546,7 +548,7 @@ Representando 1,6% da área da bacia o cultivo de floresta plantada se faz prese
 
 As áreas de preservação permanente, regulamentadas por lei (MINAS GERAIS, 2013), são áreas que devem ser preservadas para que não haja significantes alterações ambientais capazes de desestabilizar ecossistemas. Foram identificadas as APPs hídricas diferenciadas por: i) nascentes e ii) cursos d’água. Não houveram represas com área superior a 1 ha, sendo portanto dispensadas de possuirem área de preservação permanente. Nas nascentes foi aplicado um buffer de 50 e ao longo dos cursos d'água um buffer de 30 metros. A área total de APPs hídrica da bacia do Ribeirão Santana é cerca de 854,52 hectares, representando aproximadamente 12% de toda a área de estudo. Foram identificadas 166 nascentes após correção da hidrografia, incluindo nascentes de cursos d’água intermitentes, totalizando 119,4 hectares.
 
-![](img/fig13_appHidrica.png)
+![](img/fig13.png)
 
 ## Considerações gerais
 
@@ -556,7 +558,7 @@ Nesta seção serão apresentandos os conflitos referentes ao uso do solo com as
 
 As classes de uso do solo vegetação nativa e afloramento rochoso foram consideradas conservadas, enquanto as classes floresta plantada, benfeitorias, agricultura, urbana, solo exposto e pastagem foram consideradas antropisadas. A classe de represa foi desconsiderada por representar corpos hídricos. O índice de conservação da bacia foi de 76,96%. Este índice indica o grau de ocupação da bacia com atividades antrópicas. No entanto, ele não deve ser avaliado de forma isolada. 
 
-![](img/fig14_areaAntropizada.png)
+![](img/fig14.png)
 
 A bacia apresenta um grau de antropização diferente conforme região analizada. A concentração das atividades antrópicas na parte média e baixa da bacia coincide com as unidades de paisagem de maior aptidão para agricultura e pastagem. A parte alta da bacia, onde predomima a unidade de paisagem de afloramentos rochosos, é a porção mais preservada.
 
@@ -571,7 +573,7 @@ A bacia apresenta um grau de antropização diferente conforme região analizada
 
 A informação de APPs hídricas conservadas e antropizadas pode ser utilizada para indicar áreas prioritárias para recuperação. Espacialmente, as APPs hídricas conservadas são representadas pela interseção entre as classes de uso e ocupação do solo vegetação nativa e afloramento rochoso. Já as APPs antropizadas são interseccionadas com as classes de uso e ocupação do solo benfeitorias, pastagem, agricultura, silvicultura, área urbana e solo exposto. o índice de antropização das APPs hídricas foi de 20%.
 
-![](img/fig15_appAntropizada.png)
+![](img/fig15.png)
 
 | Tipos de área | Área (ha) | Representatividade (%) |
 |---------------|-----------|------------------------|
@@ -596,7 +598,7 @@ O cálculo de concentração de nascentes possibilita a visualização numérica
 
 O conflito entre unidades de paisagem e uso e ocupação do solo expõe as áreas da bacia que sofrem maior impacto ambiental por determinado tipo de uso em certa unidade de paisagem. É um importante subproduto a ser analisado para determinar áreas que devem sofrer intervenção em seu uso visando uma melhor conservação da bacia. Áreas de conflito são obtidas por meio da interseção entre estes dois produtos utilizando técnicas de geoprocessamento. É identificada a quantidade de área que cada classe de uso do solo representa nas unidades de paisagem e decidido, a partir das aptidões das unidades de paisagem e visitas de campo, onde há compatibilidade e incompatibilidade de usos. As áreas associadas à classe de conflito “controle e manejo” podem ser utilizadas para agricultura ou pecuária desde que sejam utilizadas técnicas de controle e manejo do solo adequadas. A classificação “não aplicável” foi dada às classes de uso não passíveis de alteração por inviabilidade ou consolidação de uso, como exemplo área urbanas e minerárias.
 
-![](img/fig16_conflitoUso.png)
+![](img/fig16.png)
 
 | Uso e unidade de paisagem | Área (ha) | Representatividade (%) |
 |---------------------------|-----------|------------------------|

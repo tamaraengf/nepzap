@@ -39,7 +39,7 @@ No contexto geológico regional, a bacia do Ribeirão Santana é representado po
 
 ![](img/fig2.png)
 
-Os solos identificados na bacia são representados pelas classes dos Cambissolo Háplico, Argissolo Vermelho-Amarelo, Neossolo Litólico e Latossolo Vermelho. O cambissolos háplico predomina na área da bacia, sendo ocupado principalmente por vegetação nativa e pastagem. No argissolo vermelho-amarelo predomina a ocupação urbana, pastagem e vegetação nativa. No neossolo litólico observa-se principalmente afloramantos rochosos e vegetação nativa, enquanto que no latossolo vermelho predomina a atividade silvicultural.
+Os solos identificados na bacia são representados pelas classes dos Cambissolo Háplico, Argissolo Vermelho-Amarelo, Neossolo Litólico e Latossolo Vermelho. O cambissolos háplico predomina na área da bacia, sendo ocupado principalmente por vegetação nativa e pastagem. No argissolo vermelho-amarelo predomina a ocupação urbana, pastagem e vegetação nativa. No neossolo litólico observa-se principalmente afloramentos rochosos e vegetação nativa, enquanto que no latossolo vermelho predomina a atividade silvicultural.
 
 ![](img/fig3.png)
 
@@ -632,3 +632,6 @@ Todos os índices calculados para a bacia do Ribeirão Santana estão reunidos n
 | Índice de Antropização das APPs hídricas | 19,80 % |
 | Índice de Concentração de Nascentes      | 1,77    |
 | Índice de Uso Conflitante na bacia       | 4,40 %  |
+
+## Conclusão
+Diante do presente estudo realizado no município de Felício dos Santos na bacia hidrográfica do Rio Ribeirão Santana conclui-se:Zoneamento Ambiental e Produtivo (ZAP) é uma metodologias que podem ser empregada e que visa contribuir para o planejamento e orientação das políticas públicas e das ações em meio ambiente nas regiões; Contribuindo de forma positiva para estudos de avaliação ambiental. 
